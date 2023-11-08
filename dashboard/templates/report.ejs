@@ -1,0 +1,21 @@
+<%- include("partials/header", { bot, user, path, title: `Report user` }) %>
+
+<div class="container-sm center" style="margin-top: 30px;">
+  <div class="d-grid gap-2 col-4 mx-auto">
+      
+    <hr>
+    <form method="POST">
+      <p class="h5" style="margin-bottom: 0.5rem; margin-top: 10px;">Usuario</p>
+      <input type="text" class="form-control" name="prefix" value="<%= settings.prefix %>" placeholder="¿Quién sera?">
+      <p class="h5" style="margin-bottom: 0.5rem; margin-top: 10px;">ID</p>
+      <input type="text" class="form-control" name="prefix" value="<%= settings.prefix %>" placeholder="¿Quién sera?">
+      <p class="h5" style="margin-bottom: 0.5rem; margin-top: 10px;">Razón</p>
+      <input type="text" class="form-control" name="prefix" value="<%= settings.prefix %>" placeholder="¿Quién sera?">
+      <p class="h5" style="margin-bottom: 0.5rem; margin-top: 10px;">Pruebas</p>
+      <input type="text" class="form-control" name="prefix" value="<%= settings.prefix %>" placeholder="¿Quién sera?">
+      <br><button type="submit" class="btn btn-secondary text-white">Reportar</button>
+    </form>
+  </div>
+</div>
+
+<%- include("partials/footer") %>

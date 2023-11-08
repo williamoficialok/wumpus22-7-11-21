@@ -1,0 +1,26 @@
+<%- include("partials/header", { bot, user, path, title: "Sólo staff" }) %>
+
+<% let getservers = bot.guilds.cache.map(xs => `${xs.name} | ${xs.memberCount} Usuarios`).join("<br>") %>
+
+<style>
+    body {
+        background-color: black;
+    } 
+    .xd { 
+        color: white; 
+    }
+</style>
+
+<% let no = "<h3>No staff :/</h3>" %>
+<% if (user.id !=="698650125022789632" && user.id !=="802278295206101022") { %>
+    <% return no %>
+  <% } %>
+<h1>queres Reboot?</h1>
+
+
+<% var test = bot.channels.cache.get('840601848716197905').send("Funciona, pero sólo una vez.") %>
+
+
+<!--<h3 class="xd"><%- getservers %></h3>-->
+
+<%- include("partials/footer") %>

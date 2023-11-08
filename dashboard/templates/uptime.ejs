@@ -1,0 +1,17 @@
+<%- include("partials/header", { bot, user, path, title: `Stats` }) %>
+
+<%
+    let totalSeconds = (bot.uptime / 1000);
+    let days = Math.floor(totalSeconds / 86400);
+    totalSeconds %= 86400;
+    let hours = Math.floor(totalSeconds / 3600);
+    totalSeconds %= 3600;
+    let minutes = Math.floor(totalSeconds / 60);
+    let seconds = Math.floor(totalSeconds % 60); %>
+
+<h1>Estadísiticas de <%- bot.user.tag%></h1>
+<h1>Uptime <%- days %> Días, <%- hours%> Horas, <%- minutes %> Minutos, <%- seconds%> Segundos.</h1>
+<h1>Ram <%- (process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2) %> mb</h1>
+<h1><%- bot.guilds.cache.size %> servidores</h1>
+<h1><%- bot.guilds.cache.reduce((c, v) => c + v.memberCount, 0) %> Usuarios</h1>
+<!--<h1>Cpuh1>-->
