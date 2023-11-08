@@ -1,0 +1,1941 @@
+{
+    "name": "Astro Rewards | 🛸",
+    "region": "santiago",
+    "verificationLevel": "LOW",
+    "explicitContentFilter": "ALL_MEMBERS",
+    "defaultMessageNotifications": "MENTIONS",
+    "afk": null,
+    "widget": {
+        "channel": null
+    },
+    "channels": {
+        "categories": [
+            {
+                "name": "WELCOME",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": 66561,
+                        "deny": 871824208
+                    },
+                    {
+                        "roleName": "Astro member",
+                        "allow": 66561,
+                        "deny": 871824208
+                    },
+                    {
+                        "roleName": "Astro Gold",
+                        "allow": 66560,
+                        "deny": 871824209
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "〔👾〕welcome",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "WELCOME",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 66561,
+                                "deny": 871824208
+                            },
+                            {
+                                "roleName": "Astro member",
+                                "allow": 66561,
+                                "deny": 871824208
+                            },
+                            {
+                                "roleName": "Astro Gold",
+                                "allow": 66560,
+                                "deny": 871824209
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "〔😔〕good-bye",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "WELCOME",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 66561,
+                                "deny": 871824208
+                            },
+                            {
+                                "roleName": "Astro member",
+                                "allow": 66561,
+                                "deny": 871824208
+                            },
+                            {
+                                "roleName": "Astro Gold",
+                                "allow": 66560,
+                                "deny": 871824209
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "〔🌀〕read-me",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "WELCOME",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 66561,
+                                "deny": 871824208
+                            },
+                            {
+                                "roleName": "Astro member",
+                                "allow": 66561,
+                                "deny": 871824208
+                            },
+                            {
+                                "roleName": "Astro Gold",
+                                "allow": 66560,
+                                "deny": 871824209
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "〔🚀〕boost",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "WELCOME",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 66561,
+                                "deny": 871824208
+                            },
+                            {
+                                "roleName": "Astro member",
+                                "allow": 66561,
+                                "deny": 871824208
+                            },
+                            {
+                                "roleName": "Astro Gold",
+                                "allow": 66560,
+                                "deny": 871824209
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "IMPORTANT",
+                "permissions": [
+                    {
+                        "roleName": "Astro member",
+                        "allow": 328768,
+                        "deny": 871430928
+                    },
+                    {
+                        "roleName": "Astro Gold",
+                        "allow": 328768,
+                        "deny": 871562000
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "〔📣〕annoucements",
+                        "nsfw": false,
+                        "parent": "IMPORTANT",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Astro member",
+                                "allow": 328768,
+                                "deny": 871430928
+                            },
+                            {
+                                "roleName": "Astro Gold",
+                                "allow": 328768,
+                                "deny": 871562000
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": true
+                    },
+                    {
+                        "type": "text",
+                        "name": "〔📃〕rules",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "IMPORTANT",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Astro member",
+                                "allow": 328768,
+                                "deny": 871430928
+                            },
+                            {
+                                "roleName": "Astro Gold",
+                                "allow": 328768,
+                                "deny": 871562000
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "〔✨〕rewards",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "IMPORTANT",
+                        "topic": "Nice",
+                        "permissions": [
+                            {
+                                "roleName": "Astro member",
+                                "allow": 328768,
+                                "deny": 871430928
+                            },
+                            {
+                                "roleName": "Astro Gold",
+                                "allow": 328768,
+                                "deny": 871562000
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "Jordi ღ",
+                                "avatar": "https://cdn.discordapp.com/avatars/310494794461741056/a_833910ae488975257aa4efa95b03e4bf.webp",
+                                "content": "__________________________________________________________\n\n<:peepoGift:756228317060792417>  **INVITE REWARDS** <:peepoGift:756228317060792417> \n\n<a:lc_Flecha_rgb_derecha:868190638032683019> 10 Invites: #〔⭕〕generator-15s \n\n<a:lc_Flecha_rgb_derecha:868190638032683019>20 Invites: #〔⚡〕generator-no-cooldown \n\n<a:lc_Flecha_rgb_derecha:868190638032683019>30 Invites: Secret\n\n_________________________________________________________\n\n<a:wb_boost:849886356159463424> **BOOST REWARDS** <a:wb_boost:849886356159463424> \n\n<a:lc_Flecha_rgb_derecha:868190638032683019>1x <a:wb_boost:849886356159463424> @Astro Gold (Acces to premium generator)\n\n<a:lc_Flecha_rgb_derecha:868190638032683019>2x <a:wb_boost:849886356159463424> @Astro Gold (Acces to premium generator) + @Astro Gold To gift a friend + Secret\n\n_________________________________________________________\n\n@everyone",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "COMMUNITY",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "〔🌐〕general",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "COMMUNITY",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_e490a3d95d800236a3597e1373ac5b6f.webp",
+                                "content": "w!bc",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_e490a3d95d800236a3597e1373ac5b6f.webp",
+                                "content": "igual creo bcp",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_e490a3d95d800236a3597e1373ac5b6f.webp",
+                                "content": "Okay",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Jordi ღ",
+                                "avatar": "https://cdn.discordapp.com/avatars/310494794461741056/a_833910ae488975257aa4efa95b03e4bf.webp",
+                                "content": "Ye",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_e490a3d95d800236a3597e1373ac5b6f.webp",
+                                "content": "@​Jordi",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_e490a3d95d800236a3597e1373ac5b6f.webp",
+                                "content": "Este le remplazamos con Attractive não?",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_e490a3d95d800236a3597e1373ac5b6f.webp",
+                                "content": "@​Jordi",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "〔🤖〕commands",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "COMMUNITY",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "〔📩〕suggests",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "COMMUNITY",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "〔😂〕memes",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "COMMUNITY",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "〔🎧〕music-cmds",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "COMMUNITY",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "〔🌐〕general",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "COMMUNITY",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [
+                            {
+                                "username": "Wumpus Gamer",
+                                "avatar": "https://cdn.discordapp.com/avatars/829721945921814548/760826716491f436b6cfbf4f5c2f343a.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": null,
+                                        "type": "rich",
+                                        "description": "<a:wb_si:868627855997812776> Canal nukeado correctamente por <@698650125022789632>.",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 3066993,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": {
+                                            "url": "https://cdn.discordapp.com/attachments/847670510326513744/869446105711144960/Kaboooom.gif",
+                                            "proxyURL": "https://media.discordapp.net/attachments/847670510326513744/869446105711144960/Kaboooom.gif",
+                                            "height": 280,
+                                            "width": 498
+                                        },
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "FREE",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "〔🪐〕generator",
+                        "nsfw": false,
+                        "rateLimitPerUser": 60,
+                        "parent": "FREE",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "〔⭕〕generator-15s",
+                        "nsfw": false,
+                        "rateLimitPerUser": 15,
+                        "parent": "FREE",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Astro member",
+                                "allow": 66560,
+                                "deny": 805763153
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "〔⚡〕generator-no-cooldown",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "FREE",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Astro member",
+                                "allow": 66560,
+                                "deny": 805763153
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "Premium",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": 0,
+                        "deny": 1024
+                    },
+                    {
+                        "roleName": "*",
+                        "allow": 1024,
+                        "deny": 0
+                    },
+                    {
+                        "roleName": "GEN",
+                        "allow": 1024,
+                        "deny": 0
+                    },
+                    {
+                        "roleName": "Astro Gold",
+                        "allow": 1024,
+                        "deny": 0
+                    },
+                    {
+                        "roleName": "Wumpus Gamer",
+                        "allow": 1024,
+                        "deny": 0
+                    },
+                    {
+                        "roleName": "STAFF",
+                        "allow": 1024,
+                        "deny": 0
+                    },
+                    {
+                        "roleName": "SUPPORT",
+                        "allow": 1024,
+                        "deny": 0
+                    },
+                    {
+                        "roleName": "Trial Support",
+                        "allow": 1024,
+                        "deny": 0
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "premium-generator",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Premium",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1024
+                            },
+                            {
+                                "roleName": "*",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "GEN",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "Astro Gold",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "Wumpus Gamer",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "STAFF",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "SUPPORT",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "Trial Support",
+                                "allow": 1024,
+                                "deny": 0
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "astro staff",
+                "permissions": [
+                    {
+                        "roleName": "SUPPORT",
+                        "allow": 1049600,
+                        "deny": 0
+                    },
+                    {
+                        "roleName": "Trial Support",
+                        "allow": 1049600,
+                        "deny": 0
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": 0,
+                        "deny": 1024
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "〔🌍〕chat",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "astro staff",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1024
+                            },
+                            {
+                                "roleName": "SUPPORT",
+                                "allow": 1049600,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "Trial Support",
+                                "allow": 1049600,
+                                "deny": 0
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "Wumpus Gamer",
+                                "avatar": "https://cdn.discordapp.com/avatars/829721945921814548/760826716491f436b6cfbf4f5c2f343a.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": null,
+                                        "type": "rich",
+                                        "description": "<a:wb_no:868627399431057479> Proporciona una url válida.",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 15158332,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_e490a3d95d800236a3597e1373ac5b6f.webp",
+                                "content": "w!addemoji",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_e490a3d95d800236a3597e1373ac5b6f.webp",
+                                "content": "Con wumpus podes robaterlos 😳",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_e490a3d95d800236a3597e1373ac5b6f.webp",
+                                "content": "Kajajjaa",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_e490a3d95d800236a3597e1373ac5b6f.webp",
+                                "content": "Son importantes",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_e490a3d95d800236a3597e1373ac5b6f.webp",
+                                "content": "😳",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_e490a3d95d800236a3597e1373ac5b6f.webp",
+                                "content": "Hay q subir emojis",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_e490a3d95d800236a3597e1373ac5b6f.webp",
+                                "content": "Ok",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_e490a3d95d800236a3597e1373ac5b6f.webp",
+                                "content": "A",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Jordi ღ",
+                                "avatar": "https://cdn.discordapp.com/avatars/310494794461741056/a_833910ae488975257aa4efa95b03e4bf.webp",
+                                "content": "Al Gen Una Cuenta Borra El Msg",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_e490a3d95d800236a3597e1373ac5b6f.webp",
+                                "content": "Q hace",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_e490a3d95d800236a3597e1373ac5b6f.webp",
+                                "content": "✅",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "GeП",
+                                "avatar": "https://cdn.discordapp.com/avatars/791694664159199253/d7e5998f9d9486504752b7fe3338ffb4.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "Chat-Clearer Setting changed",
+                                        "type": "rich",
+                                        "description": "Successfully set **Chat-Clearer**",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 65535,
+                                        "fields": [
+                                            {
+                                                "name": "From:",
+                                                "value": "`off`",
+                                                "inline": true
+                                            },
+                                            {
+                                                "name": "To:",
+                                                "value": "`on`",
+                                                "inline": true
+                                            }
+                                        ],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": {
+                                            "name": "Jordi ღ#0666",
+                                            "icon_url": "https://cdn.discordapp.com/avatars/310494794461741056/a_11cf5e600f6aaeb695d06a5ccab6046e.gif"
+                                        },
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Jordi ღ",
+                                "avatar": "https://cdn.discordapp.com/avatars/310494794461741056/a_833910ae488975257aa4efa95b03e4bf.webp",
+                                "content": ".settings chat-clearer on",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Jordi ღ",
+                                "avatar": "https://cdn.discordapp.com/avatars/310494794461741056/a_833910ae488975257aa4efa95b03e4bf.webp",
+                                "content": ".chat-cleaner on",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Jordi ღ",
+                                "avatar": "https://cdn.discordapp.com/avatars/310494794461741056/a_833910ae488975257aa4efa95b03e4bf.webp",
+                                "content": ".chatcleaner",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "GeП",
+                                "avatar": "https://cdn.discordapp.com/avatars/791694664159199253/d7e5998f9d9486504752b7fe3338ffb4.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": ":gear: Settings of `Astro Rewards | 🛸`",
+                                        "type": "rich",
+                                        "description": "**-----------------------------------------GENERAL-----------------------------------------**\n**Bot-Channel:** <#874209449923993610>\n**Delete-Response:** `off`\n**Log-Channel:** `none`\n**Prefix:** ```.```\n**Respond-Always:** `on`\n\n**------------------------------------------ITEMS------------------------------------------**\n**Altskicker:** `on`\n**Altskicker-Channel:** `none`\n**Chat-Clearer:** `off`\n**Gen-Message:** ```Hello! check your account generated in DM```\n**Item-Channels-Allowed:** `-`\n**Item-Channels-Blocked:** `-`\n**Stock-Channel:** `none`\n\n**----------------------------------------MODERATION----------------------------------------**\n**Goodbye-Enabled:** `off`\n**Goodbye-Message:** ```:balloon: Good bye, **%USER%**! You are now leaving **%GUILD%**!```\n**Greeting-Enabled:** `off`\n**Greeting-Message:** ```:tada: Welcome %USER% to **%GUILD%**, make sure you read the #rules! %VERIFICATION_LEVEL%```\n**Link-Blocker:** `off`",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 65535,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": {
+                                            "text": ".settings <option-name> | .settings reset"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Jordi ღ",
+                                "avatar": "https://cdn.discordapp.com/avatars/310494794461741056/a_833910ae488975257aa4efa95b03e4bf.webp",
+                                "content": ".settings",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "GeП",
+                                "avatar": "https://cdn.discordapp.com/avatars/791694664159199253/d7e5998f9d9486504752b7fe3338ffb4.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": ":shrug: Unknown Option: `chatcleaner`",
+                                        "type": "rich",
+                                        "description": null,
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 16711680,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Jordi ღ",
+                                "avatar": "https://cdn.discordapp.com/avatars/310494794461741056/a_833910ae488975257aa4efa95b03e4bf.webp",
+                                "content": ".settings chatcleaner",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "GeП",
+                                "avatar": "https://cdn.discordapp.com/avatars/791694664159199253/d7e5998f9d9486504752b7fe3338ffb4.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": ":shrug: Unknown Option: `chat-cleaner`",
+                                        "type": "rich",
+                                        "description": null,
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 16711680,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Jordi ღ",
+                                "avatar": "https://cdn.discordapp.com/avatars/310494794461741056/a_833910ae488975257aa4efa95b03e4bf.webp",
+                                "content": ".settings chat-cleaner on",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Wumpus Gamer",
+                                "avatar": "https://cdn.discordapp.com/avatars/829721945921814548/760826716491f436b6cfbf4f5c2f343a.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": null,
+                                        "type": "rich",
+                                        "description": "<a:wb_no:868627399431057479> No encontre ese canal.\n Uso `w!start <Canal> <Tiempo> <Ganadores> <Sorteo>`",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 15158332,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_e490a3d95d800236a3597e1373ac5b6f.webp",
+                                "content": "w!start",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Wumpus Gamer",
+                                "avatar": "https://cdn.discordapp.com/avatars/829721945921814548/760826716491f436b6cfbf4f5c2f343a.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "Icono de Astro Rewards | 🛸",
+                                        "type": "rich",
+                                        "description": "[PNG](https://cdn.discordapp.com/icons/873200134236807210/ec314197b86ffec0fe84e369168dbe8a.png?size=1024) | [JPG](https://cdn.discordapp.com/icons/873200134236807210/ec314197b86ffec0fe84e369168dbe8a.jpg?size=1024) | [JPEG](https://cdn.discordapp.com/icons/873200134236807210/ec314197b86ffec0fe84e369168dbe8a.jpeg?size=1024)",
+                                        "url": null,
+                                        "timestamp": "2021-08-10T01:32:05.139Z",
+                                        "color": 3066993,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": {
+                                            "url": "https://cdn.discordapp.com/icons/873200134236807210/ec314197b86ffec0fe84e369168dbe8a.webp?size=1024",
+                                            "proxyURL": "https://images-ext-1.discordapp.net/external/QF8KPOUsPuHgDhVgirP11zFT1e6letFQzUWq9_4ojHY/%3Fsize%3D1024/https/cdn.discordapp.com/icons/873200134236807210/ec314197b86ffec0fe84e369168dbe8a.webp",
+                                            "height": 1024,
+                                            "width": 1024
+                                        },
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_e490a3d95d800236a3597e1373ac5b6f.webp",
+                                "content": "Flipoooo",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_e490a3d95d800236a3597e1373ac5b6f.webp",
+                                "content": "w!avatar",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_e490a3d95d800236a3597e1373ac5b6f.webp",
+                                "content": "Niceeee icon",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_e490a3d95d800236a3597e1373ac5b6f.webp",
+                                "content": "Ok",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "GeП",
+                                "avatar": "https://cdn.discordapp.com/avatars/791694664159199253/d7e5998f9d9486504752b7fe3338ffb4.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "Gen-Message Setting changed",
+                                        "type": "rich",
+                                        "description": "Successfully set **Gen-Message**",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 65535,
+                                        "fields": [
+                                            {
+                                                "name": "From:",
+                                                "value": "```Check Your DM!```",
+                                                "inline": true
+                                            },
+                                            {
+                                                "name": "To:",
+                                                "value": "```Hello! check your account generated in DM```",
+                                                "inline": true
+                                            }
+                                        ],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": {
+                                            "name": "Jordi ღ#0666",
+                                            "icon_url": "https://cdn.discordapp.com/avatars/310494794461741056/a_5067b6ae35b1e1eb6bf0ad51ea57387a.gif"
+                                        },
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Jordi ღ",
+                                "avatar": "https://cdn.discordapp.com/avatars/310494794461741056/a_833910ae488975257aa4efa95b03e4bf.webp",
+                                "content": ".settings Gen-Message Hello! check your account generated in DM",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "GeП",
+                                "avatar": "https://cdn.discordapp.com/avatars/791694664159199253/d7e5998f9d9486504752b7fe3338ffb4.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": null,
+                                        "type": "rich",
+                                        "description": "Oh, you've discovered a premium feature. Join our server (`.support`), open a ticket and buy premium!",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 16711680,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Jordi ღ",
+                                "avatar": "https://cdn.discordapp.com/avatars/310494794461741056/a_833910ae488975257aa4efa95b03e4bf.webp",
+                                "content": ".genmessage Hello! check your account generated in DM",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "GeП",
+                                "avatar": "https://cdn.discordapp.com/avatars/791694664159199253/d7e5998f9d9486504752b7fe3338ffb4.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": null,
+                                        "type": "rich",
+                                        "description": "**Custom Gen Message** `Check Your DM!`",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 65535,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Jordi ღ",
+                                "avatar": "https://cdn.discordapp.com/avatars/310494794461741056/a_833910ae488975257aa4efa95b03e4bf.webp",
+                                "content": ".genmessage",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "GeП",
+                                "avatar": "https://cdn.discordapp.com/avatars/791694664159199253/d7e5998f9d9486504752b7fe3338ffb4.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "Gen-Message Setting changed",
+                                        "type": "rich",
+                                        "description": "Successfully set **Gen-Message**",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 65535,
+                                        "fields": [
+                                            {
+                                                "name": "From:",
+                                                "value": "`unset`",
+                                                "inline": true
+                                            },
+                                            {
+                                                "name": "To:",
+                                                "value": "```Check Your DM!```",
+                                                "inline": true
+                                            }
+                                        ],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": {
+                                            "name": "Jordi ღ#0666",
+                                            "icon_url": "https://cdn.discordapp.com/avatars/310494794461741056/a_5067b6ae35b1e1eb6bf0ad51ea57387a.gif"
+                                        },
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Jordi ღ",
+                                "avatar": "https://cdn.discordapp.com/avatars/310494794461741056/a_833910ae488975257aa4efa95b03e4bf.webp",
+                                "content": ".settings Gen-Message Check Your DM!",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "GeП",
+                                "avatar": "https://cdn.discordapp.com/avatars/791694664159199253/d7e5998f9d9486504752b7fe3338ffb4.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "Gen-Message Setting",
+                                        "type": "rich",
+                                        "description": "Sets a custom gen message, use reset to remove this message.",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 65535,
+                                        "fields": [
+                                            {
+                                                "name": ":file_cabinet: Current Setting:",
+                                                "value": "`unset`",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": ":white_check_mark: Valid Settings:",
+                                                "value": "`text`",
+                                                "inline": false
+                                            }
+                                        ],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": {
+                                            "text": ".settings gen-message <setting>"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Jordi ღ",
+                                "avatar": "https://cdn.discordapp.com/avatars/310494794461741056/a_833910ae488975257aa4efa95b03e4bf.webp",
+                                "content": ".settings Gen-Message",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "GeП",
+                                "avatar": "https://cdn.discordapp.com/avatars/791694664159199253/d7e5998f9d9486504752b7fe3338ffb4.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "Bot-Channel Setting changed",
+                                        "type": "rich",
+                                        "description": "Successfully set **Bot-Channel**",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 65535,
+                                        "fields": [
+                                            {
+                                                "name": "From:",
+                                                "value": "`none`",
+                                                "inline": true
+                                            },
+                                            {
+                                                "name": "To:",
+                                                "value": "<#874209449923993610>",
+                                                "inline": true
+                                            }
+                                        ],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": {
+                                            "name": "Jordi ღ#0666",
+                                            "icon_url": "https://cdn.discordapp.com/avatars/310494794461741056/a_5067b6ae35b1e1eb6bf0ad51ea57387a.gif"
+                                        },
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Jordi ღ",
+                                "avatar": "https://cdn.discordapp.com/avatars/310494794461741056/a_833910ae488975257aa4efa95b03e4bf.webp",
+                                "content": ".settings Bot-Channel #premium-generator",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "GeП",
+                                "avatar": "https://cdn.discordapp.com/avatars/791694664159199253/d7e5998f9d9486504752b7fe3338ffb4.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": ":gear: Settings of `Astro Rewards | 🛸`",
+                                        "type": "rich",
+                                        "description": "**-----------------------------------------GENERAL-----------------------------------------**\n**Bot-Channel:** `none`\n**Delete-Response:** `off`\n**Log-Channel:** `none`\n**Prefix:** ```.```\n**Respond-Always:** `on`\n\n**------------------------------------------ITEMS------------------------------------------**\n**Altskicker:** `on`\n**Altskicker-Channel:** `none`\n**Chat-Clearer:** `off`\n**Gen-Message:** `unset`\n**Item-Channels-Allowed:** `-`\n**Item-Channels-Blocked:** `-`\n**Stock-Channel:** `none`\n\n**----------------------------------------MODERATION----------------------------------------**\n**Goodbye-Enabled:** `off`\n**Goodbye-Message:** ```:balloon: Good bye, **%USER%**! You are now leaving **%GUILD%**!```\n**Greeting-Enabled:** `off`\n**Greeting-Message:** ```:tada: Welcome %USER% to **%GUILD%**, make sure you read the #rules! %VERIFICATION_LEVEL%```\n**Link-Blocker:** `off`",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 65535,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": {
+                                            "text": ".settings <option-name> | .settings reset"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Jordi ღ",
+                                "avatar": "https://cdn.discordapp.com/avatars/310494794461741056/a_833910ae488975257aa4efa95b03e4bf.webp",
+                                "content": ".settings",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Jordi ღ",
+                                "avatar": "https://cdn.discordapp.com/avatars/310494794461741056/a_833910ae488975257aa4efa95b03e4bf.webp",
+                                "content": "@​Dats Configurado",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_e490a3d95d800236a3597e1373ac5b6f.webp",
+                                "content": "?",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_e490a3d95d800236a3597e1373ac5b6f.webp",
+                                "content": "Vale",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Jordi ღ",
+                                "avatar": "https://cdn.discordapp.com/avatars/310494794461741056/a_833910ae488975257aa4efa95b03e4bf.webp",
+                                "content": "AstroRewards",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_e490a3d95d800236a3597e1373ac5b6f.webp",
+                                "content": "Para el srv",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Jordi ღ",
+                                "avatar": "https://cdn.discordapp.com/avatars/310494794461741056/a_833910ae488975257aa4efa95b03e4bf.webp",
+                                "content": "¿?",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_e490a3d95d800236a3597e1373ac5b6f.webp",
+                                "content": "An name?",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_e490a3d95d800236a3597e1373ac5b6f.webp",
+                                "content": "@​Jordi",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Deleted User",
+                                "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": null,
+                                        "type": "rich",
+                                        "description": null,
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 16711935,
+                                        "fields": [
+                                            {
+                                                "name": "🔗 > Invite me to your server!",
+                                                "value": "[Click Here](https://discord.com/oauth2/authorize?client_id=872575463195824158&permissions=68608&scope=bot)",
+                                                "inline": true
+                                            },
+                                            {
+                                                "name": "☁️ > Join to the Official Server!",
+                                                "value": "[Click Here](https://discord.gg/UDRRCcgwgZ)",
+                                                "inline": true
+                                            }
+                                        ],
+                                        "thumbnail": null,
+                                        "image": {
+                                            "url": "https://cdn.discordapp.com/attachments/803715248753999872/871727722056007701/standard_1.gif",
+                                            "proxyURL": "https://media.discordapp.net/attachments/803715248753999872/871727722056007701/standard_1.gif",
+                                            "height": 60,
+                                            "width": 468
+                                        },
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_e490a3d95d800236a3597e1373ac5b6f.webp",
+                                "content": "+steam",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_e490a3d95d800236a3597e1373ac5b6f.webp",
+                                "content": "Nice",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_e490a3d95d800236a3597e1373ac5b6f.webp",
+                                "content": "Ok",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Jordi ღ",
+                                "avatar": "https://cdn.discordapp.com/avatars/310494794461741056/a_833910ae488975257aa4efa95b03e4bf.webp",
+                                "content": "Listo",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_e490a3d95d800236a3597e1373ac5b6f.webp",
+                                "content": "Nada xD",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Jordi ღ",
+                                "avatar": "https://cdn.discordapp.com/avatars/310494794461741056/a_833910ae488975257aa4efa95b03e4bf.webp",
+                                "content": "¿?",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_e490a3d95d800236a3597e1373ac5b6f.webp",
+                                "content": "@​Jordi",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_e490a3d95d800236a3597e1373ac5b6f.webp",
+                                "content": "😳",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Jordi ღ",
+                                "avatar": "https://cdn.discordapp.com/avatars/310494794461741056/a_833910ae488975257aa4efa95b03e4bf.webp",
+                                "content": "La 1r Cuenta Y Funciona jaja",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_e490a3d95d800236a3597e1373ac5b6f.webp",
+                                "content": "Looooooool",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_e490a3d95d800236a3597e1373ac5b6f.webp",
+                                "content": "Wtf",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Jordi ღ",
+                                "avatar": "https://cdn.discordapp.com/avatars/310494794461741056/a_833910ae488975257aa4efa95b03e4bf.webp",
+                                "content": "LOL",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Jordi ღ",
+                                "avatar": "https://cdn.discordapp.com/avatars/310494794461741056/a_833910ae488975257aa4efa95b03e4bf.webp",
+                                "content": "@​Dats",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_e490a3d95d800236a3597e1373ac5b6f.webp",
+                                "content": "Q le pasa",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_e490a3d95d800236a3597e1373ac5b6f.webp",
+                                "content": "Wtf",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_e490a3d95d800236a3597e1373ac5b6f.webp",
+                                "content": "@​Wumpus Gamer",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_e490a3d95d800236a3597e1373ac5b6f.webp",
+                                "content": "No es así @​Wumpus Gamer ?",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_e490a3d95d800236a3597e1373ac5b6f.webp",
+                                "content": "Esos gifs tan de moda",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_e490a3d95d800236a3597e1373ac5b6f.webp",
+                                "content": "Jajajajjaa",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_e490a3d95d800236a3597e1373ac5b6f.webp",
+                                "content": "Niceeeeeew",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Deleted User",
+                                "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": null,
+                                        "type": "rich",
+                                        "description": null,
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 16711935,
+                                        "fields": [
+                                            {
+                                                "name": "🔗 > Invite me to your server!",
+                                                "value": "[Click Here](https://discord.com/oauth2/authorize?client_id=872575463195824158&permissions=68608&scope=bot)",
+                                                "inline": true
+                                            },
+                                            {
+                                                "name": "☁️ > Join to the Official Server!",
+                                                "value": "[Click Here](https://discord.gg/UDRRCcgwgZ)",
+                                                "inline": true
+                                            }
+                                        ],
+                                        "thumbnail": null,
+                                        "image": {
+                                            "url": "https://cdn.discordapp.com/attachments/803715248753999872/871727722056007701/standard_1.gif",
+                                            "proxyURL": "https://media.discordapp.net/attachments/803715248753999872/871727722056007701/standard_1.gif",
+                                            "height": 60,
+                                            "width": 468
+                                        },
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Jordi ღ",
+                                "avatar": "https://cdn.discordapp.com/avatars/310494794461741056/a_833910ae488975257aa4efa95b03e4bf.webp",
+                                "content": "+steam",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Deleted User",
+                                "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": null,
+                                        "type": "rich",
+                                        "description": null,
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 16711935,
+                                        "fields": [
+                                            {
+                                                "name": "🔗 > Invite me to your server!",
+                                                "value": "[Click Here](https://discord.com/oauth2/authorize?client_id=872575463195824158&permissions=68608&scope=bot)",
+                                                "inline": true
+                                            },
+                                            {
+                                                "name": "☁️ > Join to the Official Server!",
+                                                "value": "[Click Here](https://discord.gg/UDRRCcgwgZ)",
+                                                "inline": true
+                                            }
+                                        ],
+                                        "thumbnail": null,
+                                        "image": {
+                                            "url": "https://cdn.discordapp.com/attachments/803715248753999872/871727722056007701/standard_1.gif",
+                                            "proxyURL": "https://media.discordapp.net/attachments/803715248753999872/871727722056007701/standard_1.gif",
+                                            "height": 60,
+                                            "width": 468
+                                        },
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Jordi ღ",
+                                "avatar": "https://cdn.discordapp.com/avatars/310494794461741056/a_833910ae488975257aa4efa95b03e4bf.webp",
+                                "content": "+psc",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Deleted User",
+                                "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": null,
+                                        "type": "rich",
+                                        "description": null,
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 5721767,
+                                        "fields": [
+                                            {
+                                                "name": "Generates steam account",
+                                                "value": "> :gear: +steam :gear:",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "Generates minecraft account",
+                                                "value": "> :gear: +minecraft :gear:",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "Generates spotify account",
+                                                "value": "> :gear: +spotify :gear:",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "Generates nitro code",
+                                                "value": "> :gear: +nitro :gear:",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "Generates nordvpn account",
+                                                "value": "> :gear: +nordvpn :gear:",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "Generates origin account",
+                                                "value": "> :gear: +origin :gear:",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "Generates netflix account",
+                                                "value": "> :gear: +netflix :gear:",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "Generates paysafecard code",
+                                                "value": "> :gear: +psc :gear:",
+                                                "inline": false
+                                            }
+                                        ],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": {
+                                            "name": "Generators",
+                                            "icon_url": "https://cdn.discordapp.com/avatars/310494794461741056/a_5067b6ae35b1e1eb6bf0ad51ea57387a.gif?size=1024"
+                                        },
+                                        "footer": {
+                                            "text": "17:57:26"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Jordi ღ",
+                                "avatar": "https://cdn.discordapp.com/avatars/310494794461741056/a_833910ae488975257aa4efa95b03e4bf.webp",
+                                "content": "+gen",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Jordi ღ",
+                                "avatar": "https://cdn.discordapp.com/avatars/310494794461741056/a_833910ae488975257aa4efa95b03e4bf.webp",
+                                "content": "Ye",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_e490a3d95d800236a3597e1373ac5b6f.webp",
+                                "content": "Tenes la beta oficial de DSC?",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_e490a3d95d800236a3597e1373ac5b6f.webp",
+                                "content": "Uuu nice",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Jordi ღ",
+                                "avatar": "https://cdn.discordapp.com/avatars/310494794461741056/a_833910ae488975257aa4efa95b03e4bf.webp",
+                                "content": "Si",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_e490a3d95d800236a3597e1373ac5b6f.webp",
+                                "content": "Hmmm ps ns xd",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Jordi ღ",
+                                "avatar": "https://cdn.discordapp.com/avatars/310494794461741056/a_833910ae488975257aa4efa95b03e4bf.webp",
+                                "content": "Y En Tlf Añadieron La Opción Ya",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Jordi ღ",
+                                "avatar": "https://cdn.discordapp.com/avatars/310494794461741056/a_833910ae488975257aa4efa95b03e4bf.webp",
+                                "content": "Que Yo Sepa No",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_e490a3d95d800236a3597e1373ac5b6f.webp",
+                                "content": "Eso fue hace tiempo",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Jordi ღ",
+                                "avatar": "https://cdn.discordapp.com/avatars/310494794461741056/a_833910ae488975257aa4efa95b03e4bf.webp",
+                                "content": "Cambiaron Lo De Los Rangos",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_e490a3d95d800236a3597e1373ac5b6f.webp",
+                                "content": "Hay más lag",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_e490a3d95d800236a3597e1373ac5b6f.webp",
+                                "content": "Pero ahora",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_e490a3d95d800236a3597e1373ac5b6f.webp",
+                                "content": "seh",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Jordi ღ",
+                                "avatar": "https://cdn.discordapp.com/avatars/310494794461741056/a_833910ae488975257aa4efa95b03e4bf.webp",
+                                "content": "Que Guapo Están Dejando Discord",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Wumpus Gamer",
+                                "avatar": "https://cdn.discordapp.com/avatars/829721945921814548/760826716491f436b6cfbf4f5c2f343a.webp",
+                                "content": "```asciidoc\nsetlang.js\nsetlogs.js\nsetprefix.js\n\n```",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Wumpus Gamer",
+                                "avatar": "https://cdn.discordapp.com/avatars/829721945921814548/760826716491f436b6cfbf4f5c2f343a.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "Enviando el comando a la terminal de Wumpus. **TEN CUIDADO**",
+                                        "type": "rich",
+                                        "description": "Porfavor espere...",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 7646678,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_e490a3d95d800236a3597e1373ac5b6f.webp",
+                                "content": "w!bash cd /root/Dats/wumpus/commands/configuracion && ls",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Wumpus Gamer",
+                                "avatar": "https://cdn.discordapp.com/avatars/829721945921814548/760826716491f436b6cfbf4f5c2f343a.webp",
+                                "content": "Click en el link para unirse\nhttps://discord.com/invite/RJvhxSqd",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Jordi ღ",
+                                "avatar": "https://cdn.discordapp.com/avatars/310494794461741056/a_833910ae488975257aa4efa95b03e4bf.webp",
+                                "content": "w!youtube",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_e490a3d95d800236a3597e1373ac5b6f.webp",
+                                "content": "No entender",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Jordi ღ",
+                                "avatar": "https://cdn.discordapp.com/avatars/310494794461741056/a_833910ae488975257aa4efa95b03e4bf.webp",
+                                "content": "",
+                                "embeds": [],
+                                "files": [
+                                    {
+                                        "name": "unknown.png",
+                                        "attachment": "https://cdn.discordapp.com/attachments/873207483223666739/873264810102517760/unknown.png"
+                                    }
+                                ],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Jordi ღ",
+                                "avatar": "https://cdn.discordapp.com/avatars/310494794461741056/a_833910ae488975257aa4efa95b03e4bf.webp",
+                                "content": "",
+                                "embeds": [],
+                                "files": [
+                                    {
+                                        "name": "Screenshot_20210806_194611.jpg",
+                                        "attachment": "https://cdn.discordapp.com/attachments/873207483223666739/873260715002191892/Screenshot_20210806_194611.jpg"
+                                    }
+                                ],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Jordi ღ",
+                                "avatar": "https://cdn.discordapp.com/avatars/310494794461741056/a_833910ae488975257aa4efa95b03e4bf.webp",
+                                "content": "",
+                                "embeds": [],
+                                "files": [
+                                    {
+                                        "name": "Screenshot_20210806_194113_com.discord.jpg",
+                                        "attachment": "https://cdn.discordapp.com/attachments/873207483223666739/873259463975501874/Screenshot_20210806_194113_com.discord.jpg"
+                                    }
+                                ],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    },
+                    {
+                        "type": "voice",
+                        "name": "〔🎤〕Voice ¹",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "astro staff",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1049600
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "others": []
+    },
+    "roles": [
+        {
+            "name": "*",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 104189513,
+            "mentionable": false,
+            "position": 9,
+            "isEveryone": false
+        },
+        {
+            "name": "STAFF",
+            "color": "#5b2076",
+            "hoist": true,
+            "permissions": 2147483391,
+            "mentionable": true,
+            "position": 8,
+            "isEveryone": false
+        },
+        {
+            "name": "SUPPORT",
+            "color": "#25c059",
+            "hoist": true,
+            "permissions": 267774535,
+            "mentionable": false,
+            "position": 7,
+            "isEveryone": false
+        },
+        {
+            "name": "Astro Gold",
+            "color": "#e4b400",
+            "hoist": true,
+            "permissions": 104188481,
+            "mentionable": false,
+            "position": 6,
+            "isEveryone": false
+        },
+        {
+            "name": "Astro member",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 104189505,
+            "mentionable": false,
+            "position": 5,
+            "isEveryone": false
+        },
+        {
+            "name": "BOT",
+            "color": "#e74c3c",
+            "hoist": true,
+            "permissions": 104188481,
+            "mentionable": false,
+            "position": 4,
+            "isEveryone": false
+        },
+        {
+            "name": "Trial Support",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 104188481,
+            "mentionable": false,
+            "position": 1,
+            "isEveryone": false
+        },
+        {
+            "name": "@everyone",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 104188481,
+            "mentionable": false,
+            "position": 0,
+            "isEveryone": true
+        }
+    ],
+    "bans": [],
+    "emojis": [],
+    "createdTimestamp": 1632999414283,
+    "guildID": "873200134236807210",
+    "id": "893089016323375205",
+    "iconURL": "https://cdn.discordapp.com/icons/873200134236807210/ec314197b86ffec0fe84e369168dbe8a.webp"
+}

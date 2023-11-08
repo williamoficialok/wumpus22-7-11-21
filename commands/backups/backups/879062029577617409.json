@@ -1,0 +1,942 @@
+{
+    "name": "❄SNOW CYTY ⛄",
+    "region": "europe",
+    "verificationLevel": "LOW",
+    "explicitContentFilter": "DISABLED",
+    "defaultMessageNotifications": "MENTIONS",
+    "afk": null,
+    "widget": {
+        "enabled": false,
+        "channel": null
+    },
+    "channels": {
+        "categories": [
+            {
+                "name": "么˚﹆HUB",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "〔🕊〕bienvenida",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "么˚﹆HUB",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "〔🛃〕verificación",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "么˚﹆HUB",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "〔❤〕invites",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "么˚﹆HUB",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "么˚﹆Menu",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "〔📃〕reglas",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "么˚﹆Menu",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "〔📢〕anuncios",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "么˚﹆Menu",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "〔🚾〕actualizaciones",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "么˚﹆Menu",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "〔❗〕sugerencias",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "么˚﹆Menu",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "〔🎉〕eventos",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "么˚﹆Menu",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "么˚﹆LoBby",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "〔💬〕general",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "么˚﹆LoBby",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "w!backupcreate 870730398404050946",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Wumpus Gamer",
+                                "avatar": "https://cdn.discordapp.com/avatars/829721945921814548/760826716491f436b6cfbf4f5c2f343a.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": null,
+                                        "type": "rich",
+                                        "description": null,
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 13114768,
+                                        "fields": [
+                                            {
+                                                "name": "Backup ID",
+                                                "value": "870730398404050946",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "Mida",
+                                                "value": "159.65 mb",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "Creat el",
+                                                "value": "2021/07/30",
+                                                "inline": false
+                                            }
+                                        ],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "w!backupinfo 870730398404050946",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "w!backupload 879057237660794880",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "xd.",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Wumpus Gamer",
+                                "avatar": "https://cdn.discordapp.com/avatars/829721945921814548/760826716491f436b6cfbf4f5c2f343a.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": null,
+                                        "type": "rich",
+                                        "description": "Quan es carregui la còpia de seguretat, **es reemplaçaran tots els canals, papers, etc.**\nReacciona amb ✅ per confirmar.",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 16776960,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "w!backupload 879059455499698176",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "〔💨〕comandos",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "么˚﹆LoBby",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "〔🆙〕niveles",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "么˚﹆LoBby",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "〔🔢〕contemos",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "么˚﹆LoBby",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "〔📷〕multimedia",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "么˚﹆LoBby",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "〔🤣〕memes",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "么˚﹆LoBby",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "么˚﹆Soporte",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "〔🎟〕tickets",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "么˚﹆Soporte",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "〔🤝〕allys",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "么˚﹆Soporte",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "么˚﹆Musica Personal",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "voice",
+                        "name": "〔🎵〕Musica",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "么˚﹆Musica Personal",
+                        "permissions": []
+                    },
+                    {
+                        "type": "voice",
+                        "name": "〔👥〕Personal",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "么˚﹆Musica Personal",
+                        "permissions": []
+                    },
+                    {
+                        "type": "voice",
+                        "name": "〔👮〕Staff",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "么˚﹆Musica Personal",
+                        "permissions": []
+                    }
+                ]
+            },
+            {
+                "name": "么˚﹆Staff Community",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": 0,
+                        "deny": 1024
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "〔👮〕staffchat",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "么˚﹆Staff Community",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1024
+                            },
+                            {
+                                "roleName": "- Alter",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "- Support",
+                                "allow": 1024,
+                                "deny": 0
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "〔🔨〕configuraciones",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "么˚﹆Staff Community",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1024
+                            },
+                            {
+                                "roleName": "- Alter",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "- Support",
+                                "allow": 1024,
+                                "deny": 0
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "〔❗〕alertas",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "么˚﹆Staff Community",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1024
+                            },
+                            {
+                                "roleName": "- Alter",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "- Support",
+                                "allow": 1024,
+                                "deny": 0
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    }
+                ]
+            }
+        ],
+        "others": []
+    },
+    "roles": [
+        {
+            "name": "𝓝𝓞 𝓥𝓔𝓡𝓘𝓕𝓘𝓒𝓐𝓓𝓞",
+            "color": "#ff0000",
+            "hoist": true,
+            "permissions": 513,
+            "mentionable": true,
+            "position": 23,
+            "isEveryone": false
+        },
+        {
+            "name": "bots",
+            "color": "#ffffff",
+            "hoist": true,
+            "permissions": 2146959103,
+            "mentionable": true,
+            "position": 22,
+            "isEveryone": false
+        },
+        {
+            "name": "- Founder",
+            "color": "#11806a",
+            "hoist": true,
+            "permissions": 2146959359,
+            "mentionable": true,
+            "position": 21,
+            "isEveryone": false
+        },
+        {
+            "name": "Charli",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": 67108865,
+            "mentionable": false,
+            "position": 20,
+            "isEveryone": false
+        },
+        {
+            "name": "Claimed nitro",
+            "color": "#d7342a",
+            "hoist": false,
+            "permissions": 67108865,
+            "mentionable": true,
+            "position": 19,
+            "isEveryone": false
+        },
+        {
+            "name": "Giveaways",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 67108865,
+            "mentionable": false,
+            "position": 18,
+            "isEveryone": false
+        },
+        {
+            "name": "🤖┆Bots",
+            "color": "#6f91c5",
+            "hoist": true,
+            "permissions": 67108873,
+            "mentionable": false,
+            "position": 17,
+            "isEveryone": false
+        },
+        {
+            "name": "- Support",
+            "color": "#1abc9c",
+            "hoist": true,
+            "permissions": 74894401,
+            "mentionable": false,
+            "position": 16,
+            "isEveryone": false
+        },
+        {
+            "name": "╰─────╮☀️╭─────╯",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 67108865,
+            "mentionable": false,
+            "position": 15,
+            "isEveryone": false
+        },
+        {
+            "name": "- Alter",
+            "color": "#0700ff",
+            "hoist": true,
+            "permissions": 131444289,
+            "mentionable": false,
+            "position": 14,
+            "isEveryone": false
+        },
+        {
+            "name": "Silenciado",
+            "color": "#b9bbbe",
+            "hoist": false,
+            "permissions": 1024,
+            "mentionable": false,
+            "position": 13,
+            "isEveryone": false
+        },
+        {
+            "name": "Claimed",
+            "color": "#da004e",
+            "hoist": false,
+            "permissions": 67108865,
+            "mentionable": false,
+            "position": 12,
+            "isEveryone": false
+        },
+        {
+            "name": "𝙰𝙻𝙸𝙰𝙽𝚉𝙰",
+            "color": "#ff9800",
+            "hoist": true,
+            "permissions": 67109889,
+            "mentionable": true,
+            "position": 11,
+            "isEveryone": false
+        },
+        {
+            "name": "Muted",
+            "color": "#808080",
+            "hoist": false,
+            "permissions": 66560,
+            "mentionable": false,
+            "position": 10,
+            "isEveryone": false
+        },
+        {
+            "name": "╭─────╯☀️╰─────╮",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 67108865,
+            "mentionable": false,
+            "position": 9,
+            "isEveryone": false
+        },
+        {
+            "name": "- CEO",
+            "color": "#af00ff",
+            "hoist": true,
+            "permissions": 2146959071,
+            "mentionable": true,
+            "position": 8,
+            "isEveryone": false
+        },
+        {
+            "name": "new role",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 67108873,
+            "mentionable": false,
+            "position": 7,
+            "isEveryone": false
+        },
+        {
+            "name": "Usuario",
+            "color": "#00ffbd",
+            "hoist": true,
+            "permissions": 37080641,
+            "mentionable": false,
+            "position": 6,
+            "isEveryone": false
+        },
+        {
+            "name": "giveaways",
+            "color": "#ff0f00",
+            "hoist": false,
+            "permissions": 67108865,
+            "mentionable": false,
+            "position": 5,
+            "isEveryone": false
+        },
+        {
+            "name": "new role",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 4,
+            "isEveryone": false
+        },
+        {
+            "name": "drops👅",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 67108865,
+            "mentionable": false,
+            "position": 3,
+            "isEveryone": false
+        },
+        {
+            "name": "bots",
+            "color": "#ffffff",
+            "hoist": true,
+            "permissions": 2146959103,
+            "mentionable": true,
+            "position": 2,
+            "isEveryone": false
+        },
+        {
+            "name": "𝓝𝓞 𝓥𝓔𝓡𝓘𝓕𝓘𝓒𝓐𝓓𝓞",
+            "color": "#ff0000",
+            "hoist": true,
+            "permissions": 513,
+            "mentionable": true,
+            "position": 1,
+            "isEveryone": false
+        },
+        {
+            "name": "@everyone",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 67108865,
+            "mentionable": false,
+            "position": 0,
+            "isEveryone": true
+        }
+    ],
+    "bans": [
+        {
+            "id": "252530354110464001",
+            "reason": "su madre es sagrada"
+        },
+        {
+            "id": "360417352430387230",
+            "reason": null
+        },
+        {
+            "id": "376155747316400129",
+            "reason": "A mí me importa tus cojones"
+        },
+        {
+            "id": "412234800250748929",
+            "reason": null
+        },
+        {
+            "id": "454092705065205760",
+            "reason": null
+        },
+        {
+            "id": "455127881446588436",
+            "reason": "Unknown"
+        },
+        {
+            "id": "480539888698261504",
+            "reason": null
+        },
+        {
+            "id": "500073561445105665",
+            "reason": "Sin razón."
+        },
+        {
+            "id": "505363902289281061",
+            "reason": null
+        },
+        {
+            "id": "512333785338216465",
+            "reason": null
+        },
+        {
+            "id": "519668373752381462",
+            "reason": "  no tenemos 5 años como tu no nos vamos a creer esa página de hace 5 años chupa pollas"
+        },
+        {
+            "id": "521019082620010517",
+            "reason": null
+        },
+        {
+            "id": "537425749284749312",
+            "reason": "Si no te gusta VETE DE ACÁ"
+        },
+        {
+            "id": "559426966151757824",
+            "reason": "Sin razón."
+        },
+        {
+            "id": "605918786226356236",
+            "reason": "Unknown"
+        },
+        {
+            "id": "627548120380735508",
+            "reason": null
+        },
+        {
+            "id": "630106999622991902",
+            "reason": "Sin razón."
+        },
+        {
+            "id": "632333778735464448",
+            "reason": "Unknown"
+        },
+        {
+            "id": "633802298543439872",
+            "reason": null
+        },
+        {
+            "id": "640348142012989451",
+            "reason": "Discord Safe Forceban"
+        },
+        {
+            "id": "645408692983824392",
+            "reason": "Unknown"
+        },
+        {
+            "id": "661200042018734112",
+            "reason": "Unknown"
+        },
+        {
+            "id": "686667744015417405",
+            "reason": null
+        },
+        {
+            "id": "687093030896926760",
+            "reason": null
+        },
+        {
+            "id": "692664806918062080",
+            "reason": null
+        },
+        {
+            "id": "692799750843531335",
+            "reason": null
+        },
+        {
+            "id": "696572965650825278",
+            "reason": null
+        },
+        {
+            "id": "704378403805069322",
+            "reason": "Unknown"
+        },
+        {
+            "id": "705044530474385510",
+            "reason": "tu mamá en tanga"
+        },
+        {
+            "id": "706544925386342490",
+            "reason": "Unknown"
+        },
+        {
+            "id": "708858870252175453",
+            "reason": "•Franco•#1973: anda a hacer grabber a tu casa"
+        },
+        {
+            "id": "710694873572966431",
+            "reason": "Unknown"
+        },
+        {
+            "id": "713404797998334076",
+            "reason": "Discord Safe Forceban"
+        },
+        {
+            "id": "714522904896733314",
+            "reason": null
+        },
+        {
+            "id": "715961251007692890",
+            "reason": "estafa"
+        },
+        {
+            "id": "721484242961432616",
+            "reason": null
+        },
+        {
+            "id": "721564435159711874",
+            "reason": "|☣cracker.exe☣|#1859 - no reason provided"
+        },
+        {
+            "id": "724154672218374214",
+            "reason": "Discord Safe Forceban"
+        },
+        {
+            "id": "725810680111824987",
+            "reason": null
+        },
+        {
+            "id": "727921577718448289",
+            "reason": "Discord Safe Forceban"
+        },
+        {
+            "id": "728675438788083874",
+            "reason": "Unknown"
+        },
+        {
+            "id": "730444351334776852",
+            "reason": "Unknown"
+        },
+        {
+            "id": "730546576799563817",
+            "reason": "Spam"
+        },
+        {
+            "id": "732406594452586609",
+            "reason": "a chuparla"
+        },
+        {
+            "id": "733358225407082517",
+            "reason": null
+        },
+        {
+            "id": "734868052482719784",
+            "reason": null
+        },
+        {
+            "id": "734924146290458715",
+            "reason": "•Franco•#1973: (No reason specified)"
+        },
+        {
+            "id": "735527526214139974",
+            "reason": null
+        },
+        {
+            "id": "739977986626814034",
+            "reason": "Discord Safe Forceban"
+        },
+        {
+            "id": "744689604904353922",
+            "reason": "Unknown"
+        },
+        {
+            "id": "746812212307558482",
+            "reason": null
+        },
+        {
+            "id": "748342595851255858",
+            "reason": "Unknown"
+        },
+        {
+            "id": "748546974109925468",
+            "reason": "No vuelvas nunca"
+        },
+        {
+            "id": "750425323186683975",
+            "reason": null
+        },
+        {
+            "id": "750793738913185805",
+            "reason": "Unknown"
+        },
+        {
+            "id": "751136738939895839",
+            "reason": "•Franco•#1973: (No reason specified)"
+        },
+        {
+            "id": "752059130663141377",
+            "reason": null
+        },
+        {
+            "id": "753612395984977970",
+            "reason": null
+        },
+        {
+            "id": "753787150171897926",
+            "reason": "mTz_RVSHKinG_mTz#1859 - no reason provided"
+        },
+        {
+            "id": "754147280453369868",
+            "reason": null
+        },
+        {
+            "id": "755061432751751189",
+            "reason": null
+        },
+        {
+            "id": "759178362777239605",
+            "reason": "Unknown"
+        },
+        {
+            "id": "760960397284605953",
+            "reason": null
+        },
+        {
+            "id": "816739318885777408",
+            "reason": "Discord Safe Forceban"
+        },
+        {
+            "id": "818946947393257523",
+            "reason": "Discord Safe Forceban"
+        },
+        {
+            "id": "819734390158524438",
+            "reason": "Discord Safe Forceban"
+        },
+        {
+            "id": "820110840367808512",
+            "reason": "Discord Safe Forceban"
+        },
+        {
+            "id": "824421939560972318",
+            "reason": "Discord Safe Forceban"
+        },
+        {
+            "id": "832942374363201577",
+            "reason": "Discord Safe Forceban"
+        }
+    ],
+    "emojis": [],
+    "createdTimestamp": 1629655120034,
+    "guildID": "875894020566548552",
+    "id": "879062029577617409",
+    "iconURL": "https://cdn.discordapp.com/icons/875894020566548552/3c1b1048f0ee09416c2cd3196a6553f5.webp"
+}

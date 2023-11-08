@@ -1,0 +1,3190 @@
+{
+    "name": "👑Omega 🎮 Gaymer👑",
+    "region": "us-east",
+    "verificationLevel": "LOW",
+    "explicitContentFilter": "ALL_MEMBERS",
+    "defaultMessageNotifications": "MENTIONS",
+    "afk": {
+        "name": "𝗔𝗙𝗞",
+        "timeout": 300
+    },
+    "widget": {
+        "channel": null
+    },
+    "channels": {
+        "categories": [
+            {
+                "name": "== Reglas Del Servidor ==",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": 0,
+                        "deny": 1049600
+                    },
+                    {
+                        "roleName": "Jefe-Administrador",
+                        "allow": 1049600,
+                        "deny": 0
+                    },
+                    {
+                        "roleName": "Jefe De Mantenimiento",
+                        "allow": 1049600,
+                        "deny": 0
+                    },
+                    {
+                        "roleName": "Administrador",
+                        "allow": 1049600,
+                        "deny": 0
+                    },
+                    {
+                        "roleName": "BOTS",
+                        "allow": 1049600,
+                        "deny": 0
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "📜-𝐑𝗲𝗴𝗹𝗮𝘀",
+                        "nsfw": false,
+                        "rateLimitPerUser": 5,
+                        "parent": "== Reglas Del Servidor ==",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1048576
+                            },
+                            {
+                                "roleName": "Jefe-Administrador",
+                                "allow": 1049600,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "Jefe De Mantenimiento",
+                                "allow": 1049600,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "Administrador",
+                                "allow": 1049600,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "BOTS",
+                                "allow": 1049600,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "Diceñaro",
+                                "allow": 66560,
+                                "deny": 805763153
+                            },
+                            {
+                                "roleName": "Constructor",
+                                "allow": 66560,
+                                "deny": 805763153
+                            },
+                            {
+                                "roleName": "Moderador",
+                                "allow": 66560,
+                                "deny": 805763153
+                            },
+                            {
+                                "roleName": "Ayudante",
+                                "allow": 66560,
+                                "deny": 805763153
+                            },
+                            {
+                                "roleName": "Nitro Booster",
+                                "allow": 66560,
+                                "deny": 805763153
+                            },
+                            {
+                                "roleName": "Zeus",
+                                "allow": 66560,
+                                "deny": 805763089
+                            },
+                            {
+                                "roleName": "Omega",
+                                "allow": 66560,
+                                "deny": 805763153
+                            },
+                            {
+                                "roleName": "Paladin",
+                                "allow": 66560,
+                                "deny": 805763153
+                            },
+                            {
+                                "roleName": "V.I.P",
+                                "allow": 66560,
+                                "deny": 805763153
+                            },
+                            {
+                                "roleName": "Usuario Activo",
+                                "allow": 66560,
+                                "deny": 805763153
+                            },
+                            {
+                                "roleName": "Usuario",
+                                "allow": 66560,
+                                "deny": 805763153
+                            },
+                            {
+                                "roleName": "Amigos",
+                                "allow": 66560,
+                                "deny": 805763153
+                            },
+                            {
+                                "roleName": "Youtube",
+                                "allow": 66560,
+                                "deny": 805763153
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "PIPE018",
+                                "avatar": "https://cdn.discordapp.com/avatars/852215815272923196/7289a5cf551efe6dcf1ff6c13cee064c.webp",
+                                "content": "***Los nombres imposibles o difíciles de mencionar serán modificados.\n- Mencionar innecesariamente a un Staff:\n  1 vez: 15 minutos (muteo)\n  2 vez: 30 minutos (muteo)\n  3 vez en adelante: 1 hora (muteo)\n\nNota: Se debe verificar cual fue el motivo del TAG antes de aplicar cualquier sanción.\n- Hacerse pasar por otra persona:\n  1 vez en adelante: expulsión del discord\n\nNota: Primero se debe pedir al usuario que use su identidad real, si no hace caso entonces se aplica la sanción.\n- Enviar NSFW (Porno, gore y relacionado):\n  1 vez: 1 día (muteo)\n  2 vez: 3 días (muteo)\n  3 vez: ban permanente\n- Hacer publicidad o enviar IPs de otros servidores sin permiso:\n  Si fue accidentalmente y el usuario no la borra:\n    1 vez: 1 hora (muteo)\n    2 vez: 3 horas (muteo)\n    3 vez en adelante: 5 horas (muteo)\n  Si fue con adrede:\n    1 vez: 1 día (muteo)\n    2 vez: 3 día (muteo)\n    3 vez: baneo permanente\n\nNota: No es que sancionemos por que menciones a algún servidor en un contexto de charla normal, si no que, depende del contexto entendible.\n- Mal uso de los canales:\n  1 vez: 5 minutos (muteo)\n  2 vez: 10 minutos (muteo)\n  3 vez: 15 minutos (muteo)\n  4 vez: 20 minutos (muteo)\n  5 vez en adelante: 30 minutos (muteo)\n- Toxicidad o comenzar peleas en cualquier canal:\n  1 vez: 15 minutos (muteo)\n  2 vez: 30 minutos (muteo)\n  3 vez: 1 hora (muteo)\n  4 vez en adelante: 3 horas (muteo)\n- Flood o Spam en cualquier canal:\n  1 vez: 15 minutos (muteo)\n  2 vez: 30 minutos (muteo)\n  3 vez en adelante: 1 hora (muteo)\n\nNota: Enviar mensajes separados con contexto no rompe esta regla. (De igual forma, si vas a enviar un mensaje largo, procura enviarlo en el mismo mensaje y no en varios, es más cómodo para todos)***\n@everyone",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "PIPE018",
+                                "avatar": "https://cdn.discordapp.com/avatars/852215815272923196/7289a5cf551efe6dcf1ff6c13cee064c.webp",
+                                "content": "***REGLAS DE DISCORD***||** @everyone ||**\n***- Obligatorio seguir los términos de servicio de Discord. (https://discord.com/terms)***",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "🎊-𝗛𝗼𝗹𝗮-𝗔𝗱𝗶ó𝘀-👋",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "== Reglas Del Servidor ==",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1048576
+                            },
+                            {
+                                "roleName": "Jefe-Administrador",
+                                "allow": 1049600,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "Jefe De Mantenimiento",
+                                "allow": 1049600,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "Administrador",
+                                "allow": 1049600,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "BOTS",
+                                "allow": 1049600,
+                                "deny": 0
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "Kapone",
+                                "avatar": "https://cdn.discordapp.com/avatars/733060948209696819/a_adfd1ce2252bf0d73f78233e90f68d8c.webp",
+                                "content": "bruh",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Koya",
+                                "avatar": "https://cdn.discordapp.com/avatars/276060004262477825/ab25f85d2ca95ef47f3a9bbc6e40dc0b.webp",
+                                "content": "@​Kapone Chaoo Espero Que Ayas Disfrutado Mucho... \r\nSi Vuelves Te Recibiremos Con Mucho Gusto...",
+                                "embeds": [],
+                                "files": [
+                                    {
+                                        "name": "goodbye.png",
+                                        "attachment": "https://cdn.discordapp.com/attachments/867588069023547472/870327423588261908/goodbye.png"
+                                    }
+                                ],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Koya",
+                                "avatar": "https://cdn.discordapp.com/avatars/276060004262477825/ab25f85d2ca95ef47f3a9bbc6e40dc0b.webp",
+                                "content": "Bienvenid@ @​Kapone Al Servidor 👑Omega 🎮 Gaymer👑 Espero Que Lo Disfrute...\r\nPásala Bien Cual Quier Duda Estamos Para Atenderte...\r\nLe Recomiendo Ver Las Reglas Para Evitar Problemas OK...",
+                                "embeds": [],
+                                "files": [
+                                    {
+                                        "name": "welcome.png",
+                                        "attachment": "https://cdn.discordapp.com/attachments/867588069023547472/870327348669595679/welcome.png"
+                                    }
+                                ],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Koya",
+                                "avatar": "https://cdn.discordapp.com/avatars/276060004262477825/ab25f85d2ca95ef47f3a9bbc6e40dc0b.webp",
+                                "content": "Bienvenid@ @​MaxbrunoZ Al Servidor 👑Omega 🎮 Gaymer👑 Espero Que Lo Disfrute...\r\nPásala Bien Cual Quier Duda Estamos Para Atenderte...\r\nLe Recomiendo Ver Las Reglas Para Evitar Problemas OK...",
+                                "embeds": [],
+                                "files": [
+                                    {
+                                        "name": "welcome.png",
+                                        "attachment": "https://cdn.discordapp.com/attachments/867588069023547472/870323642398035968/welcome.png"
+                                    }
+                                ],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Koya",
+                                "avatar": "https://cdn.discordapp.com/avatars/276060004262477825/ab25f85d2ca95ef47f3a9bbc6e40dc0b.webp",
+                                "content": "Bienvenid@ @​Dats Al Servidor 👑Omega 🎮 Gaymer👑 Espero Que Lo Disfrute...\r\nPásala Bien Cual Quier Duda Estamos Para Atenderte...\r\nLe Recomiendo Ver Las Reglas Para Evitar Problemas OK...",
+                                "embeds": [],
+                                "files": [
+                                    {
+                                        "name": "welcome.png",
+                                        "attachment": "https://cdn.discordapp.com/attachments/867588069023547472/870109685351596032/welcome.png"
+                                    }
+                                ],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Koya",
+                                "avatar": "https://cdn.discordapp.com/avatars/276060004262477825/ab25f85d2ca95ef47f3a9bbc6e40dc0b.webp",
+                                "content": "Bienvenid@ @​Gatiusco_YT Al Servidor ZeusOpCraft Espero Que Lo Disfrute...\r\nPásala Bien Cual Quier Duda Estamos Para Atenderte...\r\nLe Recomiendo Ver Las Reglas Para Evitar Problemas OK...",
+                                "embeds": [],
+                                "files": [
+                                    {
+                                        "name": "welcome.png",
+                                        "attachment": "https://cdn.discordapp.com/attachments/867588069023547472/869701022451388456/welcome.png"
+                                    }
+                                ],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Koya",
+                                "avatar": "https://cdn.discordapp.com/avatars/276060004262477825/ab25f85d2ca95ef47f3a9bbc6e40dc0b.webp",
+                                "content": "@​! Senior J 🧊 Chaoo Espero Que Ayas Disfrutado Mucho... \r\nSi Vuelves Te Recibiremos Con Mucho Gusto...",
+                                "embeds": [],
+                                "files": [
+                                    {
+                                        "name": "goodbye.png",
+                                        "attachment": "https://cdn.discordapp.com/attachments/867588069023547472/869592036263751760/goodbye.png"
+                                    }
+                                ],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Koya",
+                                "avatar": "https://cdn.discordapp.com/avatars/276060004262477825/ab25f85d2ca95ef47f3a9bbc6e40dc0b.webp",
+                                "content": "Bienvenid@ @​! Senior J 🧊 Al Servidor ZeusOpCraft Espero Que Lo Disfrute...\r\nPásala Bien Cual Quier Duda Estamos Para Atenderte...\r\nLe Recomiendo Ver Las Reglas Para Evitar Problemas OK...",
+                                "embeds": [],
+                                "files": [
+                                    {
+                                        "name": "welcome.png",
+                                        "attachment": "https://cdn.discordapp.com/attachments/867588069023547472/869591949735247932/welcome.png"
+                                    }
+                                ],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Koya",
+                                "avatar": "https://cdn.discordapp.com/avatars/276060004262477825/ab25f85d2ca95ef47f3a9bbc6e40dc0b.webp",
+                                "content": "Bienvenid@ @​MaxiTuber 12 Al Servidor ZeusOpCraft Espero Que Lo Disfrute...\r\nPásala Bien Cual Quier Duda Estamos Para Atenderte...\r\nLe Recomiendo Ver Las Reglas Para Evitar Problemas OK...",
+                                "embeds": [],
+                                "files": [
+                                    {
+                                        "name": "welcome.png",
+                                        "attachment": "https://cdn.discordapp.com/attachments/867588069023547472/869360099393687582/welcome.png"
+                                    }
+                                ],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "📻-informaciones",
+                        "nsfw": false,
+                        "rateLimitPerUser": 5,
+                        "parent": "== Reglas Del Servidor ==",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1049600
+                            },
+                            {
+                                "roleName": "Jefe-Administrador",
+                                "allow": 1049600,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "Jefe De Mantenimiento",
+                                "allow": 1049600,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "Administrador",
+                                "allow": 1049600,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "BOTS",
+                                "allow": 1049600,
+                                "deny": 0
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "== Tienda ==",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": 0,
+                        "deny": 1049600
+                    },
+                    {
+                        "roleName": "Jefe-Administrador",
+                        "allow": 1049600,
+                        "deny": 0
+                    },
+                    {
+                        "roleName": "Jefe De Mantenimiento",
+                        "allow": 1049600,
+                        "deny": 0
+                    },
+                    {
+                        "roleName": "Administrador",
+                        "allow": 1049600,
+                        "deny": 0
+                    },
+                    {
+                        "roleName": "BOTS",
+                        "allow": 1049600,
+                        "deny": 0
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "💰-𝐓𝐢𝐞𝐧𝐝𝐚-𝐎𝐧𝐥𝐢𝐧𝐞",
+                        "nsfw": false,
+                        "parent": "== Tienda ==",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 2048,
+                                "deny": 0
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "PIPE018",
+                                "avatar": "https://cdn.discordapp.com/avatars/852215815272923196/7289a5cf551efe6dcf1ff6c13cee064c.webp",
+                                "content": "**Nuestra Tienda Online Estará Activa En Pocos Días...** @everyone",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": true
+                    }
+                ]
+            },
+            {
+                "name": "== Información ==",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": 0,
+                        "deny": 1049600
+                    },
+                    {
+                        "roleName": "Jefe-Administrador",
+                        "allow": 1049600,
+                        "deny": 0
+                    },
+                    {
+                        "roleName": "Jefe De Mantenimiento",
+                        "allow": 1049600,
+                        "deny": 0
+                    },
+                    {
+                        "roleName": "Administrador",
+                        "allow": 1049600,
+                        "deny": 0
+                    },
+                    {
+                        "roleName": "BOTS",
+                        "allow": 1049600,
+                        "deny": 0
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "📡-𝐀𝐧𝐮𝐧𝐜𝐢𝐨𝐬",
+                        "nsfw": false,
+                        "parent": "== Información ==",
+                        "topic": "En Este Canal Te Informaras De Las Nuevas Cosas Durante Todo Los Años",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 2048
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "PIPE018",
+                                "avatar": "https://cdn.discordapp.com/avatars/852215815272923196/7289a5cf551efe6dcf1ff6c13cee064c.webp",
+                                "content": "**˚✧ ─────────── 🍰 ─────────── ✧˚\n                       ♡〜¿ZeusOpCraft〜♡\n˚✧ ─────────── 🍰 ─────────── ✧˚\nZeusOpcraft Es Una Comunidad De DISCORD De\nMinecraft Java y Bedrock De La Versión 1.16.5...\n\nAquí puedes hablar con otros jugadores de Minecraft, pedir\nayuda, compartir tus construcciones, buscar amigos para jugar\na Minecraft, enterarte de las últimas novedades y mucho más...\n\nLee nuestras normas para evitar que te sancionemos: #📜-𝐑𝗲𝗴𝗹𝗮𝘀 Y <#864626916429398056> \n\n➣ Más información sobre nuestro servidor: #📡-𝐀𝐧𝐮𝐧𝐜𝐢𝐨𝐬 \n\n➣ Nombre De Usuario: Pipe018\n\n➣ Invita tus amigos a este servidor con el siguiente enlace: https://discord.gg/XMxDzxVhZG\n\n⊱📎୭Dueño Y Gerente:\n            PIPE018\n⊱📎୭ ping: @everyone\n\n\nZeusOpCraft\n\nBienvenidos Espero Que Se Diviertan...**",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": true
+                    },
+                    {
+                        "type": "text",
+                        "name": "📄-𝗥𝗼𝗹𝗲𝘀",
+                        "nsfw": false,
+                        "rateLimitPerUser": 5,
+                        "parent": "== Información ==",
+                        "topic": "En Este Canal Podrás Ver Cual Es Rol",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 66560,
+                                "deny": 806811729
+                            },
+                            {
+                                "roleName": "Jefe-Administrador",
+                                "allow": 537365568,
+                                "deny": 268464145
+                            },
+                            {
+                                "roleName": "Jefe De Mantenimiento",
+                                "allow": 537365568,
+                                "deny": 268464145
+                            },
+                            {
+                                "roleName": "Administrador",
+                                "allow": 537365568,
+                                "deny": 268464145
+                            },
+                            {
+                                "roleName": "BOTS",
+                                "allow": 537365568,
+                                "deny": 268464145
+                            },
+                            {
+                                "roleName": "Diceñaro",
+                                "allow": 66560,
+                                "deny": 805763153
+                            },
+                            {
+                                "roleName": "Constructor",
+                                "allow": 66560,
+                                "deny": 805754961
+                            },
+                            {
+                                "roleName": "Moderador",
+                                "allow": 66560,
+                                "deny": 805763153
+                            },
+                            {
+                                "roleName": "Ayudante",
+                                "allow": 66560,
+                                "deny": 805763153
+                            },
+                            {
+                                "roleName": "Nitro Booster",
+                                "allow": 66560,
+                                "deny": 805763153
+                            },
+                            {
+                                "roleName": "Zeus",
+                                "allow": 66560,
+                                "deny": 805763153
+                            },
+                            {
+                                "roleName": "Omega",
+                                "allow": 66560,
+                                "deny": 805763153
+                            },
+                            {
+                                "roleName": "Paladin",
+                                "allow": 66560,
+                                "deny": 805763153
+                            },
+                            {
+                                "roleName": "V.I.P",
+                                "allow": 66560,
+                                "deny": 805763153
+                            },
+                            {
+                                "roleName": "Usuario Activo",
+                                "allow": 66560,
+                                "deny": 805763153
+                            },
+                            {
+                                "roleName": "Usuario",
+                                "allow": 66560,
+                                "deny": 805763153
+                            },
+                            {
+                                "roleName": "Amigos",
+                                "allow": 66560,
+                                "deny": 805763153
+                            },
+                            {
+                                "roleName": "Youtube",
+                                "allow": 66560,
+                                "deny": 805763153
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "📨-𝗦𝘂𝗴𝗲𝗿𝗲𝗻𝗰𝗶𝗮𝘀",
+                        "nsfw": false,
+                        "parent": "== Información ==",
+                        "topic": "En Este Canal Veras Tu Sugerencia",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 66560,
+                                "deny": 1058816
+                            },
+                            {
+                                "roleName": "Jefe-Administrador",
+                                "allow": 1049600,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "Jefe De Mantenimiento",
+                                "allow": 1049600,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "Administrador",
+                                "allow": 1049600,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "BOTS",
+                                "allow": 1049600,
+                                "deny": 0
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": true
+                    },
+                    {
+                        "type": "text",
+                        "name": "📰-𝗘𝗻𝗰𝘂𝗲𝘀𝘁𝗮𝘀",
+                        "nsfw": false,
+                        "rateLimitPerUser": 5,
+                        "parent": "== Información ==",
+                        "topic": "En Este Canal Veras Las Encuesta Que Publiquen Los Staff",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1049600
+                            },
+                            {
+                                "roleName": "Jefe-Administrador",
+                                "allow": 1049600,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "Jefe De Mantenimiento",
+                                "allow": 1049600,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "Administrador",
+                                "allow": 1049600,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "BOTS",
+                                "allow": 1049600,
+                                "deny": 0
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "🚀-𝙈𝙚𝙟𝙤𝙧𝙖𝙨",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "== Información ==",
+                        "topic": "En Este Canal Se Vera Las Mejoras Del Servidor",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 51200
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "̳̳-̳t̳i̳c̳k̳e̳t̳s̳",
+                        "nsfw": false,
+                        "rateLimitPerUser": 5,
+                        "parent": "== Información ==",
+                        "topic": "En Este Canal Podrás Abrir Y Ver Los Tickets",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1049600
+                            },
+                            {
+                                "roleName": "Jefe-Administrador",
+                                "allow": 1051648,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "Jefe De Mantenimiento",
+                                "allow": 1051648,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "Administrador",
+                                "allow": 1051648,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "BOTS",
+                                "allow": 1051648,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "Diceñaro",
+                                "allow": 461888,
+                                "deny": 805367825
+                            },
+                            {
+                                "roleName": "Constructor",
+                                "allow": 66560,
+                                "deny": 805763153
+                            },
+                            {
+                                "roleName": "Moderador",
+                                "allow": 461888,
+                                "deny": 805367825
+                            },
+                            {
+                                "roleName": "Ayudante",
+                                "allow": 461824,
+                                "deny": 805367889
+                            },
+                            {
+                                "roleName": "Nitro Booster",
+                                "allow": 66560,
+                                "deny": 805763153
+                            },
+                            {
+                                "roleName": "Zeus",
+                                "allow": 66560,
+                                "deny": 805763153
+                            },
+                            {
+                                "roleName": "Omega",
+                                "allow": 66560,
+                                "deny": 805763153
+                            },
+                            {
+                                "roleName": "Paladin",
+                                "allow": 66560,
+                                "deny": 805763153
+                            },
+                            {
+                                "roleName": "V.I.P",
+                                "allow": 66560,
+                                "deny": 805763153
+                            },
+                            {
+                                "roleName": "Usuario Activo",
+                                "allow": 66560,
+                                "deny": 805763153
+                            },
+                            {
+                                "roleName": "Usuario",
+                                "allow": 66560,
+                                "deny": 805763153
+                            },
+                            {
+                                "roleName": "Amigos",
+                                "allow": 66560,
+                                "deny": 805763153
+                            },
+                            {
+                                "roleName": "Youtube",
+                                "allow": 66560,
+                                "deny": 805763153
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "Ticket Tool",
+                                "avatar": "https://cdn.discordapp.com/avatars/557628352828014614/04cdd55608f6f9942c9ab3bbcab3932c.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": null,
+                                        "type": "rich",
+                                        "description": "To create a ticket react with 📩",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 3706428,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": {
+                                            "name": "Panel De Tickets"
+                                        },
+                                        "footer": {
+                                            "text": "TicketTool.xyz - Ticketing without clutter",
+                                            "icon_url": "https://tickettool.xyz/images/footer.png"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "📋-𝐅𝐚𝐜𝐭𝐮𝐫𝐚𝐜𝐢𝐨𝐧𝐞𝐬",
+                        "nsfw": false,
+                        "rateLimitPerUser": 5,
+                        "parent": "== Información ==",
+                        "topic": "En Este Canal Podrás Ver Y Pasar Facturas u Pago De La Compra",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1048576
+                            },
+                            {
+                                "roleName": "Jefe-Administrador",
+                                "allow": 1049600,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "Jefe De Mantenimiento",
+                                "allow": 1049600,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "Administrador",
+                                "allow": 1049600,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "BOTS",
+                                "allow": 1049600,
+                                "deny": 0
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "PIPE018",
+                                "avatar": "https://cdn.discordapp.com/avatars/852215815272923196/7289a5cf551efe6dcf1ff6c13cee064c.webp",
+                                "content": "**En Este Canal Puedes Pasar Factura O Pago De Lo Que Compraste En La Tienda Para Poder Confirmar Que hiciste Un Buen Pago...**\n\n***Perdón Por Desconfiar Pero Hay Que Ser Precavidos... ***\n\n***Gracias Por Su Atención Espero que ayas entendido...*** \n@everyone",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "==TOP==",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "𝗧𝗼𝗽-𝗦𝗲𝗺𝗮𝗻𝗮𝗹",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "==TOP==",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "𝐌𝐞𝐣𝐨𝐫-𝐒𝐭𝐚𝐟𝐟",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "==TOP==",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "𝙈𝙚𝙟𝙤𝙧-𝙅𝙪𝙜𝙖𝙙𝙤𝙧",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "==TOP==",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "𝗠𝗶𝗹𝗹𝗼𝗻𝗮𝗿𝗶𝗼",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "==TOP==",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "== Comunidad General ==",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "💬-𝐂𝐡𝐚𝐭-𝐆𝐞𝐧𝐞𝐫𝐚𝐥",
+                        "nsfw": false,
+                        "rateLimitPerUser": 5,
+                        "parent": "== Comunidad General ==",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [
+                            {
+                                "username": "Dats - Team Wumpus 👻",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "w!backupcreate",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus 👻",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "Good bye",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "PIPE018",
+                                "avatar": "https://cdn.discordapp.com/avatars/852215815272923196/7289a5cf551efe6dcf1ff6c13cee064c.webp",
+                                "content": "https://cdn.discordapp.com/emojis/795629252442587187.gif?v=1",
+                                "embeds": [
+                                    {
+                                        "title": null,
+                                        "type": "rich",
+                                        "description": null,
+                                        "url": "https://cdn.discordapp.com/emojis/795629252442587187.gif?v=1",
+                                        "timestamp": null,
+                                        "color": null,
+                                        "fields": [],
+                                        "thumbnail": {
+                                            "url": "https://cdn.discordapp.com/emojis/795629252442587187.gif?v=1",
+                                            "proxyURL": "https://images-ext-1.discordapp.net/external/0rZ6BU--boom_H9ywRBpyP-DMhjj8pmKtKwjwplspK4/%3Fv%3D1/https/cdn.discordapp.com/emojis/795629252442587187.gif",
+                                            "height": 128,
+                                            "width": 128
+                                        },
+                                        "image": null,
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "PIPE018",
+                                "avatar": "https://cdn.discordapp.com/avatars/852215815272923196/7289a5cf551efe6dcf1ff6c13cee064c.webp",
+                                "content": "@everyone",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "PIPE018",
+                                "avatar": "https://cdn.discordapp.com/avatars/852215815272923196/7289a5cf551efe6dcf1ff6c13cee064c.webp",
+                                "content": "https://media.tenor.com/images/8fe2c83d193bd1976460a2b422a81432/tenor.gif\n@everyone",
+                                "embeds": [
+                                    {
+                                        "title": null,
+                                        "type": "rich",
+                                        "description": null,
+                                        "url": "https://media.tenor.com/images/8fe2c83d193bd1976460a2b422a81432/tenor.gif",
+                                        "timestamp": null,
+                                        "color": null,
+                                        "fields": [],
+                                        "thumbnail": {
+                                            "url": "https://media.tenor.com/images/8fe2c83d193bd1976460a2b422a81432/tenor.gif",
+                                            "proxyURL": "https://images-ext-2.discordapp.net/external/YAeZeoFEKSvJ4bo_2NIqUClUEAn_FRbm9GV4aorBe6I/https/media.tenor.com/images/8fe2c83d193bd1976460a2b422a81432/tenor.gif",
+                                            "height": 90,
+                                            "width": 160
+                                        },
+                                        "image": null,
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "PIPE018",
+                                "avatar": "https://cdn.discordapp.com/avatars/852215815272923196/7289a5cf551efe6dcf1ff6c13cee064c.webp",
+                                "content": "Este sera eliminado en 12h 10m 50s\n@everyone",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "PIPE018",
+                                "avatar": "https://cdn.discordapp.com/avatars/852215815272923196/7289a5cf551efe6dcf1ff6c13cee064c.webp",
+                                "content": "Únanse al nuevo servidor de Discord ya que este sera eliminado por pequeños errores \n\nSon bienvenidos @everyone \n\nhttps://discord.gg/7wCuw6DsTu",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus 👻",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "Hmmmm",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MaxiTuber 12",
+                                "avatar": "https://cdn.discordapp.com/avatars/738099037848469636/28b15848d248bd633dec327af9814b28.webp",
+                                "content": "A",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "PIPE018",
+                                "avatar": "https://cdn.discordapp.com/avatars/852215815272923196/7289a5cf551efe6dcf1ff6c13cee064c.webp",
+                                "content": "nc",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MaxiTuber 12",
+                                "avatar": "https://cdn.discordapp.com/avatars/738099037848469636/28b15848d248bd633dec327af9814b28.webp",
+                                "content": "?",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MaxiTuber 12",
+                                "avatar": "https://cdn.discordapp.com/avatars/738099037848469636/28b15848d248bd633dec327af9814b28.webp",
+                                "content": "En el java",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "PIPE018",
+                                "avatar": "https://cdn.discordapp.com/avatars/852215815272923196/7289a5cf551efe6dcf1ff6c13cee064c.webp",
+                                "content": "donde?",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MaxiTuber 12",
+                                "avatar": "https://cdn.discordapp.com/avatars/738099037848469636/28b15848d248bd633dec327af9814b28.webp",
+                                "content": "Como te añado",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MaxiTuber 12",
+                                "avatar": "https://cdn.discordapp.com/avatars/738099037848469636/28b15848d248bd633dec327af9814b28.webp",
+                                "content": "O java",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "PIPE018",
+                                "avatar": "https://cdn.discordapp.com/avatars/852215815272923196/7289a5cf551efe6dcf1ff6c13cee064c.webp",
+                                "content": "java",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MaxiTuber 12",
+                                "avatar": "https://cdn.discordapp.com/avatars/738099037848469636/28b15848d248bd633dec327af9814b28.webp",
+                                "content": "Juegas minecraft bedrock",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MaxiTuber 12",
+                                "avatar": "https://cdn.discordapp.com/avatars/738099037848469636/28b15848d248bd633dec327af9814b28.webp",
+                                "content": "Que le pasaba",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MaxiTuber 12",
+                                "avatar": "https://cdn.discordapp.com/avatars/738099037848469636/28b15848d248bd633dec327af9814b28.webp",
+                                "content": "<:__:867578581805957140>",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MaxiTuber 12",
+                                "avatar": "https://cdn.discordapp.com/avatars/738099037848469636/28b15848d248bd633dec327af9814b28.webp",
+                                "content": "Solo el ig",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MaxiTuber 12",
+                                "avatar": "https://cdn.discordapp.com/avatars/738099037848469636/28b15848d248bd633dec327af9814b28.webp",
+                                "content": "Dime",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "PIPE018",
+                                "avatar": "https://cdn.discordapp.com/avatars/852215815272923196/7289a5cf551efe6dcf1ff6c13cee064c.webp",
+                                "content": "spotify Y Instagram es lo que uso",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MaxiTuber 12",
+                                "avatar": "https://cdn.discordapp.com/avatars/738099037848469636/28b15848d248bd633dec327af9814b28.webp",
+                                "content": "Nada",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MaxiTuber 12",
+                                "avatar": "https://cdn.discordapp.com/avatars/738099037848469636/28b15848d248bd633dec327af9814b28.webp",
+                                "content": "A",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "PIPE018",
+                                "avatar": "https://cdn.discordapp.com/avatars/852215815272923196/7289a5cf551efe6dcf1ff6c13cee064c.webp",
+                                "content": "no uso eso, Y Yt por ahora lo tengo desactivado",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MaxiTuber 12",
+                                "avatar": "https://cdn.discordapp.com/avatars/738099037848469636/28b15848d248bd633dec327af9814b28.webp",
+                                "content": "Dime tu twitch ig y YouTube",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MaxiTuber 12",
+                                "avatar": "https://cdn.discordapp.com/avatars/738099037848469636/28b15848d248bd633dec327af9814b28.webp",
+                                "content": "<:2326tomwhat:868474563506339900>",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MaxiTuber 12",
+                                "avatar": "https://cdn.discordapp.com/avatars/738099037848469636/28b15848d248bd633dec327af9814b28.webp",
+                                "content": "Aja",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "PIPE018",
+                                "avatar": "https://cdn.discordapp.com/avatars/852215815272923196/7289a5cf551efe6dcf1ff6c13cee064c.webp",
+                                "content": "casino pokemon hay roles que ganar",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MaxiTuber 12",
+                                "avatar": "https://cdn.discordapp.com/avatars/738099037848469636/28b15848d248bd633dec327af9814b28.webp",
+                                "content": "<:__:867578581805957140>",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "PIPE018",
+                                "avatar": "https://cdn.discordapp.com/avatars/852215815272923196/7289a5cf551efe6dcf1ff6c13cee064c.webp",
+                                "content": "hola",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MaxiTuber 12",
+                                "avatar": "https://cdn.discordapp.com/avatars/738099037848469636/28b15848d248bd633dec327af9814b28.webp",
+                                "content": "A",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "PIPE018",
+                                "avatar": "https://cdn.discordapp.com/avatars/852215815272923196/7289a5cf551efe6dcf1ff6c13cee064c.webp",
+                                "content": "por que la gente publica muchas cosas",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MaxiTuber 12",
+                                "avatar": "https://cdn.discordapp.com/avatars/738099037848469636/28b15848d248bd633dec327af9814b28.webp",
+                                "content": "?",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MEE6",
+                                "avatar": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.webp",
+                                "content": "GG @​MaxiTuber 12, you just advanced to level 2!",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MaxiTuber 12",
+                                "avatar": "https://cdn.discordapp.com/avatars/738099037848469636/28b15848d248bd633dec327af9814b28.webp",
+                                "content": "Pq",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "PIPE018",
+                                "avatar": "https://cdn.discordapp.com/avatars/852215815272923196/7289a5cf551efe6dcf1ff6c13cee064c.webp",
+                                "content": "No",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MaxiTuber 12",
+                                "avatar": "https://cdn.discordapp.com/avatars/738099037848469636/28b15848d248bd633dec327af9814b28.webp",
+                                "content": "Por que no quitas el modo pausado",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MaxiTuber 12",
+                                "avatar": "https://cdn.discordapp.com/avatars/738099037848469636/28b15848d248bd633dec327af9814b28.webp",
+                                "content": "Ah",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "PIPE018",
+                                "avatar": "https://cdn.discordapp.com/avatars/852215815272923196/7289a5cf551efe6dcf1ff6c13cee064c.webp",
+                                "content": "en relos-facciones hay auto-roles",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MaxiTuber 12",
+                                "avatar": "https://cdn.discordapp.com/avatars/738099037848469636/28b15848d248bd633dec327af9814b28.webp",
+                                "content": "Dame mod",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MaxiTuber 12",
+                                "avatar": "https://cdn.discordapp.com/avatars/738099037848469636/28b15848d248bd633dec327af9814b28.webp",
+                                "content": "Mod",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "PIPE018",
+                                "avatar": "https://cdn.discordapp.com/avatars/852215815272923196/7289a5cf551efe6dcf1ff6c13cee064c.webp",
+                                "content": "tengo disponible Mod y ayudante",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MaxiTuber 12",
+                                "avatar": "https://cdn.discordapp.com/avatars/738099037848469636/28b15848d248bd633dec327af9814b28.webp",
+                                "content": "Henlo",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus 👻",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "https://tenor.com/view/hello-wave-cute-anime-cartoon-gif-7537923",
+                                "embeds": [
+                                    {
+                                        "title": null,
+                                        "type": "rich",
+                                        "description": null,
+                                        "url": "https://tenor.com/view/hello-wave-cute-anime-cartoon-gif-7537923",
+                                        "timestamp": null,
+                                        "color": null,
+                                        "fields": [],
+                                        "thumbnail": {
+                                            "url": "https://media.tenor.co/images/40fd3ba1d81565e4f4cbceb3e2d6289e/tenor.png",
+                                            "proxyURL": "https://images-ext-2.discordapp.net/external/BPaXevwsSdrwSyE_-NNEAZaHyIG7cS7jiyEnd6fSxcE/https/media.tenor.co/images/40fd3ba1d81565e4f4cbceb3e2d6289e/tenor.png",
+                                            "height": 240,
+                                            "width": 240
+                                        },
+                                        "image": null,
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MaxiTuber 12",
+                                "avatar": "https://cdn.discordapp.com/avatars/738099037848469636/28b15848d248bd633dec327af9814b28.webp",
+                                "content": "Hola",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus 👻",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "Hola",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MaxiTuber 12",
+                                "avatar": "https://cdn.discordapp.com/avatars/738099037848469636/28b15848d248bd633dec327af9814b28.webp",
+                                "content": "Oh",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus 👻",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "xDD",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "PIPE018",
+                                "avatar": "https://cdn.discordapp.com/avatars/852215815272923196/7289a5cf551efe6dcf1ff6c13cee064c.webp",
+                                "content": "era jefe de mantenimiento",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MaxiTuber 12",
+                                "avatar": "https://cdn.discordapp.com/avatars/738099037848469636/28b15848d248bd633dec327af9814b28.webp",
+                                "content": "Otro rango que tengas",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "PIPE018",
+                                "avatar": "https://cdn.discordapp.com/avatars/852215815272923196/7289a5cf551efe6dcf1ff6c13cee064c.webp",
+                                "content": "me confundi",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MaxiTuber 12",
+                                "avatar": "https://cdn.discordapp.com/avatars/738099037848469636/28b15848d248bd633dec327af9814b28.webp",
+                                "content": "A",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "PIPE018",
+                                "avatar": "https://cdn.discordapp.com/avatars/852215815272923196/7289a5cf551efe6dcf1ff6c13cee064c.webp",
+                                "content": "no se puede ya tengo es puesto admin ocupado que son @​Dats y un amigo",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MaxiTuber 12",
+                                "avatar": "https://cdn.discordapp.com/avatars/738099037848469636/28b15848d248bd633dec327af9814b28.webp",
+                                "content": "<:7346pepehmmm:868480301830115328>",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MaxiTuber 12",
+                                "avatar": "https://cdn.discordapp.com/avatars/738099037848469636/28b15848d248bd633dec327af9814b28.webp",
+                                "content": "Yo no les tengo respeto",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "PIPE018",
+                                "avatar": "https://cdn.discordapp.com/avatars/852215815272923196/7289a5cf551efe6dcf1ff6c13cee064c.webp",
+                                "content": "entonces para que dices eso",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MaxiTuber 12",
+                                "avatar": "https://cdn.discordapp.com/avatars/738099037848469636/28b15848d248bd633dec327af9814b28.webp",
+                                "content": "Yo menos",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MaxiTuber 12",
+                                "avatar": "https://cdn.discordapp.com/avatars/738099037848469636/28b15848d248bd633dec327af9814b28.webp",
+                                "content": "Xd",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "PIPE018",
+                                "avatar": "https://cdn.discordapp.com/avatars/852215815272923196/7289a5cf551efe6dcf1ff6c13cee064c.webp",
+                                "content": "Primero no respondo esas pregunta \ny segundo no soy de ese combo",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MaxiTuber 12",
+                                "avatar": "https://cdn.discordapp.com/avatars/738099037848469636/28b15848d248bd633dec327af9814b28.webp",
+                                "content": "Give me admin plz",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MaxiTuber 12",
+                                "avatar": "https://cdn.discordapp.com/avatars/738099037848469636/28b15848d248bd633dec327af9814b28.webp",
+                                "content": "Dime?",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "PIPE018",
+                                "avatar": "https://cdn.discordapp.com/avatars/852215815272923196/7289a5cf551efe6dcf1ff6c13cee064c.webp",
+                                "content": "Mierda por que esa pregunta???",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MaxiTuber 12",
+                                "avatar": "https://cdn.discordapp.com/avatars/738099037848469636/28b15848d248bd633dec327af9814b28.webp",
+                                "content": "<:__:867580419535929384>",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MaxiTuber 12",
+                                "avatar": "https://cdn.discordapp.com/avatars/738099037848469636/28b15848d248bd633dec327af9814b28.webp",
+                                "content": "Una pregunta le tenes respeto alos gay",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MaxiTuber 12",
+                                "avatar": "https://cdn.discordapp.com/avatars/738099037848469636/28b15848d248bd633dec327af9814b28.webp",
+                                "content": "No soy gay",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MaxiTuber 12",
+                                "avatar": "https://cdn.discordapp.com/avatars/738099037848469636/28b15848d248bd633dec327af9814b28.webp",
+                                "content": "<:7346pepehmmm:868480301830115328>",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MaxiTuber 12",
+                                "avatar": "https://cdn.discordapp.com/avatars/738099037848469636/28b15848d248bd633dec327af9814b28.webp",
+                                "content": "<:__:867580419535929384>",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "PIPE018",
+                                "avatar": "https://cdn.discordapp.com/avatars/852215815272923196/7289a5cf551efe6dcf1ff6c13cee064c.webp",
+                                "content": "<:__:867580419535929384>",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MaxiTuber 12",
+                                "avatar": "https://cdn.discordapp.com/avatars/738099037848469636/28b15848d248bd633dec327af9814b28.webp",
+                                "content": "Xd",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MaxiTuber 12",
+                                "avatar": "https://cdn.discordapp.com/avatars/738099037848469636/28b15848d248bd633dec327af9814b28.webp",
+                                "content": "Muere gay<:1948lgbtqiheartonfire:868474515519316008>",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "PIPE018",
+                                "avatar": "https://cdn.discordapp.com/avatars/852215815272923196/7289a5cf551efe6dcf1ff6c13cee064c.webp",
+                                "content": "muy pronto llegaran nuevos miembros <:8626elegant:868476322534535188>",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus 👻",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "gracias",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus 👻",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "u.u",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "PIPE018",
+                                "avatar": "https://cdn.discordapp.com/avatars/852215815272923196/7289a5cf551efe6dcf1ff6c13cee064c.webp",
+                                "content": "Jajaja",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus 👻",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "😄",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus 👻",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "I'm admin",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus 👻",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": ":0",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus 👻",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "Hola :D",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MaxiTuber 12",
+                                "avatar": "https://cdn.discordapp.com/avatars/738099037848469636/28b15848d248bd633dec327af9814b28.webp",
+                                "content": "Comp te puedo agradecer",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MEE6",
+                                "avatar": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.webp",
+                                "content": "GG @​MaxiTuber 12, you just advanced to level 1!",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MaxiTuber 12",
+                                "avatar": "https://cdn.discordapp.com/avatars/738099037848469636/28b15848d248bd633dec327af9814b28.webp",
+                                "content": "A",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "PIPE018",
+                                "avatar": "https://cdn.discordapp.com/avatars/852215815272923196/7289a5cf551efe6dcf1ff6c13cee064c.webp",
+                                "content": "esos son útiles y algunos son de juegos",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MaxiTuber 12",
+                                "avatar": "https://cdn.discordapp.com/avatars/738099037848469636/28b15848d248bd633dec327af9814b28.webp",
+                                "content": "Tenes más bots que yo",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MaxiTuber 12",
+                                "avatar": "https://cdn.discordapp.com/avatars/738099037848469636/28b15848d248bd633dec327af9814b28.webp",
+                                "content": "👍",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "PIPE018",
+                                "avatar": "https://cdn.discordapp.com/avatars/852215815272923196/7289a5cf551efe6dcf1ff6c13cee064c.webp",
+                                "content": "https://cdn.discordapp.com/emojis/765696167710425109.png?v=1",
+                                "embeds": [
+                                    {
+                                        "title": null,
+                                        "type": "rich",
+                                        "description": null,
+                                        "url": "https://cdn.discordapp.com/emojis/765696167710425109.png?v=1",
+                                        "timestamp": null,
+                                        "color": null,
+                                        "fields": [],
+                                        "thumbnail": {
+                                            "url": "https://cdn.discordapp.com/emojis/765696167710425109.png?v=1",
+                                            "proxyURL": "https://images-ext-2.discordapp.net/external/A9ErsVtviG0ABz9pPkIIGlSmJ7hBNP8uOME9x2IQZtY/%3Fv%3D1/https/cdn.discordapp.com/emojis/765696167710425109.png",
+                                            "height": 104,
+                                            "width": 104
+                                        },
+                                        "image": null,
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MaxiTuber 12",
+                                "avatar": "https://cdn.discordapp.com/avatars/738099037848469636/28b15848d248bd633dec327af9814b28.webp",
+                                "content": "Bueno",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "PIPE018",
+                                "avatar": "https://cdn.discordapp.com/avatars/852215815272923196/7289a5cf551efe6dcf1ff6c13cee064c.webp",
+                                "content": "si",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "PIPE018",
+                                "avatar": "https://cdn.discordapp.com/avatars/852215815272923196/7289a5cf551efe6dcf1ff6c13cee064c.webp",
+                                "content": "ok",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MaxiTuber 12",
+                                "avatar": "https://cdn.discordapp.com/avatars/738099037848469636/28b15848d248bd633dec327af9814b28.webp",
+                                "content": "<:__:867580419535929384>",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MaxiTuber 12",
+                                "avatar": "https://cdn.discordapp.com/avatars/738099037848469636/28b15848d248bd633dec327af9814b28.webp",
+                                "content": "Ya entrate ami server pibe",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MaxiTuber 12",
+                                "avatar": "https://cdn.discordapp.com/avatars/738099037848469636/28b15848d248bd633dec327af9814b28.webp",
+                                "content": "Hola",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "PIPE018",
+                                "avatar": "https://cdn.discordapp.com/avatars/852215815272923196/7289a5cf551efe6dcf1ff6c13cee064c.webp",
+                                "content": "hola",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MaxiTuber 12",
+                                "avatar": "https://cdn.discordapp.com/avatars/738099037848469636/28b15848d248bd633dec327af9814b28.webp",
+                                "content": "<:__:867580419535929384>",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MaxiTuber 12",
+                                "avatar": "https://cdn.discordapp.com/avatars/738099037848469636/28b15848d248bd633dec327af9814b28.webp",
+                                "content": "Hi",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "PIPE018",
+                                "avatar": "https://cdn.discordapp.com/avatars/852215815272923196/7289a5cf551efe6dcf1ff6c13cee064c.webp",
+                                "content": "**Welcome To This New OMEGA GEME Family 👏 🎉**",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "PIPE018",
+                                "avatar": "https://cdn.discordapp.com/avatars/852215815272923196/7289a5cf551efe6dcf1ff6c13cee064c.webp",
+                                "content": "**Bienvenidos A Esta Nueva Familia OMEGA GAME 👏 🎉**",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "PIPE018",
+                                "avatar": "https://cdn.discordapp.com/avatars/852215815272923196/7289a5cf551efe6dcf1ff6c13cee064c.webp",
+                                "content": "",
+                                "embeds": [],
+                                "files": [
+                                    {
+                                        "name": "Z.png",
+                                        "attachment": "https://cdn.discordapp.com/attachments/864494180712579092/870312273997074462/Z.png"
+                                    }
+                                ],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "🤝-𝐀𝐲𝐮𝐝𝐚-𝐒𝐨𝐩𝐨𝐫𝐭𝐞𝐬",
+                        "nsfw": false,
+                        "rateLimitPerUser": 5,
+                        "parent": "== Comunidad General ==",
+                        "topic": "En Este Canal Puedes Pedir Ayuda En Cual Quier Duda",
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "📂-𝐑𝐞𝐩𝐨𝐫𝐭𝐞𝐬",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "== Comunidad General ==",
+                        "topic": "En Este Canal Podrás Hacer Cual Quier Reporte De Algo Ilegal",
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "⌨-𝐂𝐨𝐦𝐚𝐧𝐝𝐨",
+                        "nsfw": false,
+                        "rateLimitPerUser": 5,
+                        "parent": "== Comunidad General ==",
+                        "topic": "En Este Canal Podrás Ejecutar Los Comandos",
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "📋-𝙋𝙤𝙨𝙩𝙪𝙡𝙖𝙘𝙞𝙤𝙣𝙚𝙨",
+                        "nsfw": false,
+                        "rateLimitPerUser": 5,
+                        "parent": "== Comunidad General ==",
+                        "topic": "En Este Canal Te Podrás Postular Cuando Un Staff Suba Una Planilla De Postulaciones",
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "== Entretenimiento ==",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "📹-𝐕í𝐝𝐞𝐨𝐬",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "== Entretenimiento ==",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "📺-𝘼𝙣𝙞𝙢𝙚",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "== Entretenimiento ==",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "𝗠𝗲𝗺𝗲",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "== Entretenimiento ==",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "⏳-𝗡𝗦𝗙𝗪",
+                        "nsfw": true,
+                        "rateLimitPerUser": 0,
+                        "parent": "== Entretenimiento ==",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "== Zona Trending ==",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "voice",
+                        "name": "🎤-𝙆𝙖𝙧𝙖𝙤𝙠𝙚",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "== Zona Trending ==",
+                        "permissions": []
+                    },
+                    {
+                        "type": "text",
+                        "name": "📓-𝗟𝗲𝘁𝗿𝗮-𝗠𝘂𝘀𝗶𝗰𝗮𝗹𝗲𝘀",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "== Zona Trending ==",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "💽-𝘿𝙅",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "== Zona Trending ==",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "🎧-𝗖𝗼𝗺𝗮𝗻𝗱𝗼-𝗠ú𝘀𝗶𝗰𝗮",
+                        "nsfw": false,
+                        "rateLimitPerUser": 5,
+                        "parent": "== Zona Trending ==",
+                        "topic": "En Este Canal Podrás Ejecutar Los Comandos Musicales",
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "== Tu Voz ==",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "voice",
+                        "name": "🔊 General 1",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "== Tu Voz ==",
+                        "permissions": []
+                    },
+                    {
+                        "type": "voice",
+                        "name": "🔊 General 2",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "== Tu Voz ==",
+                        "permissions": []
+                    },
+                    {
+                        "type": "voice",
+                        "name": "🎵 Música 1",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "== Tu Voz ==",
+                        "permissions": []
+                    },
+                    {
+                        "type": "voice",
+                        "name": "🎵 Música 2",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "== Tu Voz ==",
+                        "permissions": []
+                    },
+                    {
+                        "type": "voice",
+                        "name": "📚 Entrevistas",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "== Tu Voz ==",
+                        "permissions": []
+                    },
+                    {
+                        "type": "voice",
+                        "name": "𝗔𝗙𝗞",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "== Tu Voz ==",
+                        "permissions": []
+                    }
+                ]
+            },
+            {
+                "name": "== Mini-Juegos ==",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "💎-𝐂𝐚𝐬𝐢𝐧𝐨-𝐁𝐚𝐬𝐢𝐜𝐨",
+                        "nsfw": false,
+                        "rateLimitPerUser": 5,
+                        "parent": "== Mini-Juegos ==",
+                        "topic": "Juega Y Gana Money En Este Casino...",
+                        "permissions": [],
+                        "messages": [
+                            {
+                                "username": "UnbelievaBoat",
+                                "avatar": "https://cdn.discordapp.com/avatars/292953664492929025/c47af6e9bae8a91779996fa412b24207.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": null,
+                                        "type": "rich",
+                                        "description": "Leaderboard Rank: 1st",
+                                        "url": null,
+                                        "timestamp": "2021-07-29T14:25:08.833Z",
+                                        "color": 240116,
+                                        "fields": [
+                                            {
+                                                "name": "Cash:",
+                                                "value": "<:unbelievacoin:841476070075269140> 477",
+                                                "inline": true
+                                            },
+                                            {
+                                                "name": "Bank:",
+                                                "value": "<:unbelievacoin:841476070075269140> 0",
+                                                "inline": true
+                                            },
+                                            {
+                                                "name": "Total:",
+                                                "value": "<:unbelievacoin:841476070075269140> 477",
+                                                "inline": true
+                                            }
+                                        ],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": {
+                                            "name": "PIPE018#3534",
+                                            "url": "https://unbelievaboat.com/leaderboard/864332995271327764/852215815272923196",
+                                            "icon_url": "https://cdn.discordapp.com/avatars/852215815272923196/7289a5cf551efe6dcf1ff6c13cee064c.png?size=128"
+                                        },
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "PIPE018",
+                                "avatar": "https://cdn.discordapp.com/avatars/852215815272923196/7289a5cf551efe6dcf1ff6c13cee064c.webp",
+                                "content": "!bal",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "UnbelievaBoat",
+                                "avatar": "https://cdn.discordapp.com/avatars/292953664492929025/c47af6e9bae8a91779996fa412b24207.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": null,
+                                        "type": "rich",
+                                        "description": "You robbed secret files from the FBI building. But your team was set up and you lost <:unbelievacoin:841476070075269140> 256",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 15684432,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": {
+                                            "name": "PIPE018#3534",
+                                            "icon_url": "https://cdn.discordapp.com/avatars/852215815272923196/7289a5cf551efe6dcf1ff6c13cee064c.png?size=128"
+                                        },
+                                        "footer": {
+                                            "text": "Reply #636088"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "PIPE018",
+                                "avatar": "https://cdn.discordapp.com/avatars/852215815272923196/7289a5cf551efe6dcf1ff6c13cee064c.webp",
+                                "content": "!crime",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "UnbelievaBoat",
+                                "avatar": "https://cdn.discordapp.com/avatars/292953664492929025/c47af6e9bae8a91779996fa412b24207.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": null,
+                                        "type": "rich",
+                                        "description": "You flashed your tits while streaming and received <:unbelievacoin:841476070075269140> 150 in donations!",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 6732650,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": {
+                                            "name": "PIPE018#3534",
+                                            "icon_url": "https://cdn.discordapp.com/avatars/852215815272923196/7289a5cf551efe6dcf1ff6c13cee064c.png?size=128"
+                                        },
+                                        "footer": {
+                                            "text": "Reply #636030"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "PIPE018",
+                                "avatar": "https://cdn.discordapp.com/avatars/852215815272923196/7289a5cf551efe6dcf1ff6c13cee064c.webp",
+                                "content": "!slut",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MEE6",
+                                "avatar": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": null,
+                                        "type": "rich",
+                                        "description": "PIPE018, you started working. Come back in **1 hour** to claim your paycheck of 192 :coin: with `/work claim`, or use `/work` to work again.",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 6345206,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "UnbelievaBoat",
+                                "avatar": "https://cdn.discordapp.com/avatars/292953664492929025/c47af6e9bae8a91779996fa412b24207.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": null,
+                                        "type": "rich",
+                                        "description": "You sweep the floor and get paid <:unbelievacoin:841476070075269140> 189",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 6732650,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": {
+                                            "name": "PIPE018#3534",
+                                            "icon_url": "https://cdn.discordapp.com/avatars/852215815272923196/7289a5cf551efe6dcf1ff6c13cee064c.png?size=128"
+                                        },
+                                        "footer": {
+                                            "text": "Reply #636337"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "PIPE018",
+                                "avatar": "https://cdn.discordapp.com/avatars/852215815272923196/7289a5cf551efe6dcf1ff6c13cee064c.webp",
+                                "content": "!work",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MEE6",
+                                "avatar": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.webp",
+                                "content": "GG @​PIPE, you just advanced to level 7!",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "PIPE018",
+                                "avatar": "https://cdn.discordapp.com/avatars/852215815272923196/7289a5cf551efe6dcf1ff6c13cee064c.webp",
+                                "content": "\\work",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "PIPE018",
+                                "avatar": "https://cdn.discordapp.com/avatars/852215815272923196/7289a5cf551efe6dcf1ff6c13cee064c.webp",
+                                "content": "**Bienvenido Al Casino-Básico Puedes Ganar Money Aquí, Juega Para que No Te Aburras....\n\nSuerte Ganado...**\n@everyone",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "🎮-𝗖𝗮𝘀𝗶𝗻𝗼-𝗣𝗼𝗸𝗲𝗺𝗼𝗻",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "== Mini-Juegos ==",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 68608,
+                                "deny": 0
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "PIPE018",
+                                "avatar": "https://cdn.discordapp.com/avatars/852215815272923196/7289a5cf551efe6dcf1ff6c13cee064c.webp",
+                                "content": "**Rangos Pokemon...\nTe Daremos Rango Por Cada Pokemon Que Atrapes En Total De Rangos Hay 10...\n\nSi Llegas A Los 30\nPokemones Capturado Te Llevas \nEl Rango = @Poke-Rango(Plata) \n\nSi Llegas A Los 40\nPokemones Capturado Te Llevas \nEl Rango = @Poke-Rango(Oro) \n\nSi Llegas A Los 50\nPokemones Capturado Te Llevas \nEl Rango = @Poke-Rango(Diamante) \n\nSi Llegas A Los 60\nPokemones Capturado Te Llevas \nEl Rango = @Poke-Rango(Esmeralda) \n\nSi Llegas A Los 70\nPokemones Capturado Te Llevas \nEl Rango = @Poke-Rango(Ninja) \n\nSi Llegas A Los 80\nPokemones Capturado Te Llevas \nEl Rango = @Poke-Rango(Guardián) \n\nSi Llegas A Los 90\nPokemones Capturado Te Llevas \nEl Rango = @Poke-Rango(Ultra) \n\nSi Llegas A Los 100\nPokemones Capturado Te Llevas \nEl Rango = @Poke-Rango(Entrenador)\n\nSi Llegas A Los 200\nPokemones Capturado Te Llevas \nEl Rango = @Poke-Rango(Semi-Legendario) \n\nSi Llegas A Los 300\nPokemones Capturado Te Llevas \nEl Rango = @Poke-Rango(Legendario) \n\nEsos Son Los Rangos Por Cada Rango Lo Ayudara A Mejorar En El Servidor, Pero OJO Para Confirmar Que Usted A Llegado A Esa Cantidad De Capturas Mande Foto Al Canal De #📋-𝐅𝐚𝐜𝐭𝐮𝐫𝐚𝐜𝐢𝐨𝐧𝐞𝐬 Gracias ...\n\n@everyone**",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MaxiTuber 12",
+                                "avatar": "https://cdn.discordapp.com/avatars/738099037848469636/28b15848d248bd633dec327af9814b28.webp",
+                                "content": "A",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "PIPE018",
+                                "avatar": "https://cdn.discordapp.com/avatars/852215815272923196/7289a5cf551efe6dcf1ff6c13cee064c.webp",
+                                "content": "El mismo PIPE018",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MaxiTuber 12",
+                                "avatar": "https://cdn.discordapp.com/avatars/738099037848469636/28b15848d248bd633dec327af9814b28.webp",
+                                "content": "Me decís tu nombre de minecraft java",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MaxiTuber 12",
+                                "avatar": "https://cdn.discordapp.com/avatars/738099037848469636/28b15848d248bd633dec327af9814b28.webp",
+                                "content": "A",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "PIPE018",
+                                "avatar": "https://cdn.discordapp.com/avatars/852215815272923196/7289a5cf551efe6dcf1ff6c13cee064c.webp",
+                                "content": "terminando de configurar unas cosas, aprovechar que estoy libre asta las 2 de la tarde",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MaxiTuber 12",
+                                "avatar": "https://cdn.discordapp.com/avatars/738099037848469636/28b15848d248bd633dec327af9814b28.webp",
+                                "content": "Que haces",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "PIPE018",
+                                "avatar": "https://cdn.discordapp.com/avatars/852215815272923196/7289a5cf551efe6dcf1ff6c13cee064c.webp",
+                                "content": "#🎮-𝗖𝗮𝘀𝗶𝗻𝗼-𝗣𝗼𝗸𝗲𝗺𝗼𝗻",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Pokétwo",
+                                "avatar": "https://cdn.discordapp.com/avatars/716390085896962058/2489a9b2c2eb951ed908be416ced10a2.webp",
+                                "content": "Please specify channels to redirect to!",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "PIPE018",
+                                "avatar": "https://cdn.discordapp.com/avatars/852215815272923196/7289a5cf551efe6dcf1ff6c13cee064c.webp",
+                                "content": "p!redirect #pokemon",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Pokétwo",
+                                "avatar": "https://cdn.discordapp.com/avatars/716390085896962058/2489a9b2c2eb951ed908be416ced10a2.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "A wild pokémon has appeared!",
+                                        "type": "rich",
+                                        "description": "Guess the pokémon and type `p!catch <pokémon>` to catch it!",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 16685769,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": {
+                                            "url": "https://cdn.discordapp.com/attachments/867817760627884053/870318184845152276/pokemon.jpg",
+                                            "proxyURL": "https://media.discordapp.net/attachments/867817760627884053/870318184845152276/pokemon.jpg",
+                                            "height": 500,
+                                            "width": 800
+                                        },
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "PIPE018",
+                                "avatar": "https://cdn.discordapp.com/avatars/852215815272923196/7289a5cf551efe6dcf1ff6c13cee064c.webp",
+                                "content": "#🎮-𝗖𝗮𝘀𝗶𝗻𝗼-𝗣𝗼𝗸𝗲𝗺𝗼𝗻",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Pokétwo",
+                                "avatar": "https://cdn.discordapp.com/avatars/716390085896962058/2489a9b2c2eb951ed908be416ced10a2.webp",
+                                "content": "Please specify channels to redirect to!",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "PIPE018",
+                                "avatar": "https://cdn.discordapp.com/avatars/852215815272923196/7289a5cf551efe6dcf1ff6c13cee064c.webp",
+                                "content": "p!redirect #spawn-1 #spawn-2",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Shadow Lugia",
+                                "avatar": "https://cdn.discordapp.com/avatars/795050413279019028/563bde94ce0e361d4fc51f9fb046b9b5.webp",
+                                "content": "**Reminder for @​PIPE:** Your `;p` command is ready!",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Shadow Lugia",
+                                "avatar": "https://cdn.discordapp.com/avatars/795050413279019028/563bde94ce0e361d4fc51f9fb046b9b5.webp",
+                                "content": "**PIPE018**, your `;p` timer is set to :alarm_clock: **8 seconds**!",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "PIPE018",
+                                "avatar": "https://cdn.discordapp.com/avatars/852215815272923196/7289a5cf551efe6dcf1ff6c13cee064c.webp",
+                                "content": "pb",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "PokéMeow",
+                                "avatar": "https://cdn.discordapp.com/avatars/664508672713424926/3dd0ed78abba4b8b7405bea7506343d4.webp",
+                                "content": "Your <:4_:722255594127360052> **Charmander** gained **250** EXP!\n\n**Your vote is ready!** `;vote` for <:lootbox:753144571088863254> Lootboxes, <:votecoin:753145059070705695> Vote Coins, <:rare_lootbox:774380809717022750> <:superrare_lootbox:774120616952856597> <:legendary_lootbox:774120533540339762> <a:shiny_lootbox:774356564287029285> & Special Vote Boxes!",
+                                "embeds": [
+                                    {
+                                        "title": null,
+                                        "type": "rich",
+                                        "description": "You caught a <:262_:722271198452645939> **Mightyena** with a Pokeball!",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 1291495,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": {
+                                            "url": "https://play.pokemonshowdown.com/sprites/xyani/mightyena.gif",
+                                            "proxyURL": "https://images-ext-1.discordapp.net/external/hTHXVqHuFErCETI9gMypGlApKBj89zZmWEWdqO0gHIg/https/play.pokemonshowdown.com/sprites/xyani/mightyena.gif",
+                                            "height": 79,
+                                            "width": 73
+                                        },
+                                        "author": {
+                                            "name": "Congratulations, PIPE018!",
+                                            "icon_url": "https://cdn.discordapp.com/emojis/671848138935500836.png?v=1"
+                                        },
+                                        "footer": {
+                                            "text": "Rarity: Uncommon (30% encounter rate)\nUncommon streak: 3\nMightyena has been added to your Pokedex.\n\n═════ Balls left ═════\nPokeballs: 19 | Ultraballs: 1\nGreatballs: 1 | Masterballs: 0\n\nYou earned 453 PokeCoins!"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "PIPE018",
+                                "avatar": "https://cdn.discordapp.com/avatars/852215815272923196/7289a5cf551efe6dcf1ff6c13cee064c.webp",
+                                "content": ";p",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "PIPE018",
+                                "avatar": "https://cdn.discordapp.com/avatars/852215815272923196/7289a5cf551efe6dcf1ff6c13cee064c.webp",
+                                "content": "**Bienvenido Al Casino-Pokemon Comienza Tu Aventura Atrapando Pokemones... Disfrútalo**\n@everyone",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "🐽-𝗣𝗶𝗴𝗴𝘆-𝗣𝗹𝗮𝘆",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "== Mini-Juegos ==",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [
+                            {
+                                "username": "piggy",
+                                "avatar": "https://cdn.discordapp.com/avatars/681770687614156811/be82b01b2f901dff96859eab10d15c5b.webp",
+                                "content": "@piggyusers",
+                                "embeds": [
+                                    {
+                                        "title": "¡SORPRESA! Piggy Chest Drop!",
+                                        "type": "rich",
+                                        "description": "Piggy se sentía generoso y ha dejado caer un cofre en su servidor. Usa **%chest-redeem surprise** o la abreviatura **%chr s** para reclamarlo! \nSolo tienes 30 minutos para reclamar este cofre.\n\n *Puede usar **%subscribe off** para cancelar la suscripción a los mensajes de envío de cofres.*\n\n**Consejo Piggy:**\nUse **%feed** to feed your piggy and make them stronger.",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": null,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": {
+                                            "url": "https://cdn.piggy.gg/chest-receive.gif",
+                                            "proxyURL": "https://images-ext-2.discordapp.net/external/yG1-3wMHTkSSX_0P3N-kB1gRkxb0bTith7o04XFkWCU/https/cdn.piggy.gg/chest-receive.gif",
+                                            "height": 208,
+                                            "width": 500
+                                        },
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "piggy",
+                                "avatar": "https://cdn.discordapp.com/avatars/681770687614156811/be82b01b2f901dff96859eab10d15c5b.webp",
+                                "content": "@piggyusers",
+                                "embeds": [
+                                    {
+                                        "title": "¡Cofre diario!",
+                                        "type": "rich",
+                                        "description": "This is your daily reminder to collect your daily chests using **%chest-redeem daily** or the shorthand **%chr d**.\n\n Vote for piggy now to get **1000** Silver coins and **4** Essence. Use **%vote**\n\n**Consejo Piggy:**\nLas esencias son raras y se utilizan para mejorar tus Buffs. Algunas de las formas en que puedes ganarlos es jugando trivia y luchando.",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": null,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "piggy",
+                                "avatar": "https://cdn.discordapp.com/avatars/681770687614156811/be82b01b2f901dff96859eab10d15c5b.webp",
+                                "content": "@piggyusers",
+                                "embeds": [
+                                    {
+                                        "title": "¡SORPRESA! Piggy Chest Drop!",
+                                        "type": "rich",
+                                        "description": "Piggy se sentía generoso y ha dejado caer un cofre en su servidor. Usa **%chest-redeem surprise** o la abreviatura **%chr s** para reclamarlo! \nSolo tienes 30 minutos para reclamar este cofre.\n\n *Puede usar **%subscribe off** para cancelar la suscripción a los mensajes de envío de cofres.*\n\n**Consejo Piggy:**\nSolo podemos decir que hay varias formas de diseñar estrategias para tu batalla. Escriba **%strategy** para ver más detalles",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": null,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": {
+                                            "url": "https://cdn.piggy.gg/chest-receive.gif",
+                                            "proxyURL": "https://images-ext-2.discordapp.net/external/yG1-3wMHTkSSX_0P3N-kB1gRkxb0bTith7o04XFkWCU/https/cdn.piggy.gg/chest-receive.gif",
+                                            "height": 208,
+                                            "width": 500
+                                        },
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "piggy",
+                                "avatar": "https://cdn.discordapp.com/avatars/681770687614156811/be82b01b2f901dff96859eab10d15c5b.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": null,
+                                        "type": "rich",
+                                        "description": "<@852215815272923196>, ¡Has canjeado con éxito tu cofre DIARIO y has ganado 100 monedas de plata! También has ganado la esencia de 1.",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": null,
+                                        "fields": [
+                                            {
+                                                "name": "Monedas de oro :coin:",
+                                                "value": "10",
+                                                "inline": true
+                                            },
+                                            {
+                                                "name": "Monedas de plata :moneybag:",
+                                                "value": "600",
+                                                "inline": true
+                                            },
+                                            {
+                                                "name": "Esencia :test_tube:",
+                                                "value": "1",
+                                                "inline": true
+                                            },
+                                            {
+                                                "name": "Weekly Streak Status:",
+                                                "value": "Day1: [:white_check_mark:] \nDay2: [:x:] \nDay3: [:x:] \nDay4: [:x:]",
+                                                "inline": true
+                                            },
+                                            {
+                                                "name": "​",
+                                                "value": "Day5: [:x:] \nDay6: [:x:] \nDay7: [:x:]",
+                                                "inline": true
+                                            },
+                                            {
+                                                "name": "​",
+                                                "value": "Complete 7 day streak to get **Weekly Chest** which on redeeming gives **assured buff, coins and essence**.",
+                                                "inline": false
+                                            }
+                                        ],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "PIPE018",
+                                "avatar": "https://cdn.discordapp.com/avatars/852215815272923196/7289a5cf551efe6dcf1ff6c13cee064c.webp",
+                                "content": "%chest-redeem daily",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "piggy",
+                                "avatar": "https://cdn.discordapp.com/avatars/681770687614156811/be82b01b2f901dff96859eab10d15c5b.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "Chest# : daily",
+                                        "type": "rich",
+                                        "description": "<@852215815272923196>, use **%chest-redeem daily** o la abreviatura **%chr d** para desbloquear el cofre",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": null,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": {
+                                            "url": "https://cdn.piggy.gg/daily-chest/daily-chest-100-0.jpg",
+                                            "proxyURL": "https://images-ext-1.discordapp.net/external/-V8LZGIHbuvteFbT23J-__Y6tM2ig-QcCbFC8OuMmnk/https/cdn.piggy.gg/daily-chest/daily-chest-100-0.jpg",
+                                            "height": 300,
+                                            "width": 784
+                                        },
+                                        "author": null,
+                                        "footer": {
+                                            "text": "Chest# 1 of 1"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "PIPE018",
+                                "avatar": "https://cdn.discordapp.com/avatars/852215815272923196/7289a5cf551efe6dcf1ff6c13cee064c.webp",
+                                "content": "%chest",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "piggy",
+                                "avatar": "https://cdn.discordapp.com/avatars/681770687614156811/be82b01b2f901dff96859eab10d15c5b.webp",
+                                "content": "@piggyusers",
+                                "embeds": [
+                                    {
+                                        "title": "¡SORPRESA! Piggy Chest Drop!",
+                                        "type": "rich",
+                                        "description": "Piggy se sentía generoso y ha dejado caer un cofre en su servidor. Usa **%chest-redeem surprise** o la abreviatura **%chr s** para reclamarlo! \nSolo tienes 30 minutos para reclamar este cofre.\n\n *Puede usar **%subscribe off** para cancelar la suscripción a los mensajes de envío de cofres.*\n\n**Consejo Piggy:**\n¡Mira tus cofres! Ingresa el comando **%chest** para mostrar tus cofres.",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": null,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": {
+                                            "url": "https://cdn.piggy.gg/chest-receive.gif",
+                                            "proxyURL": "https://images-ext-2.discordapp.net/external/yG1-3wMHTkSSX_0P3N-kB1gRkxb0bTith7o04XFkWCU/https/cdn.piggy.gg/chest-receive.gif",
+                                            "height": 208,
+                                            "width": 500
+                                        },
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "PIPE018",
+                                "avatar": "https://cdn.discordapp.com/avatars/852215815272923196/7289a5cf551efe6dcf1ff6c13cee064c.webp",
+                                "content": "Canal De Guerras De Piggy Disfrútalo...\n@everyone",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "🎁-𝙎𝙤𝙧𝙩𝙚𝙤𝙨",
+                        "nsfw": false,
+                        "rateLimitPerUser": 5,
+                        "parent": "== Mini-Juegos ==",
+                        "topic": "Juega Para Que Te Entretengas Ganando Sorteos Este Canal Es Útil Ya Que Si Un Staff  Se Pone A Crear Sorteo Te Puedes Ganar Muchas Cosas Buenas En El Servidor De Minecraft ZeusOpCraft...",
+                        "permissions": [],
+                        "messages": [
+                            {
+                                "username": "PIPE018",
+                                "avatar": "https://cdn.discordapp.com/avatars/852215815272923196/7289a5cf551efe6dcf1ff6c13cee064c.webp",
+                                "content": "**Hola Bienvenido Al Sorteo Podrás Ver Los Sorteo Que Los Staff Te Tienen Preparado Para Ti Ok...**\n@everyone",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "==Registros Del Servidor==",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "𝐄𝐬𝐜𝐫𝐢𝐭𝐮𝐫𝐚𝐬",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "==Registros Del Servidor==",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "📈-📉𝗕𝗮𝗹𝗮𝗻𝗰𝗲𝘀",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "==Registros Del Servidor==",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false
+                    }
+                ]
+            }
+        ],
+        "others": [
+            {
+                "type": "text",
+                "name": "✅-𝗩𝐞𝐫𝐢𝐟𝐢𝐜𝐚𝐜𝐢ó𝐧",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": 66560,
+                        "deny": 14336
+                    }
+                ],
+                "messages": [
+                    {
+                        "username": "PIPE018",
+                        "avatar": "https://cdn.discordapp.com/avatars/852215815272923196/7289a5cf551efe6dcf1ff6c13cee064c.webp",
+                        "content": "**Reacciona Aquí abajo  para verificar tu entrada \n👇                      📀                       👇**",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "PIPE018",
+                        "avatar": "https://cdn.discordapp.com/avatars/852215815272923196/7289a5cf551efe6dcf1ff6c13cee064c.webp",
+                        "content": "**Hola te doy la bienvenida a 👑Omega 🎮 Gaymer👑  Espero Que Disfrute estar aquí.. Somos una comunidad pequeña pero con el tiempo vamos creciendo te doy la Oportunidad de que te unas... te esperamos únete... **",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    }
+                ],
+                "isNews": false
+            }
+        ]
+    },
+    "roles": [
+        {
+            "name": "Creador",
+            "color": "#ff0000",
+            "hoist": true,
+            "permissions": 2146959359,
+            "mentionable": true,
+            "position": 57,
+            "isEveryone": false
+        },
+        {
+            "name": "Gerente",
+            "color": "#00c5ff",
+            "hoist": true,
+            "permissions": 2146959359,
+            "mentionable": true,
+            "position": 56,
+            "isEveryone": false
+        },
+        {
+            "name": "Jefe-Administrador",
+            "color": "#992d22",
+            "hoist": true,
+            "permissions": 2146959359,
+            "mentionable": true,
+            "position": 55,
+            "isEveryone": false
+        },
+        {
+            "name": "Jefe De Mantenimiento",
+            "color": "#0000ff",
+            "hoist": true,
+            "permissions": 2146959351,
+            "mentionable": true,
+            "position": 54,
+            "isEveryone": false
+        },
+        {
+            "name": "BOT Superior",
+            "color": "#5d00ff",
+            "hoist": true,
+            "permissions": 2147483647,
+            "mentionable": true,
+            "position": 53,
+            "isEveryone": false
+        },
+        {
+            "name": "Administrador",
+            "color": "#ffe100",
+            "hoist": true,
+            "permissions": 2146959351,
+            "mentionable": false,
+            "position": 52,
+            "isEveryone": false
+        },
+        {
+            "name": "Diceñaro",
+            "color": "#71368a",
+            "hoist": true,
+            "permissions": 1341652679,
+            "mentionable": false,
+            "position": 51,
+            "isEveryone": false
+        },
+        {
+            "name": "Moderador",
+            "color": "#f1c40f",
+            "hoist": true,
+            "permissions": 1610088147,
+            "mentionable": false,
+            "position": 50,
+            "isEveryone": false
+        },
+        {
+            "name": "Constructor",
+            "color": "#e91e63",
+            "hoist": true,
+            "permissions": 1207434817,
+            "mentionable": false,
+            "position": 49,
+            "isEveryone": false
+        },
+        {
+            "name": "Ayudante",
+            "color": "#2ecc71",
+            "hoist": true,
+            "permissions": 1207434945,
+            "mentionable": false,
+            "position": 48,
+            "isEveryone": false
+        },
+        {
+            "name": "Staff Superior",
+            "color": "#fffafa",
+            "hoist": true,
+            "permissions": 2146959359,
+            "mentionable": true,
+            "position": 47,
+            "isEveryone": false
+        },
+        {
+            "name": "Staff",
+            "color": "#ffffff",
+            "hoist": true,
+            "permissions": 2146959351,
+            "mentionable": true,
+            "position": 46,
+            "isEveryone": false
+        },
+        {
+            "name": "Nitro Booster",
+            "color": "#ff00ff",
+            "hoist": true,
+            "permissions": 1312280129,
+            "mentionable": false,
+            "position": 45,
+            "isEveryone": false
+        },
+        {
+            "name": "Amigos",
+            "color": "#11806a",
+            "hoist": true,
+            "permissions": 1178062401,
+            "mentionable": false,
+            "position": 44,
+            "isEveryone": false
+        },
+        {
+            "name": "Youtube",
+            "color": "#ff0000",
+            "hoist": true,
+            "permissions": 1178062401,
+            "mentionable": false,
+            "position": 43,
+            "isEveryone": false
+        },
+        {
+            "name": "Zeus",
+            "color": "#3d00ff",
+            "hoist": true,
+            "permissions": 1312280129,
+            "mentionable": false,
+            "position": 42,
+            "isEveryone": false
+        },
+        {
+            "name": "Omega",
+            "color": "#00ccff",
+            "hoist": true,
+            "permissions": 1178062401,
+            "mentionable": false,
+            "position": 41,
+            "isEveryone": false
+        },
+        {
+            "name": "Paladin",
+            "color": "#ff9b00",
+            "hoist": true,
+            "permissions": 1178062401,
+            "mentionable": false,
+            "position": 40,
+            "isEveryone": false
+        },
+        {
+            "name": "V.I.P",
+            "color": "#00f6ff",
+            "hoist": true,
+            "permissions": 1178062401,
+            "mentionable": false,
+            "position": 39,
+            "isEveryone": false
+        },
+        {
+            "name": "BOTS",
+            "color": "#3498db",
+            "hoist": true,
+            "permissions": 2146959351,
+            "mentionable": true,
+            "position": 38,
+            "isEveryone": false
+        },
+        {
+            "name": "Usuario Activo",
+            "color": "#546e7a",
+            "hoist": true,
+            "permissions": 1110953537,
+            "mentionable": false,
+            "position": 37,
+            "isEveryone": false
+        },
+        {
+            "name": "Usuario",
+            "color": "#c9c8c8",
+            "hoist": true,
+            "permissions": 37211713,
+            "mentionable": false,
+            "position": 35,
+            "isEveryone": false
+        },
+        {
+            "name": "Poke-Rango(Legendario)",
+            "color": "#ff0006",
+            "hoist": true,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 33,
+            "isEveryone": false
+        },
+        {
+            "name": "Poke-Rango(Semi-Legendario)",
+            "color": "#ff0058",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 32,
+            "isEveryone": false
+        },
+        {
+            "name": "Poke-Rango(Entrenador)",
+            "color": "#d8ff00",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 31,
+            "isEveryone": false
+        },
+        {
+            "name": "Poke-Rango(Ultra)",
+            "color": "#ff6a00",
+            "hoist": true,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 30,
+            "isEveryone": false
+        },
+        {
+            "name": "Poke-Rango(Guardián)",
+            "color": "#6600ff",
+            "hoist": true,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 29,
+            "isEveryone": false
+        },
+        {
+            "name": "Poke-Rango(Ninja)",
+            "color": "#040404",
+            "hoist": true,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 28,
+            "isEveryone": false
+        },
+        {
+            "name": "Poke-Rango(Esmeralda)",
+            "color": "#00ff53",
+            "hoist": true,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 27,
+            "isEveryone": false
+        },
+        {
+            "name": "Poke-Rango(Diamante)",
+            "color": "#00fdff",
+            "hoist": true,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 26,
+            "isEveryone": false
+        },
+        {
+            "name": "Poke-Rango(Oro)",
+            "color": "#ffff00",
+            "hoist": true,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 25,
+            "isEveryone": false
+        },
+        {
+            "name": "Poke-Rango(Plata)",
+            "color": "#c7c7c7",
+            "hoist": true,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 24,
+            "isEveryone": false
+        },
+        {
+            "name": "Red",
+            "color": "#ff0000",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 20,
+            "isEveryone": false
+        },
+        {
+            "name": "Orange",
+            "color": "#ffaa00",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 19,
+            "isEveryone": false
+        },
+        {
+            "name": "Yellow",
+            "color": "#fff000",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 18,
+            "isEveryone": false
+        },
+        {
+            "name": "Green",
+            "color": "#009752",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 17,
+            "isEveryone": false
+        },
+        {
+            "name": "Cyan",
+            "color": "#00ffff",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 16,
+            "isEveryone": false
+        },
+        {
+            "name": "Blue",
+            "color": "#0040ff",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 15,
+            "isEveryone": false
+        },
+        {
+            "name": "Purple",
+            "color": "#9f00ff",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 14,
+            "isEveryone": false
+        },
+        {
+            "name": "Pink",
+            "color": "#ff00cd",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 13,
+            "isEveryone": false
+        },
+        {
+            "name": "piggyusers",
+            "color": "#9b59b6",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 10,
+            "isEveryone": false
+        },
+        {
+            "name": "@everyone",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 0,
+            "isEveryone": true
+        }
+    ],
+    "bans": [],
+    "emojis": [
+        {
+            "name": "__",
+            "url": "https://cdn.discordapp.com/emojis/867578581805957140.png"
+        },
+        {
+            "name": "__",
+            "url": "https://cdn.discordapp.com/emojis/867580419535929384.png"
+        },
+        {
+            "name": "TusPalazos",
+            "url": "https://cdn.discordapp.com/emojis/867580507960770581.gif"
+        },
+        {
+            "name": "6979catsniff",
+            "url": "https://cdn.discordapp.com/emojis/867581014221389874.png"
+        },
+        {
+            "name": "7814luv",
+            "url": "https://cdn.discordapp.com/emojis/867581107410436127.png"
+        },
+        {
+            "name": "2509scream",
+            "url": "https://cdn.discordapp.com/emojis/867581456670785606.gif"
+        },
+        {
+            "name": "6491nanithink",
+            "url": "https://cdn.discordapp.com/emojis/867581592192417813.png"
+        },
+        {
+            "name": "9549emojicow",
+            "url": "https://cdn.discordapp.com/emojis/867581654469705739.gif"
+        },
+        {
+            "name": "8825nodpink",
+            "url": "https://cdn.discordapp.com/emojis/867581786195361832.gif"
+        },
+        {
+            "name": "8290pepeban",
+            "url": "https://cdn.discordapp.com/emojis/867581921101742080.gif"
+        },
+        {
+            "name": "7317emojihot",
+            "url": "https://cdn.discordapp.com/emojis/867582147148644363.gif"
+        },
+        {
+            "name": "1191pikatehfuk",
+            "url": "https://cdn.discordapp.com/emojis/867583220110589973.png"
+        },
+        {
+            "name": "5071_GokuHi",
+            "url": "https://cdn.discordapp.com/emojis/867584218983956540.png"
+        },
+        {
+            "name": "1536dynlove",
+            "url": "https://cdn.discordapp.com/emojis/868474484410175538.png"
+        },
+        {
+            "name": "1948lgbtqiheartonfire",
+            "url": "https://cdn.discordapp.com/emojis/868474515519316008.png"
+        },
+        {
+            "name": "1989pwease",
+            "url": "https://cdn.discordapp.com/emojis/868474541029077012.png"
+        },
+        {
+            "name": "2326tomwhat",
+            "url": "https://cdn.discordapp.com/emojis/868474563506339900.png"
+        },
+        {
+            "name": "3486fuckoffimdrinkingboba",
+            "url": "https://cdn.discordapp.com/emojis/868474582233911347.png"
+        },
+        {
+            "name": "5244discheesed",
+            "url": "https://cdn.discordapp.com/emojis/868476302905192470.png"
+        },
+        {
+            "name": "8626elegant",
+            "url": "https://cdn.discordapp.com/emojis/868476322534535188.png"
+        },
+        {
+            "name": "3579pepesus",
+            "url": "https://cdn.discordapp.com/emojis/868480252303790130.png"
+        },
+        {
+            "name": "6872_zeusXD",
+            "url": "https://cdn.discordapp.com/emojis/868480278933438514.png"
+        },
+        {
+            "name": "7346pepehmmm",
+            "url": "https://cdn.discordapp.com/emojis/868480301830115328.png"
+        }
+    ],
+    "createdTimestamp": 1627668704368,
+    "guildID": "864332995271327764",
+    "id": "870730398404050946",
+    "iconURL": "https://cdn.discordapp.com/icons/864332995271327764/26109ea8df147327f028898787bf6aa4.webp"
+}

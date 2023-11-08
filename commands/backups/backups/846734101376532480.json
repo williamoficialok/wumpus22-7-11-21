@@ -1,0 +1,1552 @@
+{
+    "name": "Ranii Pruebas Test",
+    "region": "us-south",
+    "verificationLevel": "NONE",
+    "explicitContentFilter": "DISABLED",
+    "defaultMessageNotifications": "ALL",
+    "afk": null,
+    "widget": {
+        "enabled": false,
+        "channel": null
+    },
+    "channels": {
+        "categories": [
+            {
+                "name": "|─────Lobby─────|",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "「📢」anuncios",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "|─────Lobby─────|",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 2048
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "「📉」encuestas",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "|─────Lobby─────|",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 2048
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "「📉」novedades",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "|─────Lobby─────|",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 2048
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "「⏰」actualizaciones",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "|─────Lobby─────|",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 2048
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "> ** <:anuncio:843631242351214603> Bot Ranii : Bot Multifuncional **",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "|─────Importante─────|",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "「📜」reglas",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "|─────Importante─────|",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 2048
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "<:reglas:843078257754898442> **Reglas del servidor\n**\n> **1-Respetar el ToS (Terms of Service de Discord), cualquier usuario que no cumpla con esto será baneado. Puedes conocerlo en https://discord.com/terms\n> \n> 2- No ser inrepetuoso\n> \n> 3-El spam por DM está completamente prohibido.\n> \n> 4-Sé respetuoso con los otros usuarios.\n> \n> 5-No cuestiones lo que diga un staff. Si crees que la actitud de algún staff no es la correcta, habla con @🔰╏STAFF                                                                                                  \n> 6-Está prohibido el contenido NSFW, sin excepciones...\n> \n> 7-Usa los canales para su uso establecido.\n> \n> 8-Ten respeto por las demás personas en los Voice Chat, no grites, no hagas ruidos molestos.\n> \n> 9-No se permiten los links peligrosos o sospechosos, serán eliminados y se sancionará a la persona que puso el link.\n> \n> 10-No está permitido el flood, texto repetido, abuso de emotes, uso excesivo de mayúsculas, etc. El chat no debe estar lleno de mensajes innecesarios.\n> \n> 11-No abusar de los comandos en #「🌏」general como máximo se pueden poner 3 comandos seguidos. (Comandos de kiss, hug, cuddle, etc)\n> \n> 12-No abusar de las caritas que puedan incomodar a otras personas, como '':v'', '':u'', ''7w7'', etc.**",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "「💡」sugerencias",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "|─────Importante─────|",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "🏂╏Usuario",
+                                "allow": 0,
+                                "deny": 2048
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "Para Sugerir Usa r!sugerir <a:yes:782845573639569409>",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "「🛑」reportes",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "|─────Importante─────|",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 1024,
+                                "deny": 16
+                            },
+                            {
+                                "roleName": "🏂╏Usuario",
+                                "allow": 0,
+                                "deny": 3072
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "Para Reportar Algun usuario Usa r!reportar {id o mencion} {razon}",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "「🎉」sorteos",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "|─────Importante─────|",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 2048
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "|─────Chat─────|",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "「🌏」general",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "|─────Chat─────|",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "w!backupcreate",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats360 - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_53b4ce7334f0d570f2c0f104ba45f962.webp",
+                                "content": "es muydificiil",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats360 - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_53b4ce7334f0d570f2c0f104ba45f962.webp",
+                                "content": "luego",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats360 - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_53b4ce7334f0d570f2c0f104ba45f962.webp",
+                                "content": "es creo q era sin espacios",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "a",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "@​Dats360 - Team Wumpus as el setprefix",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats360 - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_53b4ce7334f0d570f2c0f104ba45f962.webp",
+                                "content": "a",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Wumpus Gamer",
+                                "avatar": "https://cdn.discordapp.com/avatars/829721945921814548/5c50c8e26c4a035549421f6fffcf0b38.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "Wumpus Gamer | Ayuda",
+                                        "type": "rich",
+                                        "description": "Toma tu ayuda (~￣³￣)~",
+                                        "url": null,
+                                        "timestamp": "2021-05-25T12:58:41.244Z",
+                                        "color": 6221522,
+                                        "fields": [
+                                            {
+                                                "name": "Mi prefix en este servidor es w!",
+                                                "value": "Si quieres ver mis comando usa w!help.",
+                                                "inline": false
+                                            }
+                                        ],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": {
+                                            "text": "Desarollado por Wumpus Team."
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "@​Wumpus Gamer",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "w!backup create",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "xd",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats360 - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_53b4ce7334f0d570f2c0f104ba45f962.webp",
+                                "content": "XD",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats360 - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_53b4ce7334f0d570f2c0f104ba45f962.webp",
+                                "content": ".-.",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats360 - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_53b4ce7334f0d570f2c0f104ba45f962.webp",
+                                "content": "Osea, NO MAMES",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "<:xd_:835165147143340042>",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "xeon es mejor",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "..............----------...............",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats360 - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_53b4ce7334f0d570f2c0f104ba45f962.webp",
+                                "content": "w!backup create",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats360 - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_53b4ce7334f0d570f2c0f104ba45f962.webp",
+                                "content": "Pero si se puede hacer :v",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "xd",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "por el  backupp",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": ".-.",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats360 - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_53b4ce7334f0d570f2c0f104ba45f962.webp",
+                                "content": "Por q tenes a xenon?",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats360 - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_53b4ce7334f0d570f2c0f104ba45f962.webp",
+                                "content": "xD",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Ranii",
+                                "avatar": "https://cdn.discordapp.com/avatars/835609564597714945/7cdb0b081bb286736385eb3166901ecb.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "Warn:",
+                                        "type": "rich",
+                                        "description": null,
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 16549218,
+                                        "fields": [
+                                            {
+                                                "name": "Moderador:",
+                                                "value": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "Razon:",
+                                                "value": "ser buena persona? xd",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "Usuario Advertido:",
+                                                "value": "<@416358583220043796>",
+                                                "inline": false
+                                            }
+                                        ],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "r!warn @​Xenon ser buena persona? xd",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "xd",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "cdx",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "para solo 1 server",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "si no",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "no setbienvenidas",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "añadire las bienvenidas",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "a",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "o",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "mejor los creo y",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "nah",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "<:xd_:835165147143340042>",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "voy a añader mas code",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "xd",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "arreglalo",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "@​Dats360 - Team Wumpus no me da el sugerir",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "a",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats360 - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_53b4ce7334f0d570f2c0f104ba45f962.webp",
+                                "content": "xd",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "<a:RLoading:846720413961814066>",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "o",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "@​Dats360 - Team Wumpus este",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "<a:load:782845573266276364>",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": ":v",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "r!sugerir ae",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "coma ptew dsa",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "p=setsuggest #「💡」sugerencias",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "facil",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "viste",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "eso",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats360 - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_53b4ce7334f0d570f2c0f104ba45f962.webp",
+                                "content": "r!setsuggest #「🔧」comandos",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Ranii",
+                                "avatar": "https://cdn.discordapp.com/avatars/835609564597714945/7cdb0b081bb286736385eb3166901ecb.webp",
+                                "content": "<a:no:846725033732210718> Menciona el canal de sugerencias",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats360 - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_53b4ce7334f0d570f2c0f104ba45f962.webp",
+                                "content": "r!setsuggest",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "a",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats360 - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_53b4ce7334f0d570f2c0f104ba45f962.webp",
+                                "content": "r!setsuggest #「🔧」comandos",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats360 - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_53b4ce7334f0d570f2c0f104ba45f962.webp",
+                                "content": "r!suggest",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "dasd",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "da",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "gey maricsaso d",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "..---------..",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Wumpus Gamer",
+                                "avatar": "https://cdn.discordapp.com/avatars/829721945921814548/5c50c8e26c4a035549421f6fffcf0b38.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": null,
+                                        "type": "rich",
+                                        "description": "| ¡Debes mencionar a un usuario o proporcionar la ID / Mencionarlo",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 15158332,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "w!avatar",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "sirve",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "si",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "a",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Ranii",
+                                "avatar": "https://cdn.discordapp.com/avatars/835609564597714945/7cdb0b081bb286736385eb3166901ecb.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "<a:RLoading:846720413961814066> Avatar de: xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                        "type": "rich",
+                                        "description": null,
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 7230044,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": {
+                                            "url": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.gif?size=1024",
+                                            "proxyURL": "https://images-ext-1.discordapp.net/external/SoeCNHXz_rPfE_lhNmenyH3nEpw1VEXrRXcLOXwdowc/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.gif",
+                                            "height": 304,
+                                            "width": 304
+                                        },
+                                        "author": null,
+                                        "footer": {
+                                            "text": "Avatares :3"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "r!avatar",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "xd",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "gey",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "que hiciste",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "a",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats360 - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_53b4ce7334f0d570f2c0f104ba45f962.webp",
+                                "content": "r!setsuggest #「🛑」reportes",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats360 - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_53b4ce7334f0d570f2c0f104ba45f962.webp",
+                                "content": "xD",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats360 - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_53b4ce7334f0d570f2c0f104ba45f962.webp",
+                                "content": "NO TOCES LAS DB",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats360 - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_53b4ce7334f0d570f2c0f104ba45f962.webp",
+                                "content": "BAKAAAA",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "xd",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "pero necesito ayuda de mi amiguis",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "el comando desconocido",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "ese",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "p!a",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "esto",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "are",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "<a:Bien:809096617105424424>",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "ta asda",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "wrf",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats360 - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_53b4ce7334f0d570f2c0f104ba45f962.webp",
+                                "content": "Bien",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "a",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "p!avatar",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Pando",
+                                "avatar": "https://cdn.discordapp.com/avatars/781517737126133781/78133f85081d5e325b8772558e63dbd8.webp",
+                                "content": "<a:PLoading:810321568709345290> El prefix de Pando en este servidor es `p!`.",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "@​Pando",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Ranii",
+                                "avatar": "https://cdn.discordapp.com/avatars/835609564597714945/7cdb0b081bb286736385eb3166901ecb.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "<a:RLoading:846720413961814066>Avatar de: xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                        "type": "rich",
+                                        "description": null,
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 15682736,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": {
+                                            "url": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.gif?size=1024",
+                                            "proxyURL": "https://images-ext-1.discordapp.net/external/SoeCNHXz_rPfE_lhNmenyH3nEpw1VEXrRXcLOXwdowc/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.gif",
+                                            "height": 304,
+                                            "width": 304
+                                        },
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats360 - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_53b4ce7334f0d570f2c0f104ba45f962.webp",
+                                "content": "r!avatar @​xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "a",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "p!avatar",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Ranii",
+                                "avatar": "https://cdn.discordapp.com/avatars/835609564597714945/7cdb0b081bb286736385eb3166901ecb.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "<a:RLoading:846720413961814066>Avatar de: Dats360 - Team Wumpus",
+                                        "type": "rich",
+                                        "description": null,
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 13578793,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": {
+                                            "url": "https://cdn.discordapp.com/avatars/698650125022789632/a_53b4ce7334f0d570f2c0f104ba45f962.gif?size=1024",
+                                            "proxyURL": "https://images-ext-1.discordapp.net/external/SsCevTWl-deaF9HlFQ17IrCUQ2xqOELNT-yWlxOtP1w/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/698650125022789632/a_53b4ce7334f0d570f2c0f104ba45f962.gif",
+                                            "height": 600,
+                                            "width": 600
+                                        },
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats360 - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a_53b4ce7334f0d570f2c0f104ba45f962.webp",
+                                "content": "r!avatar",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "「🔧」comandos",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "|─────Chat─────|",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [
+                            {
+                                "username": "Pando",
+                                "avatar": "https://cdn.discordapp.com/avatars/781517737126133781/78133f85081d5e325b8772558e63dbd8.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "<a:PLoading:810321568709345290> Avatar",
+                                        "type": "rich",
+                                        "description": "[Avatar URL](https://cdn.discordapp.com/avatars/781517737126133781/78133f85081d5e325b8772558e63dbd8.webp)",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 243029,
+                                        "fields": [
+                                            {
+                                                "name": "Mostrando avatar de",
+                                                "value": "Pando",
+                                                "inline": false
+                                            }
+                                        ],
+                                        "thumbnail": null,
+                                        "image": {
+                                            "url": "https://cdn.discordapp.com/avatars/781517737126133781/78133f85081d5e325b8772558e63dbd8.webp?size=256",
+                                            "proxyURL": "https://images-ext-2.discordapp.net/external/3_k_URaFe3jeyz9ACLeiZ19TDlFy5qdRFhRF8Zjzj2k/%3Fsize%3D256/https/cdn.discordapp.com/avatars/781517737126133781/78133f85081d5e325b8772558e63dbd8.webp",
+                                            "height": 256,
+                                            "width": 256
+                                        },
+                                        "author": null,
+                                        "footer": {
+                                            "text": "¡Algunos avatares son muy curiosos y divertidos!",
+                                            "icon_url": "https://cdn.discordapp.com/avatars/781517737126133781/78133f85081d5e325b8772558e63dbd8.webp"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "p=avatar @​Pando",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Pando",
+                                "avatar": "https://cdn.discordapp.com/avatars/781517737126133781/78133f85081d5e325b8772558e63dbd8.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "<a:PTime:810321623483809793> Pando Bot",
+                                        "type": "rich",
+                                        "description": "**Documentación:** Si necesitas más ayuda sobre algún comando, visita nuestra documentación [aquí](http://www.pandoteam.xyz/documentacion).\n\n:panda_face: Prefix de Pando en este servidor: `p=`.",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 16754432,
+                                        "fields": [
+                                            {
+                                                "name": "<a:PaTick:810321162848305182> Links",
+                                                "value": "[Pagina web](http://pandoteam.xyz)\n[Dashboard](https://dashboard.pandoteam.xyz)\n[Discord](https://discord.com/invite/w7aFmwC3ZP)\n[Invitame](https://discord.com/api/oauth2/authorize?client_id=781517737126133781&permissions=1275554912&scope=bot)\n[Vota por Pando](https://top.gg/bot/781517737126133781/vote)",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "<:PLove:810320914407096320> Pando Bot [6]",
+                                                "value": "`bot-suggest`, `bug`, `dashboard`, `invite`, `server`, `support`",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "<:PDev:810321259501191208> Configuración [19]",
+                                                "value": "`createcommand`, `deletecommand`, `blockch`, `config`, `disable`, `enable`, `link`, `roles`, `setconfession`, `setlogs`, `setprefix`, `setreports`, `setsanctions`, `setsuggestions`, `addmsg`, `defaultmsg`, `removemsg`, `start`, `toptheme`",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "<:PWarnInfo:810315033883705386> Información [9]",
+                                                "value": "`commands`, `custommsg`, `botinfo`, `emoji`, `estructura`, `ping`, `serverboost`, `servericon`, `serverinfo`",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": ":turtle: Variados [8]",
+                                                "value": "`avatar`, `dado`, `e-edit`, `esay`, `jumbo`, `reverse`, `say`, `snipe`",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "<:POk:810320980379172924> Útil [14]",
+                                                "value": "`count`, `aceptada`, `autorole`, `event`, `gend`, `glist`, `greroll`, `gstart`, `poll`, `potencial`, `rechazada`, `reportar`, `simple`, `sugerir`",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "<:PBan:810314285586186281> Administración [5]",
+                                                "value": "`ban`, `clear`, `kick`, `unwarn`, `warn`",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": ":laughing: Diversión [12]",
+                                                "value": "`8ball`, `bigtext`, `block`, `buscaminas`, `confesion`, `fortune`, `hack`, `love`, `ppt`, `tiktok`, `tts`, `typerace`",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "<:PAmongus:810321194620157973> Roleplay [17]",
+                                                "value": "`angry`, `bite`, `boom`, `clap`, `confused`, `cry`, `dance`, `feed`, `happy`, `hug`, `impostor`, `kiss`, `lick`, `like`, `nope`, `slap`, `vomit`",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": ":camera: Imagenes [7]",
+                                                "value": "`clyde`, `meme`, `panda`, `trump`, `tweet`, `usersay`, `ytcomment`",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "<:PCash:821406946912632852> Economía [9]",
+                                                "value": "`bal`, `crime`, `dep`, `onlinetop`, `pay`, `rob`, `top`, `with`, `work`",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": ":smiling_imp: NSFW [?]",
+                                                "value": "El canal tiene que estar marcado como NSFW para ver esta información.",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "<a:PmcCube:810315205825134634> Minecraft [5]",
+                                                "value": "`2d`, `head`, `logro`, `mcserver`, `skin`",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "<a:PDevIcon:810321532156641301> Desarrolladores [8]",
+                                                "value": "`servidores`, `dm-say`, `r-bug`, `memory`, `bl`, `vip`, `eval`, `reload`, `maintance`",
+                                                "inline": false
+                                            }
+                                        ],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": {
+                                            "text": "Usa p=help {comando} para tener información de un comando.",
+                                            "icon_url": "https://cdn.discordapp.com/avatars/781517737126133781/78133f85081d5e325b8772558e63dbd8.webp"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "p=help",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "a",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "p=avatar",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "p!setprefix p=",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xPromaᴼᶠᶠᶦᶜᶦᵃˡ",
+                                "avatar": "https://cdn.discordapp.com/avatars/824971790894891049/a_b4c50c419c144b02fc23cdee03fbf725.webp",
+                                "content": "p!avatar",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "「📷」galeria",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "|─────Chat─────|",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 34816,
+                                "deny": 0
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "|─────Soporte─────|",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "「🔋」tickets",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "|─────Soporte─────|",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 2048
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "|─────Musica─────|",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "voice",
+                        "name": "♬ Musica",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "|─────Musica─────|",
+                        "permissions": []
+                    },
+                    {
+                        "type": "text",
+                        "name": "〔♬〕cmd-musica",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "|─────Musica─────|",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "voice",
+                        "name": "♬ Musica",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "|─────Musica─────|",
+                        "permissions": []
+                    }
+                ]
+            }
+        ],
+        "others": []
+    },
+    "roles": [
+        {
+            "name": "*",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 2146959359,
+            "mentionable": false,
+            "position": 13,
+            "isEveryone": false
+        },
+        {
+            "name": "🔮╏Ranii Bots",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": 37030985,
+            "mentionable": false,
+            "position": 12,
+            "isEveryone": false
+        },
+        {
+            "name": "🔧╏Owners",
+            "color": "#1abc9c",
+            "hoist": true,
+            "permissions": 62196809,
+            "mentionable": false,
+            "position": 11,
+            "isEveryone": false
+        },
+        {
+            "name": "🔧╏Desarrollador",
+            "color": "#ee2424",
+            "hoist": true,
+            "permissions": 2146959359,
+            "mentionable": false,
+            "position": 10,
+            "isEveryone": false
+        },
+        {
+            "name": "🔧╏Co Desarrollador",
+            "color": "#3498db",
+            "hoist": true,
+            "permissions": 37030985,
+            "mentionable": false,
+            "position": 9,
+            "isEveryone": false
+        },
+        {
+            "name": "👑╏Admin",
+            "color": "#e20c0c",
+            "hoist": true,
+            "permissions": 37030985,
+            "mentionable": false,
+            "position": 8,
+            "isEveryone": false
+        },
+        {
+            "name": "🔰╏Mod",
+            "color": "#1abc9c",
+            "hoist": true,
+            "permissions": 37030977,
+            "mentionable": false,
+            "position": 7,
+            "isEveryone": false
+        },
+        {
+            "name": "🔰╏Helper",
+            "color": "#2ecc71",
+            "hoist": true,
+            "permissions": 37030977,
+            "mentionable": false,
+            "position": 6,
+            "isEveryone": false
+        },
+        {
+            "name": "🔰╏STAFF",
+            "color": "#e67e22",
+            "hoist": false,
+            "permissions": 37030977,
+            "mentionable": false,
+            "position": 5,
+            "isEveryone": false
+        },
+        {
+            "name": "🏂╏Usuario",
+            "color": "#3498db",
+            "hoist": true,
+            "permissions": 37030977,
+            "mentionable": false,
+            "position": 4,
+            "isEveryone": false
+        },
+        {
+            "name": "🔮╏Bots",
+            "color": "#3498db",
+            "hoist": true,
+            "permissions": 37030985,
+            "mentionable": false,
+            "position": 3,
+            "isEveryone": false
+        },
+        {
+            "name": "@everyone",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 37030977,
+            "mentionable": false,
+            "position": 0,
+            "isEveryone": true
+        }
+    ],
+    "bans": [],
+    "emojis": [
+        {
+            "name": "loading",
+            "url": "https://cdn.discordapp.com/emojis/846719108078239754.gif"
+        },
+        {
+            "name": "RLoading",
+            "url": "https://cdn.discordapp.com/emojis/846720413961814066.gif"
+        },
+        {
+            "name": "si",
+            "url": "https://cdn.discordapp.com/emojis/846725001200664617.gif"
+        },
+        {
+            "name": "no",
+            "url": "https://cdn.discordapp.com/emojis/846725033732210718.gif"
+        }
+    ],
+    "createdTimestamp": 1621947541327,
+    "guildID": "844616580649320499",
+    "id": "846734101376532480",
+    "iconURL": "https://cdn.discordapp.com/icons/844616580649320499/3e25455c8db5102efe17546b318d5131.webp"
+}

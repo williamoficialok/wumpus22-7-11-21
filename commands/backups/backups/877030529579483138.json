@@ -1,0 +1,1360 @@
+{
+    "name": "wumpus test",
+    "region": "santiago",
+    "verificationLevel": "NONE",
+    "explicitContentFilter": "DISABLED",
+    "defaultMessageNotifications": "ALL",
+    "afk": null,
+    "widget": {
+        "channel": null
+    },
+    "channels": {
+        "categories": [
+            {
+                "name": "Voice Channels",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "voice",
+                        "name": "General",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "Voice Channels",
+                        "permissions": []
+                    }
+                ]
+            },
+            {
+                "name": "Text Channels",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "general",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Text Channels",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [
+                            {
+                                "username": "Wumpus Gamer",
+                                "avatar": "https://cdn.discordapp.com/avatars/829721945921814548/760826716491f436b6cfbf4f5c2f343a.webp",
+                                "content": "<a:loading2:877030051722428467> Creando el backup...",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "w!backupcreate",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Wumpus Gamer",
+                                "avatar": "https://cdn.discordapp.com/avatars/829721945921814548/760826716491f436b6cfbf4f5c2f343a.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "<a:wb_si:868627855997812776> El backup se ha creado correctamente.",
+                                        "type": "rich",
+                                        "description": "<@698650125022789632> **Revisa tus mds**",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 3066993,
+                                        "fields": [],
+                                        "thumbnail": {
+                                            "url": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                            "proxyURL": "https://images-ext-2.discordapp.net/external/BC_Ze-3g5mmRzXwFYJlW4fM88VQqaN_D2IKn9WUjdm0/https/cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                            "height": 128,
+                                            "width": 128
+                                        },
+                                        "image": null,
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "w!backupcreate",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Wumpus Gamer",
+                                "avatar": "https://cdn.discordapp.com/avatars/829721945921814548/760826716491f436b6cfbf4f5c2f343a.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "<a:wb_si:868627855997812776> El backup se ha creado correctamente.",
+                                        "type": "rich",
+                                        "description": "<@698650125022789632> **Revisa tus mds**",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 3066993,
+                                        "fields": [],
+                                        "thumbnail": {
+                                            "url": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                            "proxyURL": "https://images-ext-2.discordapp.net/external/BC_Ze-3g5mmRzXwFYJlW4fM88VQqaN_D2IKn9WUjdm0/https/cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                            "height": 128,
+                                            "width": 128
+                                        },
+                                        "image": null,
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "w!backupcreate",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Wumpus Gamer",
+                                "avatar": "https://cdn.discordapp.com/avatars/829721945921814548/760826716491f436b6cfbf4f5c2f343a.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "<a:wb_si:868627855997812776> El backup se ha creado correctamente.",
+                                        "type": "rich",
+                                        "description": "<@698650125022789632> **Revisa tus mds**",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 3066993,
+                                        "fields": [],
+                                        "thumbnail": {
+                                            "url": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                            "proxyURL": "https://images-ext-2.discordapp.net/external/BC_Ze-3g5mmRzXwFYJlW4fM88VQqaN_D2IKn9WUjdm0/https/cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                            "height": 128,
+                                            "width": 128
+                                        },
+                                        "image": null,
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "w!backupcreate",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Wumpus Gamer",
+                                "avatar": "https://cdn.discordapp.com/avatars/829721945921814548/760826716491f436b6cfbf4f5c2f343a.webp",
+                                "content": "Creando el backup...",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "w!backupcreate",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "w!backupcreate",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Wumpus Gamer",
+                                "avatar": "https://cdn.discordapp.com/avatars/829721945921814548/760826716491f436b6cfbf4f5c2f343a.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": null,
+                                        "type": "rich",
+                                        "description": null,
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 718225,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": {
+                                            "url": "https://nekobot.xyz/imagegen/3/5/3/73fab51554a515a283a381a8ab6d2.png",
+                                            "proxyURL": "https://images-ext-2.discordapp.net/external/IyvCukaEqAGDOQm2jCp45kmzTHa0XrAi-ucvS9CNlS8/https/nekobot.xyz/imagegen/3/5/3/73fab51554a515a283a381a8ab6d2.png",
+                                            "height": 900,
+                                            "width": 1200
+                                        },
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "w!changemymind KIESDE",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "w!changemymind KIESDE",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Wumpus Gamer",
+                                "avatar": "https://cdn.discordapp.com/avatars/829721945921814548/760826716491f436b6cfbf4f5c2f343a.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": null,
+                                        "type": "rich",
+                                        "description": "<a:wb_no:868627399431057479> Debes proporcionar el texto.",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 15158332,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "w!changemymind",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Wumpus Gamer",
+                                "avatar": "https://cdn.discordapp.com/avatars/829721945921814548/760826716491f436b6cfbf4f5c2f343a.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": null,
+                                        "type": "rich",
+                                        "description": null,
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 8924741,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": {
+                                            "url": "https://nekobot.xyz/imagegen/7/4/c/fd9d915534d96a7abf7710348b731.png",
+                                            "proxyURL": "https://images-ext-2.discordapp.net/external/47McTd3jN0cIxiKRWEAY7KZ4-7WdDo0OohNg2eexImc/https/nekobot.xyz/imagegen/7/4/c/fd9d915534d96a7abf7710348b731.png",
+                                            "height": 900,
+                                            "width": 1200
+                                        },
+                                        "author": null,
+                                        "footer": {
+                                            "text": "Dats - Team Wumpus"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "w!changemymind HOLAAA",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Wumpus Gamer",
+                                "avatar": "https://cdn.discordapp.com/avatars/829721945921814548/760826716491f436b6cfbf4f5c2f343a.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": null,
+                                        "type": "rich",
+                                        "description": null,
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 9195835,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": {
+                                            "url": "https://nekobot.xyz/imagegen/8/2/9/42e41772986e46ef8bc5256ae3780.png",
+                                            "proxyURL": "https://images-ext-2.discordapp.net/external/SaP_waVNzN_n08-SeuELMp38VhdZSSscQpcyGF2L9cU/https/nekobot.xyz/imagegen/8/2/9/42e41772986e46ef8bc5256ae3780.png",
+                                            "height": 900,
+                                            "width": 1200
+                                        },
+                                        "author": null,
+                                        "footer": {
+                                            "text": "Dats - Team Wumpus"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "w!changemymind a",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "._.?",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Wumpus Gamer",
+                                "avatar": "https://cdn.discordapp.com/avatars/829721945921814548/760826716491f436b6cfbf4f5c2f343a.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": null,
+                                        "type": "rich",
+                                        "description": null,
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 6764054,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": {
+                                            "url": "https://nekobot.xyz/imagegen/0/8/4/a1ebcab0e674d939548c4fb176e51.png",
+                                            "proxyURL": "https://images-ext-1.discordapp.net/external/Sro4s6I-SKxO50_46QcR2fCgwy5F-3SH0t98oWO3x9s/https/nekobot.xyz/imagegen/0/8/4/a1ebcab0e674d939548c4fb176e51.png",
+                                            "height": 0,
+                                            "width": 0
+                                        },
+                                        "author": null,
+                                        "footer": {
+                                            "text": "Dats - Team Wumpus"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "w!changemymind a",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Wumpus Gamer",
+                                "avatar": "https://cdn.discordapp.com/avatars/829721945921814548/760826716491f436b6cfbf4f5c2f343a.webp",
+                                "content": "tex?",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "w!changemymind",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Wumpus Gamer",
+                                "avatar": "https://cdn.discordapp.com/avatars/829721945921814548/760826716491f436b6cfbf4f5c2f343a.webp",
+                                "content": "Please provide text",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "w!changemymind",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Wumpus Gamer",
+                                "avatar": "https://cdn.discordapp.com/avatars/829721945921814548/760826716491f436b6cfbf4f5c2f343a.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "¿Me habeís mencionado?",
+                                        "type": "rich",
+                                        "description": "<a:wb_holiuwu:840601901073694770> Hola, soy Wumpus Gamer, un Bot multifuncional,\n        con comandos innovadores & útiles.\n\n        **¿Cómo veo los comandos?**\n        Para ver los comandos usa `w!help`.\n        \n        **Nécesito ayuda!**\n        Puedes contartarnos atraves de la [Web](https://wumpusgamer.ml) o por él [Discord](https://wumpusgamer.ml/discord/).\n\n        **Encontre un bug/fallo, ¿Cómo lo puedo reportar?**\n        Fácil, usando `w!bug <Bug>` recuerda qué si usas mal este comando puedes ser sancionado.\n\n        **Estado**\n        En este momento estoy casi listo, me falta mi comando setlang, y problamente se cambie el comando help.\n        Por lo tanto estoy en mentenimiento.",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 2087315,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": {
+                                            "url": "https://cdn.discordapp.com/attachments/840601853330849792/871172173635682325/NICEEMBED.gif",
+                                            "proxyURL": "https://media.discordapp.net/attachments/840601853330849792/871172173635682325/NICEEMBED.gif",
+                                            "height": 60,
+                                            "width": 468
+                                        },
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "w!captcha @​Wumpus Gamer",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "w!captcha",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Wumpus Gamer",
+                                "avatar": "https://cdn.discordapp.com/avatars/829721945921814548/760826716491f436b6cfbf4f5c2f343a.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": null,
+                                        "type": "rich",
+                                        "description": null,
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 6806744,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": {
+                                            "url": "https://i.some-random-api.ml/NCgeBKe4og.jpg",
+                                            "proxyURL": "https://images-ext-1.discordapp.net/external/LmRZBg1rQdG6R3MeQ0-rUcm-fJBUTmPgDrRc2r8Ejv4/https/i.some-random-api.ml/NCgeBKe4og.jpg",
+                                            "height": 200,
+                                            "width": 200
+                                        },
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "w!cat",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Wumpus Gamer",
+                                "avatar": "https://cdn.discordapp.com/avatars/829721945921814548/760826716491f436b6cfbf4f5c2f343a.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": null,
+                                        "type": "rich",
+                                        "description": null,
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 12433940,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": {
+                                            "url": "https://i.some-random-api.ml/G2QutE4BjB.jpg",
+                                            "proxyURL": "https://images-ext-1.discordapp.net/external/oHhV9i-c50lvXpSkHz4aRCNv33ogASlq1qPHlEDuudE/https/i.some-random-api.ml/G2QutE4BjB.jpg",
+                                            "height": 196,
+                                            "width": 180
+                                        },
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "w!cat",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Wumpus Gamer",
+                                "avatar": "https://cdn.discordapp.com/avatars/829721945921814548/760826716491f436b6cfbf4f5c2f343a.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": null,
+                                        "type": "rich",
+                                        "description": null,
+                                        "url": null,
+                                        "timestamp": "2021-08-17T02:59:27.840Z",
+                                        "color": 4981233,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": {
+                                            "url": "https://some-random-api.ml/canvas/wasted?avatar=https://cdn.discordapp.com/avatars/829721945921814548/760826716491f436b6cfbf4f5c2f343a.png",
+                                            "proxyURL": "https://images-ext-1.discordapp.net/external/MA_ySeQKkoAlouHhXB7L3L07OSV4PonIZzfWym3hlfc/%3Favatar%3Dhttps%3A%2F%2Fcdn.discordapp.com%2Favatars%2F829721945921814548%2F760826716491f436b6cfbf4f5c2f343a.png/https/some-random-api.ml/canvas/wasted",
+                                            "height": 512,
+                                            "width": 512
+                                        },
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Wumpus Gamer",
+                                "avatar": "https://cdn.discordapp.com/avatars/829721945921814548/760826716491f436b6cfbf4f5c2f343a.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "¿Me habeís mencionado?",
+                                        "type": "rich",
+                                        "description": "<a:wb_holiuwu:840601901073694770> Hola, soy Wumpus Gamer, un Bot multifuncional,\n        con comandos innovadores & útiles.\n\n        **¿Cómo veo los comandos?**\n        Para ver los comandos usa `w!help`.\n        \n        **Nécesito ayuda!**\n        Puedes contartarnos atraves de la [Web](https://wumpusgamer.ml) o por él [Discord](https://wumpusgamer.ml/discord/).\n\n        **Encontre un bug/fallo, ¿Cómo lo puedo reportar?**\n        Fácil, usando `w!bug <Bug>` recuerda qué si usas mal este comando puedes ser sancionado.\n\n        **Estado**\n        En este momento estoy casi listo, me falta mi comando setlang, y problamente se cambie el comando help.\n        Por lo tanto estoy en mentenimiento.",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 12720554,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": {
+                                            "url": "https://cdn.discordapp.com/attachments/840601853330849792/871172173635682325/NICEEMBED.gif",
+                                            "proxyURL": "https://media.discordapp.net/attachments/840601853330849792/871172173635682325/NICEEMBED.gif",
+                                            "height": 60,
+                                            "width": 468
+                                        },
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "w!wasted @​Wumpus Gamer",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Wumpus Gamer",
+                                "avatar": "https://cdn.discordapp.com/avatars/829721945921814548/760826716491f436b6cfbf4f5c2f343a.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": null,
+                                        "type": "rich",
+                                        "description": "<a:wb_no:868627399431057479> Comando desconocido.",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 15158332,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Wumpus Gamer",
+                                "avatar": "https://cdn.discordapp.com/avatars/829721945921814548/760826716491f436b6cfbf4f5c2f343a.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "¿Me habeís mencionado?",
+                                        "type": "rich",
+                                        "description": "<a:wb_holiuwu:840601901073694770> Hola, soy Wumpus Gamer, un Bot multifuncional,\n        con comandos innovadores & útiles.\n\n        **¿Cómo veo los comandos?**\n        Para ver los comandos usa `w!help`.\n        \n        **Nécesito ayuda!**\n        Puedes contartarnos atraves de la [Web](https://wumpusgamer.ml) o por él [Discord](https://wumpusgamer.ml/discord/).\n\n        **Encontre un bug/fallo, ¿Cómo lo puedo reportar?**\n        Fácil, usando `w!bug <Bug>` recuerda qué si usas mal este comando puedes ser sancionado.\n\n        **Estado**\n        En este momento estoy casi listo, me falta mi comando setlang, y problamente se cambie el comando help.\n        Por lo tanto estoy en mentenimiento.",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 5806528,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": {
+                                            "url": "https://cdn.discordapp.com/attachments/840601853330849792/871172173635682325/NICEEMBED.gif",
+                                            "proxyURL": "https://media.discordapp.net/attachments/840601853330849792/871172173635682325/NICEEMBED.gif",
+                                            "height": 60,
+                                            "width": 468
+                                        },
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "w!wasted@​Wumpus Gamer",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Wumpus Gamer",
+                                "avatar": "https://cdn.discordapp.com/avatars/829721945921814548/760826716491f436b6cfbf4f5c2f343a.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": null,
+                                        "type": "rich",
+                                        "description": null,
+                                        "url": null,
+                                        "timestamp": "2021-08-17T02:59:15.542Z",
+                                        "color": 16637976,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": {
+                                            "url": "https://some-random-api.ml/canvas/wasted?avatar=https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.png",
+                                            "proxyURL": "https://images-ext-2.discordapp.net/external/IijtLlx_ahanmsq4Aj7g-8HiYr_gyn3Z3-d1kIrKRWc/%3Favatar%3Dhttps%3A%2F%2Fcdn.discordapp.com%2Favatars%2F698650125022789632%2Fa2aae43f9dd91aa313c384a002cb2d6e.png/https/some-random-api.ml/canvas/wasted",
+                                            "height": 512,
+                                            "width": 512
+                                        },
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "w!wasted",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "Nice.",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Wumpus Gamer",
+                                "avatar": "https://cdn.discordapp.com/avatars/829721945921814548/760826716491f436b6cfbf4f5c2f343a.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "¿Me habeís mencionado?",
+                                        "type": "rich",
+                                        "description": "<a:wb_holiuwu:840601901073694770> Hola, soy Wumpus Gamer, un Bot multifuncional,\n        con comandos innovadores & útiles.\n\n        **¿Cómo veo los comandos?**\n        Para ver los comandos usa `w!help`.\n        \n        **Nécesito ayuda!**\n        Puedes contartarnos atraves de la [Web](https://wumpusgamer.ml) o por él [Discord](https://wumpusgamer.ml/discord/).\n\n        **Encontre un bug/fallo, ¿Cómo lo puedo reportar?**\n        Fácil, usando `w!bug <Bug>` recuerda qué si usas mal este comando puedes ser sancionado.\n\n        **Estado**\n        En este momento estoy casi listo, me falta mi comando setlang, y problamente se cambie el comando help.\n        Por lo tanto estoy en mentenimiento.",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 13882715,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": {
+                                            "url": "https://cdn.discordapp.com/attachments/840601853330849792/871172173635682325/NICEEMBED.gif",
+                                            "proxyURL": "https://media.discordapp.net/attachments/840601853330849792/871172173635682325/NICEEMBED.gif",
+                                            "height": 60,
+                                            "width": 468
+                                        },
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "w!grayscale @​Wumpus Gamer",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "w!grayscale",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "message.mentions.users.first",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "w!grayscale",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Wumpus Gamer",
+                                "avatar": "https://cdn.discordapp.com/avatars/829721945921814548/760826716491f436b6cfbf4f5c2f343a.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "¿Me habeís mencionado?",
+                                        "type": "rich",
+                                        "description": "<a:wb_holiuwu:840601901073694770> Hola, soy Wumpus Gamer, un Bot multifuncional,\n        con comandos innovadores & útiles.\n\n        **¿Cómo veo los comandos?**\n        Para ver los comandos usa `w!help`.\n        \n        **Nécesito ayuda!**\n        Puedes contartarnos atraves de la [Web](https://wumpusgamer.ml) o por él [Discord](https://wumpusgamer.ml/discord/).\n\n        **Encontre un bug/fallo, ¿Cómo lo puedo reportar?**\n        Fácil, usando `w!bug <Bug>` recuerda qué si usas mal este comando puedes ser sancionado.\n\n        **Estado**\n        En este momento estoy casi listo, me falta mi comando setlang, y problamente se cambie el comando help.\n        Por lo tanto estoy en mentenimiento.",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 5345261,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": {
+                                            "url": "https://cdn.discordapp.com/attachments/840601853330849792/871172173635682325/NICEEMBED.gif",
+                                            "proxyURL": "https://media.discordapp.net/attachments/840601853330849792/871172173635682325/NICEEMBED.gif",
+                                            "height": 60,
+                                            "width": 468
+                                        },
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "w!grayscale @​Wumpus Gamer",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "w!grayscale",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Wumpus Gamer",
+                                "avatar": "https://cdn.discordapp.com/avatars/829721945921814548/760826716491f436b6cfbf4f5c2f343a.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "Snipe",
+                                        "type": "rich",
+                                        "description": "autor ```\n<@698650125022789632>\n```\nMensaje \n```\nXd\n```",
+                                        "url": null,
+                                        "timestamp": "2021-08-17T02:17:46.625Z",
+                                        "color": 3066993,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "w!snipe",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Wumpus Gamer",
+                                "avatar": "https://cdn.discordapp.com/avatars/829721945921814548/760826716491f436b6cfbf4f5c2f343a.webp",
+                                "content": "no!",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "w!snipe",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "w!snipe",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "w!snipe",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Wumpus Gamer",
+                                "avatar": "https://cdn.discordapp.com/avatars/829721945921814548/760826716491f436b6cfbf4f5c2f343a.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "Snipe",
+                                        "type": "rich",
+                                        "description": "autor ```\nDats - Team Wumpus#0555\n```\nMensaje \n```\nxd\n```",
+                                        "url": null,
+                                        "timestamp": "2021-08-16T06:02:14.421Z",
+                                        "color": 3066993,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "w!snipe",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Wumpus Gamer",
+                                "avatar": "https://cdn.discordapp.com/avatars/829721945921814548/760826716491f436b6cfbf4f5c2f343a.webp",
+                                "content": "no!",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "w!snipe",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "w!snipe",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "w!snipe",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "w!snipe",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Wumpus Gamer",
+                                "avatar": "https://cdn.discordapp.com/avatars/829721945921814548/760826716491f436b6cfbf4f5c2f343a.webp",
+                                "content": "no!",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "w!snipe",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Wumpus Gamer",
+                                "avatar": "https://cdn.discordapp.com/avatars/829721945921814548/760826716491f436b6cfbf4f5c2f343a.webp",
+                                "content": "no!",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "w!snipe",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Wumpus Gamer",
+                                "avatar": "https://cdn.discordapp.com/avatars/829721945921814548/760826716491f436b6cfbf4f5c2f343a.webp",
+                                "content": "no!",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "w!snipe",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "w!snipe",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "w!pat",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "w!pat",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "w!pat",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Wumpus Gamer",
+                                "avatar": "https://cdn.discordapp.com/avatars/829721945921814548/760826716491f436b6cfbf4f5c2f343a.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": null,
+                                        "type": "rich",
+                                        "description": "<a:wb_no:868627399431057479> <@698650125022789632> No tiene invitaciones.",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 15158332,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "w!invites",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Wumpus Gamer",
+                                "avatar": "https://cdn.discordapp.com/avatars/829721945921814548/760826716491f436b6cfbf4f5c2f343a.webp",
+                                "content": "**Dats - Team Wumpus no tiene invites!**",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "w!invites",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Wumpus Gamer",
+                                "avatar": "https://cdn.discordapp.com/avatars/829721945921814548/760826716491f436b6cfbf4f5c2f343a.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": null,
+                                        "type": "rich",
+                                        "description": "<a:wb_no:868627399431057479> El usuario no tiene Banner. :pensive:",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 15158332,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "w!banner @​Dats - Team Wumpus",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Wumpus Gamer",
+                                "avatar": "https://cdn.discordapp.com/avatars/829721945921814548/760826716491f436b6cfbf4f5c2f343a.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": null,
+                                        "type": "rich",
+                                        "description": "<a:wb_no:868627399431057479> El usuario no tiene Banner. :pensive:",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 15158332,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "w!banner @​Dats - Team Wumpus",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "a",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "w!banner @​Dats - Team Wumpus",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Wumpus Gamer",
+                                "avatar": "https://cdn.discordapp.com/avatars/829721945921814548/760826716491f436b6cfbf4f5c2f343a.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": null,
+                                        "type": "rich",
+                                        "description": "<a:wb_no:868627399431057479> Debes mencionar a un usuario válido!",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 15158332,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "w!banner",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Wumpus Gamer",
+                                "avatar": "https://cdn.discordapp.com/avatars/829721945921814548/760826716491f436b6cfbf4f5c2f343a.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "Detección de Raiders",
+                                        "type": "rich",
+                                        "description": "**Raiders encontrados** ejecute `w!forceban` para banearlos.",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 15158332,
+                                        "fields": [
+                                            {
+                                                "name": "Raiders",
+                                                "value": "<@698650125022789632>,<@829721945921814548>",
+                                                "inline": false
+                                            }
+                                        ],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "w!detect",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Wumpus Gamer",
+                                "avatar": "https://cdn.discordapp.com/avatars/829721945921814548/760826716491f436b6cfbf4f5c2f343a.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": null,
+                                        "type": "rich",
+                                        "description": "**No se han encontrados Raiders**.\nSi desea, puede usar `w!forceban` para banearlos.",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 15158332,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "w!detect",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "w!gay",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "w!gay",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Wumpus Gamer",
+                                "avatar": "https://cdn.discordapp.com/avatars/829721945921814548/760826716491f436b6cfbf4f5c2f343a.webp",
+                                "content": "",
+                                "embeds": [],
+                                "files": [
+                                    {
+                                        "name": "wb_captcha.png",
+                                        "attachment": "https://cdn.discordapp.com/attachments/876592896839663646/877026303436554240/wb_captcha.png"
+                                    }
+                                ],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Wumpus Gamer",
+                                "avatar": "https://cdn.discordapp.com/avatars/829721945921814548/760826716491f436b6cfbf4f5c2f343a.webp",
+                                "content": "",
+                                "embeds": [],
+                                "files": [
+                                    {
+                                        "name": "wb_captcha.png",
+                                        "attachment": "https://cdn.discordapp.com/attachments/876592896839663646/877026268028207134/wb_captcha.png"
+                                    }
+                                ],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Wumpus Gamer",
+                                "avatar": "https://cdn.discordapp.com/avatars/829721945921814548/760826716491f436b6cfbf4f5c2f343a.webp",
+                                "content": "",
+                                "embeds": [],
+                                "files": [
+                                    {
+                                        "name": "wb_greyscale.png",
+                                        "attachment": "https://cdn.discordapp.com/attachments/876592896839663646/877022372367073311/wb_greyscale.png"
+                                    }
+                                ],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Wumpus Gamer",
+                                "avatar": "https://cdn.discordapp.com/avatars/829721945921814548/760826716491f436b6cfbf4f5c2f343a.webp",
+                                "content": "",
+                                "embeds": [],
+                                "files": [
+                                    {
+                                        "name": "wb_greyscale.png",
+                                        "attachment": "https://cdn.discordapp.com/attachments/876592896839663646/877022352783839322/wb_greyscale.png"
+                                    }
+                                ],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Wumpus Gamer",
+                                "avatar": "https://cdn.discordapp.com/avatars/829721945921814548/760826716491f436b6cfbf4f5c2f343a.webp",
+                                "content": "",
+                                "embeds": [],
+                                "files": [
+                                    {
+                                        "name": "wb_greyscale.png",
+                                        "attachment": "https://cdn.discordapp.com/attachments/876592896839663646/877021021071376414/wb_greyscale.png"
+                                    }
+                                ],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Wumpus Gamer",
+                                "avatar": "https://cdn.discordapp.com/avatars/829721945921814548/760826716491f436b6cfbf4f5c2f343a.webp",
+                                "content": "",
+                                "embeds": [],
+                                "files": [
+                                    {
+                                        "name": "wb_greyscale.png",
+                                        "attachment": "https://cdn.discordapp.com/attachments/876592896839663646/877020997251915836/wb_greyscale.png"
+                                    }
+                                ],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Wumpus Gamer",
+                                "avatar": "https://cdn.discordapp.com/avatars/829721945921814548/760826716491f436b6cfbf4f5c2f343a.webp",
+                                "content": "",
+                                "embeds": [],
+                                "files": [
+                                    {
+                                        "name": "wb_pet.gif",
+                                        "attachment": "https://cdn.discordapp.com/attachments/876592896839663646/876704829379063819/wb_pet.gif"
+                                    }
+                                ],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Wumpus Gamer",
+                                "avatar": "https://cdn.discordapp.com/avatars/829721945921814548/760826716491f436b6cfbf4f5c2f343a.webp",
+                                "content": "",
+                                "embeds": [],
+                                "files": [
+                                    {
+                                        "name": "wb_gay.png",
+                                        "attachment": "https://cdn.discordapp.com/attachments/876592896839663646/876674302173392916/wb_gay.png"
+                                    }
+                                ],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    }
+                ]
+            }
+        ],
+        "others": []
+    },
+    "roles": [
+        {
+            "name": "@everyone",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 0,
+            "isEveryone": true
+        }
+    ],
+    "bans": [],
+    "emojis": [],
+    "createdTimestamp": 1629170772691,
+    "guildID": "875894020566548552",
+    "id": "877030529579483138"
+}

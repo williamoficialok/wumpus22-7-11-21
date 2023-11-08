@@ -1,0 +1,2272 @@
+{
+    "name": "FlowBot - Support",
+    "region": "us-south",
+    "verificationLevel": "HIGH",
+    "explicitContentFilter": "DISABLED",
+    "defaultMessageNotifications": "MENTIONS",
+    "afk": null,
+    "widget": {
+        "channel": null
+    },
+    "channels": {
+        "categories": [
+            {
+                "name": "💳 | ==== Important ==== | 💳",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": 0,
+                        "deny": 2112
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "📑・informations",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "💳 | ==== Important ==== | 💳",
+                        "topic": "Info of the bot and other things",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 2112
+                            },
+                            {
+                                "roleName": "「🔩」· Developer",
+                                "allow": 2048,
+                                "deny": 0
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "🔔・announcements",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "💳 | ==== Important ==== | 💳",
+                        "topic": "Important server & bot updates.",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 2112
+                            },
+                            {
+                                "roleName": "「🔩」· Developer",
+                                "allow": 2048,
+                                "deny": 0
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "ilai",
+                                "avatar": "https://cdn.discordapp.com/avatars/879879901212184637/462944eb94af17b88a86524c0d25fc15.webp",
+                                "content": "Anuncio\n\nDenle la bienvenida a ssh studios.\n\nTengo varios proyectos con servidores en discord y me pregunte...\n¿Porque no unirlos todos?\n\n1. TheCoder\nhttps://therealcoderrrrr.blogspot.con\n2. CakeUwU\nPróximamente\n3. RandomCloud\nhttp://randomcloud.tk\nhttps://discord.gg/QHWdxtVrHj\n5. Hqxer.ml\nPróximamente\n6. Ilaicraft Network\nhttps://discord.gg/934jGMzRgt\n\n@everyone",
+                                "embeds": [
+                                    {
+                                        "title": "RandomCloud - Alojamiento Web GRATIS",
+                                        "type": "rich",
+                                        "description": "Professional Free Hosting",
+                                        "url": "http://randomcloud.tk/",
+                                        "timestamp": null,
+                                        "color": null,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "ilai",
+                                "avatar": "https://cdn.discordapp.com/avatars/879879901212184637/462944eb94af17b88a86524c0d25fc15.webp",
+                                "content": "@everyone \n**BUGS Y MAS BUGS**\n\nEl bot esta teniendo **DEMASIADOS** pero en serio **DEMASIADOS** bugs que aun no he arreglado porque no tengo el tiempo para hacerlo. El bot no se apagara repentinamente *espero*.\n\nEstado:\n\n:online: - Bot\n⛔ - Problemas",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "📡・bot-status",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "💳 | ==== Important ==== | 💳",
+                        "topic": "Check if the bot is online!",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 2112
+                            },
+                            {
+                                "roleName": "「🔩」· Developer",
+                                "allow": 2048,
+                                "deny": 0
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "FlowBot",
+                                "avatar": "https://cdn.discordapp.com/avatars/879879901954584597/450b476c9c6fa266be8e5e48c96df450.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "Conectado",
+                                        "type": "rich",
+                                        "description": "El bot se ha conectado con exito, con 570 usuarios",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 3066993,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "FlowBot",
+                                "avatar": "https://cdn.discordapp.com/avatars/879879901954584597/450b476c9c6fa266be8e5e48c96df450.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "Conectado",
+                                        "type": "rich",
+                                        "description": "El bot se ha conectado con exito, con 572 usuarios",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 3066993,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "FlowBot",
+                                "avatar": "https://cdn.discordapp.com/avatars/879879901954584597/450b476c9c6fa266be8e5e48c96df450.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "Conectado",
+                                        "type": "rich",
+                                        "description": "El bot se ha conectado con exito, con 572 usuarios",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 3066993,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "FlowBot",
+                                "avatar": "https://cdn.discordapp.com/avatars/879879901954584597/450b476c9c6fa266be8e5e48c96df450.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "Conectado",
+                                        "type": "rich",
+                                        "description": "El bot se ha conectado con exito, con 575 usuarios",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 3066993,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "FlowBot",
+                                "avatar": "https://cdn.discordapp.com/avatars/879879901954584597/450b476c9c6fa266be8e5e48c96df450.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "Conectado",
+                                        "type": "rich",
+                                        "description": "El bot se ha conectado con exito, con 578 usuarios",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 3066993,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "FlowBot",
+                                "avatar": "https://cdn.discordapp.com/avatars/879879901954584597/450b476c9c6fa266be8e5e48c96df450.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "Conectado",
+                                        "type": "rich",
+                                        "description": "El bot se ha conectado con exito, con 571 usuarios",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 3066993,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "FlowBot",
+                                "avatar": "https://cdn.discordapp.com/avatars/879879901954584597/450b476c9c6fa266be8e5e48c96df450.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "Conectado",
+                                        "type": "rich",
+                                        "description": "El bot se ha conectado con exito, con 564 usuarios",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 3066993,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "FlowBot",
+                                "avatar": "https://cdn.discordapp.com/avatars/879879901954584597/450b476c9c6fa266be8e5e48c96df450.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "Conectado",
+                                        "type": "rich",
+                                        "description": "El bot se ha conectado con exito, con 565 usuarios",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 3066993,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "FlowBot",
+                                "avatar": "https://cdn.discordapp.com/avatars/879879901954584597/450b476c9c6fa266be8e5e48c96df450.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "Conectado",
+                                        "type": "rich",
+                                        "description": "El bot se ha conectado con exito, con 568 usuarios",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 3066993,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "FlowBot",
+                                "avatar": "https://cdn.discordapp.com/avatars/879879901954584597/450b476c9c6fa266be8e5e48c96df450.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "Conectado",
+                                        "type": "rich",
+                                        "description": "El bot se ha conectado con exito, con 573 usuarios",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 3066993,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "🔗・github-feeds",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "💳 | ==== Important ==== | 💳",
+                        "topic": "Live github-feeds and updates to keep you updated!",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 2112
+                            },
+                            {
+                                "roleName": "「🔩」· Developer",
+                                "allow": 2048,
+                                "deny": 0
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "GitHub",
+                                "avatar": "https://cdn.discordapp.com/avatars/879879903099637781/e87210bb3d0d5b74a48d47b00b54a3b6.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "[cakeuwubot:master] 1 new commit",
+                                        "type": "rich",
+                                        "description": "[`2c36279`](https://github.com/ilaicraftYT/cakeuwubot/commit/2c362795354c09ecfb8d08d3538a9dc283b04c3b) No recuerdo que hize aca xD - ilaicraftYT",
+                                        "url": "https://github.com/ilaicraftYT/cakeuwubot/commit/2c362795354c09ecfb8d08d3538a9dc283b04c3b",
+                                        "timestamp": null,
+                                        "color": 7506394,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": {
+                                            "name": "ilaicraftYT",
+                                            "url": "https://github.com/ilaicraftYT",
+                                            "icon_url": "https://avatars.githubusercontent.com/u/70978042?v=4"
+                                        },
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/879879903099637781/7ac0480d20e66701ecae40137bbc02d6.webp",
+                                "content": "lol",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/879879903099637781/7ac0480d20e66701ecae40137bbc02d6.webp",
+                                "content": "xD",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "ilai",
+                                "avatar": "https://cdn.discordapp.com/avatars/879879903099637781/462944eb94af17b88a86524c0d25fc15.webp",
+                                "content": "Lol",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "ilai",
+                                "avatar": "https://cdn.discordapp.com/avatars/879879903099637781/462944eb94af17b88a86524c0d25fc15.webp",
+                                "content": "@​Dats - Team Wumpus wtf?",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "GitHub",
+                                "avatar": "https://cdn.discordapp.com/avatars/879879903099637781/e87210bb3d0d5b74a48d47b00b54a3b6.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "[cakeuwubot:master] 1 new commit",
+                                        "type": "rich",
+                                        "description": "[`5161211`](https://github.com/ilaicraftYT/cakeuwubot/commit/5161211dcef8f23103bac8c2df2b7bca4440b6ce) Actualización de tictactoe :uwu: - IlaiCoderYT",
+                                        "url": "https://github.com/ilaicraftYT/cakeuwubot/commit/5161211dcef8f23103bac8c2df2b7bca4440b6ce",
+                                        "timestamp": null,
+                                        "color": 7506394,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": {
+                                            "name": "ilaicraftYT",
+                                            "url": "https://github.com/ilaicraftYT",
+                                            "icon_url": "https://avatars.githubusercontent.com/u/70978042?v=4"
+                                        },
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "GitHub",
+                                "avatar": "https://cdn.discordapp.com/avatars/879879903099637781/e87210bb3d0d5b74a48d47b00b54a3b6.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "[ilaicraftYT/cakeuwubot] New comment on issue #7: ServerInfo \\- Bug",
+                                        "type": "rich",
+                                        "description": "Cambio #2: Exitoso\r\n```js\r\n// @return {array[]} \r\nIf(guildFeatures == \"\")\r\n```",
+                                        "url": "https://github.com/ilaicraftYT/cakeuwubot/issues/7#issuecomment-854031634",
+                                        "timestamp": null,
+                                        "color": 15109472,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": {
+                                            "name": "ilaicraftYT",
+                                            "url": "https://github.com/ilaicraftYT",
+                                            "icon_url": "https://avatars.githubusercontent.com/u/70978042?v=4"
+                                        },
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "GitHub",
+                                "avatar": "https://cdn.discordapp.com/avatars/879879903099637781/e87210bb3d0d5b74a48d47b00b54a3b6.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "[ilaicraftYT/cakeuwubot] Issue closed: #7 ServerInfo \\- Bug",
+                                        "type": "rich",
+                                        "description": null,
+                                        "url": "https://github.com/ilaicraftYT/cakeuwubot/issues/7",
+                                        "timestamp": null,
+                                        "color": null,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": {
+                                            "name": "ilaicraftYT",
+                                            "url": "https://github.com/ilaicraftYT",
+                                            "icon_url": "https://avatars.githubusercontent.com/u/70978042?v=4"
+                                        },
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "GitHub",
+                                "avatar": "https://cdn.discordapp.com/avatars/879879903099637781/e87210bb3d0d5b74a48d47b00b54a3b6.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "[cakeuwubot:master] 1 new commit",
+                                        "type": "rich",
+                                        "description": "[`5628ca2`](https://github.com/ilaicraftYT/cakeuwubot/commit/5628ca2569f2ee804d223c7403109e8551fee541) ServerInfo Fix - IlaiCoderYT",
+                                        "url": "https://github.com/ilaicraftYT/cakeuwubot/commit/5628ca2569f2ee804d223c7403109e8551fee541",
+                                        "timestamp": null,
+                                        "color": 7506394,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": {
+                                            "name": "ilaicraftYT",
+                                            "url": "https://github.com/ilaicraftYT",
+                                            "icon_url": "https://avatars.githubusercontent.com/u/70978042?v=4"
+                                        },
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "ilai",
+                                "avatar": "https://cdn.discordapp.com/avatars/879879903099637781/462944eb94af17b88a86524c0d25fc15.webp",
+                                "content": "@​Dats - Team Wumpus me ayudas con ese problema? Xd",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "👋・joins-leaves",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "💳 | ==== Important ==== | 💳",
+                        "topic": "Well, this one is obvious...",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 2112
+                            },
+                            {
+                                "roleName": "「🔩」· Developer",
+                                "allow": 2048,
+                                "deny": 0
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "aaaa",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "💳 | ==== Important ==== | 💳",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 2112
+                            },
+                            {
+                                "roleName": "「🔩」· Developer",
+                                "allow": 2048,
+                                "deny": 0
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "pssss",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "💳 | ==== Important ==== | 💳",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 2112
+                            },
+                            {
+                                "roleName": "「🔩」· Developer",
+                                "allow": 2048,
+                                "deny": 0
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "🎯 | ====== Main ====== | 🎯",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": 0,
+                        "deny": 1024
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "🇪🇸・general",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🎯 | ====== Main ====== | 🎯",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1024
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "ilai",
+                                "avatar": "https://cdn.discordapp.com/avatars/608029420929679370/8ff32e8b4e77b783e24e413dc1440276.webp",
+                                "content": "w!backupcreate",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "FlowBot",
+                                "avatar": "https://cdn.discordapp.com/avatars/799484393185345557/83a4357d5b733af761641e231c4ae185.webp",
+                                "content": ":white_check_mark: Backup successfully created. The backup ID was sent in dm!",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "FlowBot",
+                                "avatar": "https://cdn.discordapp.com/avatars/799484393185345557/83a4357d5b733af761641e231c4ae185.webp",
+                                "content": "<a:loading:879879945185263656> | Creating backup, please wait...",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "ilai",
+                                "avatar": "https://cdn.discordapp.com/avatars/608029420929679370/8ff32e8b4e77b783e24e413dc1440276.webp",
+                                "content": "f!bcreate",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "FlowBot",
+                                "avatar": "https://cdn.discordapp.com/avatars/799484393185345557/83a4357d5b733af761641e231c4ae185.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "Reloaded: `bcreate`",
+                                        "type": "rich",
+                                        "description": null,
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 3447003,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": {
+                                            "text": "FlowBot",
+                                            "icon_url": "https://img.icons8.com/color/452/discord-logo.png"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "ilai",
+                                "avatar": "https://cdn.discordapp.com/avatars/608029420929679370/8ff32e8b4e77b783e24e413dc1440276.webp",
+                                "content": "f!cmdreload bcreate",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "ilai",
+                                "avatar": "https://cdn.discordapp.com/avatars/608029420929679370/8ff32e8b4e77b783e24e413dc1440276.webp",
+                                "content": "xD?",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "FlowBot",
+                                "avatar": "https://cdn.discordapp.com/avatars/799484393185345557/83a4357d5b733af761641e231c4ae185.webp",
+                                "content": ":x: ERROR | No backup found for `879889193122267140`!",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "ilai",
+                                "avatar": "https://cdn.discordapp.com/avatars/608029420929679370/8ff32e8b4e77b783e24e413dc1440276.webp",
+                                "content": "f!binfo 879889193122267140",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "FlowBot",
+                                "avatar": "https://cdn.discordapp.com/avatars/799484393185345557/83a4357d5b733af761641e231c4ae185.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "Reloaded: `binfo`",
+                                        "type": "rich",
+                                        "description": null,
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 3447003,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": {
+                                            "text": "FlowBot",
+                                            "icon_url": "https://img.icons8.com/color/452/discord-logo.png"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "ilai",
+                                "avatar": "https://cdn.discordapp.com/avatars/608029420929679370/8ff32e8b4e77b783e24e413dc1440276.webp",
+                                "content": "f!cmdreload binfo",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "FlowBot",
+                                "avatar": "https://cdn.discordapp.com/avatars/799484393185345557/83a4357d5b733af761641e231c4ae185.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "❌ ERROR | An error occurred",
+                                        "type": "rich",
+                                        "description": "```ReferenceError: backup is not defined\n    at Object.run (/home/container/commands/Backups/backup-info.js:21:9)\n    at module.exports (/home/container/events/guild/message.js:165:17)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)```",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 14687745,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": {
+                                            "text": "FlowBot",
+                                            "icon_url": "https://img.icons8.com/color/452/discord-logo.png"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "ilai",
+                                "avatar": "https://cdn.discordapp.com/avatars/608029420929679370/8ff32e8b4e77b783e24e413dc1440276.webp",
+                                "content": "f!binfo 879889193122267140",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "ilai",
+                                "avatar": "https://cdn.discordapp.com/avatars/608029420929679370/8ff32e8b4e77b783e24e413dc1440276.webp",
+                                "content": "f!binfo 879889193122267140",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "FlowBot",
+                                "avatar": "https://cdn.discordapp.com/avatars/799484393185345557/83a4357d5b733af761641e231c4ae185.webp",
+                                "content": ":white_check_mark: Backup successfully created. The backup ID was sent in dm!",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "FlowBot",
+                                "avatar": "https://cdn.discordapp.com/avatars/799484393185345557/83a4357d5b733af761641e231c4ae185.webp",
+                                "content": "<a:loading:879879945185263656> | Creating backup, please wait...",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "ilai",
+                                "avatar": "https://cdn.discordapp.com/avatars/608029420929679370/8ff32e8b4e77b783e24e413dc1440276.webp",
+                                "content": "f!bcreate",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "FlowBot",
+                                "avatar": "https://cdn.discordapp.com/avatars/799484393185345557/83a4357d5b733af761641e231c4ae185.webp",
+                                "content": ":white_check_mark: Backup successfully created. The backup ID was sent in dm!",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "FlowBot",
+                                "avatar": "https://cdn.discordapp.com/avatars/799484393185345557/83a4357d5b733af761641e231c4ae185.webp",
+                                "content": "<a:loading:879879945185263656> | Creating backup, please wait...",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "ilai",
+                                "avatar": "https://cdn.discordapp.com/avatars/608029420929679370/8ff32e8b4e77b783e24e413dc1440276.webp",
+                                "content": "f!bcreate",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "FlowBot",
+                                "avatar": "https://cdn.discordapp.com/avatars/799484393185345557/83a4357d5b733af761641e231c4ae185.webp",
+                                "content": ":white_check_mark: Backup successfully created. The backup ID was sent in dm!",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "FlowBot",
+                                "avatar": "https://cdn.discordapp.com/avatars/799484393185345557/83a4357d5b733af761641e231c4ae185.webp",
+                                "content": "<a:loading:879879945185263656> | Creating backup, please wait...",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "ilai",
+                                "avatar": "https://cdn.discordapp.com/avatars/608029420929679370/8ff32e8b4e77b783e24e413dc1440276.webp",
+                                "content": "f!bcreate",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "ilai",
+                                "avatar": "https://cdn.discordapp.com/avatars/608029420929679370/8ff32e8b4e77b783e24e413dc1440276.webp",
+                                "content": "b!create",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "FlowBot",
+                                "avatar": "https://cdn.discordapp.com/avatars/799484393185345557/83a4357d5b733af761641e231c4ae185.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": ":x: Could not find: `bcreare`",
+                                        "type": "rich",
+                                        "description": null,
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 14687745,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": {
+                                            "text": "FlowBot",
+                                            "icon_url": "https://img.icons8.com/color/452/discord-logo.png"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "ilai",
+                                "avatar": "https://cdn.discordapp.com/avatars/608029420929679370/8ff32e8b4e77b783e24e413dc1440276.webp",
+                                "content": "f!cmdreload bcreare",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "FlowBot",
+                                "avatar": "https://cdn.discordapp.com/avatars/799484393185345557/83a4357d5b733af761641e231c4ae185.webp",
+                                "content": ":white_check_mark: Backup successfully created. The backup ID was sent in dm!",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "FlowBot",
+                                "avatar": "https://cdn.discordapp.com/avatars/799484393185345557/83a4357d5b733af761641e231c4ae185.webp",
+                                "content": "<a:loading:879879945185263656> | Creating backup, please wait...",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "ilai",
+                                "avatar": "https://cdn.discordapp.com/avatars/608029420929679370/8ff32e8b4e77b783e24e413dc1440276.webp",
+                                "content": "f!bcreate",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "FlowBot",
+                                "avatar": "https://cdn.discordapp.com/avatars/799484393185345557/83a4357d5b733af761641e231c4ae185.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "Reloaded: `bcreate`",
+                                        "type": "rich",
+                                        "description": null,
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 3447003,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": {
+                                            "text": "FlowBot",
+                                            "icon_url": "https://img.icons8.com/color/452/discord-logo.png"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "ilai",
+                                "avatar": "https://cdn.discordapp.com/avatars/608029420929679370/8ff32e8b4e77b783e24e413dc1440276.webp",
+                                "content": "f!cmdreload bcreate",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "ilai",
+                                "avatar": "https://cdn.discordapp.com/avatars/608029420929679370/8ff32e8b4e77b783e24e413dc1440276.webp",
+                                "content": "f!cmdrelaod bcreate",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "FlowBot",
+                                "avatar": "https://cdn.discordapp.com/avatars/799484393185345557/83a4357d5b733af761641e231c4ae185.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": ":x: Could not find: `:loading:`",
+                                        "type": "rich",
+                                        "description": null,
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 14687745,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": {
+                                            "text": "FlowBot",
+                                            "icon_url": "https://img.icons8.com/color/452/discord-logo.png"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "ilai",
+                                "avatar": "https://cdn.discordapp.com/avatars/608029420929679370/8ff32e8b4e77b783e24e413dc1440276.webp",
+                                "content": "f!cmdreload :loading:",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "FlowBot",
+                                "avatar": "https://cdn.discordapp.com/avatars/799484393185345557/83a4357d5b733af761641e231c4ae185.webp",
+                                "content": ":white_check_mark: Backup successfully created. The backup ID was sent in dm!",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "FlowBot",
+                                "avatar": "https://cdn.discordapp.com/avatars/799484393185345557/83a4357d5b733af761641e231c4ae185.webp",
+                                "content": ":loading: | Creating backup, please wait...",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "ilai",
+                                "avatar": "https://cdn.discordapp.com/avatars/608029420929679370/8ff32e8b4e77b783e24e413dc1440276.webp",
+                                "content": "f!bcreate",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "ilai",
+                                "avatar": "https://cdn.discordapp.com/avatars/608029420929679370/8ff32e8b4e77b783e24e413dc1440276.webp",
+                                "content": "\\:loading:",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "ilai",
+                                "avatar": "https://cdn.discordapp.com/avatars/608029420929679370/8ff32e8b4e77b783e24e413dc1440276.webp",
+                                "content": "\\:loading:",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "FlowBot",
+                                "avatar": "https://cdn.discordapp.com/avatars/799484393185345557/83a4357d5b733af761641e231c4ae185.webp",
+                                "content": ":white_check_mark: Backup successfully created. The backup ID was sent in dm!",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "FlowBot",
+                                "avatar": "https://cdn.discordapp.com/avatars/799484393185345557/83a4357d5b733af761641e231c4ae185.webp",
+                                "content": ":loading: | Creating backup, please wait...",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "ilai",
+                                "avatar": "https://cdn.discordapp.com/avatars/608029420929679370/8ff32e8b4e77b783e24e413dc1440276.webp",
+                                "content": "f!bcreate",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "FlowBot",
+                                "avatar": "https://cdn.discordapp.com/avatars/799484393185345557/83a4357d5b733af761641e231c4ae185.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "Reloaded: `bcreate`",
+                                        "type": "rich",
+                                        "description": null,
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 3447003,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": {
+                                            "text": "FlowBot",
+                                            "icon_url": "https://img.icons8.com/color/452/discord-logo.png"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "ilai",
+                                "avatar": "https://cdn.discordapp.com/avatars/608029420929679370/8ff32e8b4e77b783e24e413dc1440276.webp",
+                                "content": "f!cmdreload bcreate",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "ilai",
+                                "avatar": "https://cdn.discordapp.com/avatars/608029420929679370/8ff32e8b4e77b783e24e413dc1440276.webp",
+                                "content": "`\\:loading:`",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "ilai",
+                                "avatar": "https://cdn.discordapp.com/avatars/608029420929679370/8ff32e8b4e77b783e24e413dc1440276.webp",
+                                "content": "`\\:loading:`",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "ilai",
+                                "avatar": "https://cdn.discordapp.com/avatars/608029420929679370/8ff32e8b4e77b783e24e413dc1440276.webp",
+                                "content": "\\:loading:",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "ilai",
+                                "avatar": "https://cdn.discordapp.com/avatars/608029420929679370/8ff32e8b4e77b783e24e413dc1440276.webp",
+                                "content": "\\:loading:",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "ilai",
+                                "avatar": "https://cdn.discordapp.com/avatars/608029420929679370/8ff32e8b4e77b783e24e413dc1440276.webp",
+                                "content": "xd",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "ilai",
+                                "avatar": "https://cdn.discordapp.com/avatars/608029420929679370/8ff32e8b4e77b783e24e413dc1440276.webp",
+                                "content": "@​Dats - Team Wumpus si funciono el backup laod",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "ilai",
+                                "avatar": "https://cdn.discordapp.com/avatars/608029420929679370/8ff32e8b4e77b783e24e413dc1440276.webp",
+                                "content": "Uh",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "ilai",
+                                "avatar": "https://cdn.discordapp.com/avatars/879879912108994591/462944eb94af17b88a86524c0d25fc15.webp",
+                                "content": "f!bcreate",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "FlowBot",
+                                "avatar": "https://cdn.discordapp.com/avatars/879879912108994591/450b476c9c6fa266be8e5e48c96df450.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "❌ ERROR | An error occurred",
+                                        "type": "rich",
+                                        "description": "```ReferenceError: backup is not defined\n    at Object.run (/home/container/commands/Backups/backup-create.js:15:13)\n    at module.exports (/home/container/events/guild/message.js:165:17)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)```",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 14687745,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": {
+                                            "text": "FlowBot",
+                                            "icon_url": "https://img.icons8.com/color/452/discord-logo.png"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "ilai",
+                                "avatar": "https://cdn.discordapp.com/avatars/879879912108994591/462944eb94af17b88a86524c0d25fc15.webp",
+                                "content": "f!bcreate",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "FlowBot",
+                                "avatar": "https://cdn.discordapp.com/avatars/879879912108994591/450b476c9c6fa266be8e5e48c96df450.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "❌ ERROR | An error occurred",
+                                        "type": "rich",
+                                        "description": "```ReferenceError: backup is not defined\n    at Object.run (/home/container/commands/Backups/backup-create.js:15:13)\n    at module.exports (/home/container/events/guild/message.js:165:17)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)```",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 14687745,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": {
+                                            "text": "FlowBot",
+                                            "icon_url": "https://img.icons8.com/color/452/discord-logo.png"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "ilai",
+                                "avatar": "https://cdn.discordapp.com/avatars/879879912108994591/462944eb94af17b88a86524c0d25fc15.webp",
+                                "content": "f!bcreate",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "ilai",
+                                "avatar": "https://cdn.discordapp.com/avatars/879879912108994591/462944eb94af17b88a86524c0d25fc15.webp",
+                                "content": "f!backup",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "FlowBot",
+                                "avatar": "https://cdn.discordapp.com/avatars/879879912108994591/450b476c9c6fa266be8e5e48c96df450.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "> **`20 Commands`**\n\n> **`9 Events`**\n\n> **`2 Modules/Features`**",
+                                        "type": "rich",
+                                        "description": null,
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 3447003,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": {
+                                            "name": "Successfully Reloaded:",
+                                            "url": "https://discord.gg/FQGXbypRf8",
+                                            "icon_url": "https://cdn.discordapp.com/emojis/833101995723194437.gif?v=1"
+                                        },
+                                        "footer": {
+                                            "text": "FlowBot",
+                                            "icon_url": "https://img.icons8.com/color/452/discord-logo.png"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "ilai",
+                                "avatar": "https://cdn.discordapp.com/avatars/879879912108994591/462944eb94af17b88a86524c0d25fc15.webp",
+                                "content": "f!reloadbot",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "ilai",
+                                "avatar": "https://cdn.discordapp.com/avatars/879879912108994591/462944eb94af17b88a86524c0d25fc15.webp",
+                                "content": "f!botreload",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "ilai",
+                                "avatar": "https://cdn.discordapp.com/avatars/879879912108994591/462944eb94af17b88a86524c0d25fc15.webp",
+                                "content": "f!relaodbot",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "📚・suggestions",
+                        "nsfw": false,
+                        "rateLimitPerUser": 300,
+                        "parent": "🎯 | ====== Main ====== | 🎯",
+                        "topic": "In this channel you can suggest features that you would like to see in future-updates!",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1024
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "🎫・support",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🎯 | ====== Main ====== | 🎯",
+                        "topic": "If you need help, or have any questions, this is the right channel for you!",
+                        "permissions": [],
+                        "messages": [
+                            {
+                                "username": "ilai",
+                                "avatar": "https://cdn.discordapp.com/avatars/879879909596594266/462944eb94af17b88a86524c0d25fc15.webp",
+                                "content": "@everyone #SaquenmeDeLatinoAmerica",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "FlowBot",
+                                "avatar": "https://cdn.discordapp.com/avatars/879879909596594266/450b476c9c6fa266be8e5e48c96df450.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "New confession!",
+                                        "type": "rich",
+                                        "description": "jas",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": null,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": {
+                                            "text": "By: Anonymous"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "📁・bug-reports",
+                        "nsfw": false,
+                        "rateLimitPerUser": 10,
+                        "parent": "🎯 | ====== Main ====== | 🎯",
+                        "topic": "If you've found any bug or problem on the bot, make sure to report it in this channel.",
+                        "permissions": [],
+                        "messages": [
+                            {
+                                "username": "FlowBot",
+                                "avatar": "https://cdn.discordapp.com/avatars/799484393185345557/83a4357d5b733af761641e231c4ae185.webp",
+                                "content": "",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "ilai",
+                                "avatar": "https://cdn.discordapp.com/avatars/879879910930399353/462944eb94af17b88a86524c0d25fc15.webp",
+                                "content": "**Bug report** | Como se usa\n\n⛔ Hemos descontinuado el uso manual de este canal.\n\n<:check:838243622112985130> Si usted quiere reportar un bug use `ck!reportbug`.\n\nSi una **parte importante** del bot esta en peligro *(tokens, database, evals, etc)*\nFavor de no reportarlo aqui, escriba __**INMEDIATAMENTE**__ al staff o abra un ticket.",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": true
+                            }
+                        ],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "🤖・commands",
+                        "nsfw": false,
+                        "rateLimitPerUser": 5,
+                        "parent": "🎯 | ====== Main ====== | 🎯",
+                        "topic": "In this channel you can interact with all bots on the server.",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1024
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "🔊 | ====== Voice ====== | 🔊",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "voice",
+                        "name": "🔊・General",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "🔊 | ====== Voice ====== | 🔊",
+                        "permissions": []
+                    },
+                    {
+                        "type": "voice",
+                        "name": "🎵・Music",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "🔊 | ====== Voice ====== | 🔊",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 2097152
+                            }
+                        ]
+                    },
+                    {
+                        "type": "voice",
+                        "name": "🔐・Private",
+                        "bitrate": 64000,
+                        "userLimit": 2,
+                        "parent": "🔊 | ====== Voice ====== | 🔊",
+                        "permissions": []
+                    },
+                    {
+                        "type": "voice",
+                        "name": "💤・AFK",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "🔊 | ====== Voice ====== | 🔊",
+                        "permissions": []
+                    }
+                ]
+            },
+            {
+                "name": "🎯 | ====== Staff ====== | 🎯",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": 0,
+                        "deny": 1049600
+                    },
+                    {
+                        "roleName": "「🔩」· Developer",
+                        "allow": 1049600,
+                        "deny": 0
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "📪・staff-news",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🎯 | ====== Staff ====== | 🎯",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1049600
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "🎓・staff-chat",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🎯 | ====== Staff ====== | 🎯",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1049600
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/879879918723416105/7ac0480d20e66701ecae40137bbc02d6.webp",
+                                "content": ":lc_Pepe_Uhm:",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "🔐・staff-commands",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🎯 | ====== Staff ====== | 🎯",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1049600
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "FlowBot",
+                                "avatar": "https://cdn.discordapp.com/avatars/879879919147057223/450b476c9c6fa266be8e5e48c96df450.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "FlowBot - Commands",
+                                        "type": "rich",
+                                        "description": null,
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 3447003,
+                                        "fields": [
+                                            {
+                                                "name": "**Administration**",
+                                                "value": "`lock`| `setconfessions`| `setprefix`| `unlock`",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "**Fun**",
+                                                "value": "`confession`",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "**Games**",
+                                                "value": "`fasttype`| `fight`",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "**Information**",
+                                                "value": "`avatar`| `botstats`| `commandcount`| `help`| `invite`| `membercount`| `permissions`| `ping`| `roleinfo`| `serveravatar`| `serverinfo`| `uptime`| `userinfo`",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "**Owner**",
+                                                "value": "`changeavatar`| `changename`| `cmdreload`| `detailedeval`| `eval`| `reloadbot`",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "**Util**",
+                                                "value": "`emojiinfo`",
+                                                "inline": false
+                                            }
+                                        ],
+                                        "thumbnail": {
+                                            "url": "https://cdn.discordapp.com/avatars/799484393185345557/83a4357d5b733af761641e231c4ae185.webp",
+                                            "proxyURL": "https://images-ext-2.discordapp.net/external/-HWxT6xT9lPt6ly17OuEKOcc8r7Bo9HqdcA4VgS7qPI/https/cdn.discordapp.com/avatars/799484393185345557/83a4357d5b733af761641e231c4ae185.webp",
+                                            "height": 128,
+                                            "width": 128
+                                        },
+                                        "image": null,
+                                        "author": null,
+                                        "footer": {
+                                            "text": "To see command descriptions and some util information, type: f!help [cmd]",
+                                            "icon_url": "https://cdn.discordapp.com/avatars/799484393185345557/83a4357d5b733af761641e231c4ae185.webp"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "ilai",
+                                "avatar": "https://cdn.discordapp.com/avatars/879879919147057223/462944eb94af17b88a86524c0d25fc15.webp",
+                                "content": "f!help",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "FlowBot",
+                                "avatar": "https://cdn.discordapp.com/avatars/879879919147057223/450b476c9c6fa266be8e5e48c96df450.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "FlowBot - Commands",
+                                        "type": "rich",
+                                        "description": null,
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 3447003,
+                                        "fields": [
+                                            {
+                                                "name": "**Administration**",
+                                                "value": "``` embed, say ```",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "**Games**",
+                                                "value": "``` fasttype, snake ```",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "**Information**",
+                                                "value": "``` commandcount, help, invite, ping, uptime ```",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "**Owner**",
+                                                "value": "``` changeavatar, changename, cmdreload, detailedeval, eval, reloadbot ```",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "**Util**",
+                                                "value": "``` avatar, calculator, emojiinfo, membercount, permissions, roleinfo, serveravatar, serverinfo, userinfo ```",
+                                                "inline": false
+                                            }
+                                        ],
+                                        "thumbnail": {
+                                            "url": "https://cdn.discordapp.com/avatars/799484393185345557/83a4357d5b733af761641e231c4ae185.webp",
+                                            "proxyURL": "https://images-ext-2.discordapp.net/external/-HWxT6xT9lPt6ly17OuEKOcc8r7Bo9HqdcA4VgS7qPI/https/cdn.discordapp.com/avatars/799484393185345557/83a4357d5b733af761641e231c4ae185.webp",
+                                            "height": 128,
+                                            "width": 128
+                                        },
+                                        "image": null,
+                                        "author": null,
+                                        "footer": {
+                                            "text": "To see command descriptions and some util information, type: f!help [cmd]",
+                                            "icon_url": "https://cdn.discordapp.com/avatars/799484393185345557/83a4357d5b733af761641e231c4ae185.webp"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "ilai",
+                                "avatar": "https://cdn.discordapp.com/avatars/879879919147057223/462944eb94af17b88a86524c0d25fc15.webp",
+                                "content": "f!help",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "FlowBot",
+                                "avatar": "https://cdn.discordapp.com/avatars/879879919147057223/450b476c9c6fa266be8e5e48c96df450.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "Snake",
+                                        "type": "rich",
+                                        "description": "GG, you scored **2** points!",
+                                        "url": null,
+                                        "timestamp": "2021-07-25T21:09:08.428Z",
+                                        "color": 7506394,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": {
+                                            "text": "©️ Weky Development"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "ilai",
+                                "avatar": "https://cdn.discordapp.com/avatars/879879919147057223/462944eb94af17b88a86524c0d25fc15.webp",
+                                "content": "f!snake",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "FlowBot",
+                                "avatar": "https://cdn.discordapp.com/avatars/879879919147057223/450b476c9c6fa266be8e5e48c96df450.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "FlowBot - Commands",
+                                        "type": "rich",
+                                        "description": null,
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 3447003,
+                                        "fields": [
+                                            {
+                                                "name": "**Administration**",
+                                                "value": "``` embed, say ```",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "**Games**",
+                                                "value": "``` fasttype ```",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "**Information**",
+                                                "value": "``` commandcount, help, invite, ping, uptime ```",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "**Owner**",
+                                                "value": "``` changeavatar, changename, cmdreload, detailedeval, eval, reloadbot ```",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "**Util**",
+                                                "value": "``` avatar, calculator, emojiinfo, membercount, permissions, roleinfo, serveravatar, serverinfo, userinfo ```",
+                                                "inline": false
+                                            }
+                                        ],
+                                        "thumbnail": {
+                                            "url": "https://cdn.discordapp.com/avatars/799484393185345557/83a4357d5b733af761641e231c4ae185.webp",
+                                            "proxyURL": "https://images-ext-2.discordapp.net/external/-HWxT6xT9lPt6ly17OuEKOcc8r7Bo9HqdcA4VgS7qPI/https/cdn.discordapp.com/avatars/799484393185345557/83a4357d5b733af761641e231c4ae185.webp",
+                                            "height": 128,
+                                            "width": 128
+                                        },
+                                        "image": null,
+                                        "author": null,
+                                        "footer": {
+                                            "text": "To see command descriptions and some util information, type: f!help [cmd]",
+                                            "icon_url": "https://cdn.discordapp.com/avatars/799484393185345557/83a4357d5b733af761641e231c4ae185.webp"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "ilai",
+                                "avatar": "https://cdn.discordapp.com/avatars/879879919147057223/462944eb94af17b88a86524c0d25fc15.webp",
+                                "content": "f!help",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "ilai",
+                                "avatar": "https://cdn.discordapp.com/avatars/879879919147057223/462944eb94af17b88a86524c0d25fc15.webp",
+                                "content": "f!help",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "ilai",
+                                "avatar": "https://cdn.discordapp.com/avatars/879879919147057223/462944eb94af17b88a86524c0d25fc15.webp",
+                                "content": "f!help",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "📧・community-news",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🎯 | ====== Staff ====== | 🎯",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1049600
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "📥・discord-updates",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🎯 | ====== Staff ====== | 🎯",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1049600
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "Community Updates",
+                                "avatar": "https://cdn.discordapp.com/avatars/879879921709744148/4a2e47494ad143e2ad5ac29d14be5257.webp",
+                                "content": "This channel has been set up to receive official Discord announcements for admins and moderators of Community servers. We'll let you know about important updates, such as new moderation features or changes to your server's eligibility for Server Discovery, here.\n\nYou can change which channel these messages are sent to at any time inside Server Settings. We recommend choosing your staff channel, as some information may be sensitive to your server.\n\nThanks for choosing Discord as the place to build your community!",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "📛・moderation-logs",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🎯 | ====== Staff ====== | 🎯",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1049600
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "🔎・utility-logs",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🎯 | ====== Staff ====== | 🎯",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1049600
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "Ticket Tool",
+                                "avatar": "https://cdn.discordapp.com/avatars/879879924637384814/fb20acab88506d1047c67055f1cf1f78.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": null,
+                                        "type": "rich",
+                                        "description": null,
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 16772696,
+                                        "fields": [
+                                            {
+                                                "name": "Logged Info",
+                                                "value": "Ticket: Ticket-0002\nAction: Closed",
+                                                "inline": true
+                                            },
+                                            {
+                                                "name": "Panel",
+                                                "value": "Support",
+                                                "inline": true
+                                            }
+                                        ],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": {
+                                            "name": "! $.IlaiIdkUwU#0827",
+                                            "icon_url": "https://cdn.discordapp.com/avatars/608029420929679370/c7d889bca0fce1f8064f35110724dd1d.png"
+                                        },
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Ticket Tool",
+                                "avatar": "https://cdn.discordapp.com/avatars/879879924637384814/fb20acab88506d1047c67055f1cf1f78.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": null,
+                                        "type": "rich",
+                                        "description": null,
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 6732650,
+                                        "fields": [
+                                            {
+                                                "name": "Logged Info",
+                                                "value": "Ticket: Ticket-0002\nAction: Created",
+                                                "inline": true
+                                            },
+                                            {
+                                                "name": "Panel",
+                                                "value": "Support",
+                                                "inline": true
+                                            }
+                                        ],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": {
+                                            "name": "! $.IlaiIdkUwU#0827",
+                                            "icon_url": "https://cdn.discordapp.com/avatars/608029420929679370/c7d889bca0fce1f8064f35110724dd1d.png"
+                                        },
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "👥・invites",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🎯 | ====== Staff ====== | 🎯",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1049600
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "🔧 | ==== Bot Logs ==== | 🔧",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": 0,
+                        "deny": 1049600
+                    },
+                    {
+                        "roleName": "「🔩」· Developer",
+                        "allow": 1049600,
+                        "deny": 0
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "📥・guild-join",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔧 | ==== Bot Logs ==== | 🔧",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1049600
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "📤・guild-leave",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔧 | ==== Bot Logs ==== | 🔧",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1049600
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "📛・bot-errors",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔧 | ==== Bot Logs ==== | 🔧",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1049600
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    }
+                ]
+            }
+        ],
+        "others": []
+    },
+    "roles": [
+        {
+            "name": "* role editor",
+            "color": "#e91e63",
+            "hoist": false,
+            "permissions": 372624961,
+            "mentionable": false,
+            "position": 21,
+            "isEveryone": false
+        },
+        {
+            "name": "「👑」· Bot",
+            "color": "#00ff56",
+            "hoist": true,
+            "permissions": 2146959359,
+            "mentionable": true,
+            "position": 20,
+            "isEveryone": false
+        },
+        {
+            "name": "「👑」· Bot",
+            "color": "#00ff56",
+            "hoist": true,
+            "permissions": 2146959359,
+            "mentionable": true,
+            "position": 18,
+            "isEveryone": false
+        },
+        {
+            "name": "「⭐」・Boosters",
+            "color": "#194992",
+            "hoist": true,
+            "permissions": 104189505,
+            "mentionable": false,
+            "position": 17,
+            "isEveryone": false
+        },
+        {
+            "name": "「📌」・Designer",
+            "color": "#116d56",
+            "hoist": true,
+            "permissions": 104189505,
+            "mentionable": false,
+            "position": 16,
+            "isEveryone": false
+        },
+        {
+            "name": "* role editor",
+            "color": "#e91e63",
+            "hoist": false,
+            "permissions": 372624961,
+            "mentionable": false,
+            "position": 15,
+            "isEveryone": false
+        },
+        {
+            "name": "「📌」· Moderators",
+            "color": "#dff159",
+            "hoist": true,
+            "permissions": 104189505,
+            "mentionable": false,
+            "position": 14,
+            "isEveryone": false
+        },
+        {
+            "name": "「🔩」· Developer",
+            "color": "#3498db",
+            "hoist": true,
+            "permissions": 104189513,
+            "mentionable": false,
+            "position": 13,
+            "isEveryone": false
+        },
+        {
+            "name": "「🛡」・Leguends",
+            "color": "#923200",
+            "hoist": true,
+            "permissions": 104189505,
+            "mentionable": false,
+            "position": 12,
+            "isEveryone": false
+        },
+        {
+            "name": "「🎋」· Alter",
+            "color": "#ae6800",
+            "hoist": true,
+            "permissions": 104189505,
+            "mentionable": false,
+            "position": 11,
+            "isEveryone": false
+        },
+        {
+            "name": "「🐾」· Administrators",
+            "color": "#2ecc71",
+            "hoist": true,
+            "permissions": 104189513,
+            "mentionable": false,
+            "position": 10,
+            "isEveryone": false
+        },
+        {
+            "name": "「🇺🇸」· Patreons",
+            "color": "#e91e63",
+            "hoist": true,
+            "permissions": 104189505,
+            "mentionable": false,
+            "position": 9,
+            "isEveryone": false
+        },
+        {
+            "name": "⊰᯽⊱┈──╌『⛔』╌──┈⊰᯽⊱",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 104189505,
+            "mentionable": false,
+            "position": 8,
+            "isEveryone": false
+        },
+        {
+            "name": "⊰᯽⊱┈──╌『🔥』╌──┈⊰᯽⊱",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 104189505,
+            "mentionable": false,
+            "position": 7,
+            "isEveryone": false
+        },
+        {
+            "name": "「🌙」· Voter",
+            "color": "#61bcff",
+            "hoist": true,
+            "permissions": 104189505,
+            "mentionable": false,
+            "position": 6,
+            "isEveryone": false
+        },
+        {
+            "name": "「🔨」· Support",
+            "color": "#f1c40f",
+            "hoist": true,
+            "permissions": 104189505,
+            "mentionable": false,
+            "position": 5,
+            "isEveryone": false
+        },
+        {
+            "name": "⊰᯽⊱┈──╌『🖥』╌──┈⊰᯽⊱",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 104188481,
+            "mentionable": false,
+            "position": 4,
+            "isEveryone": false
+        },
+        {
+            "name": "「🕊」· Members",
+            "color": "#1abc9c",
+            "hoist": true,
+            "permissions": 104189505,
+            "mentionable": false,
+            "position": 3,
+            "isEveryone": false
+        },
+        {
+            "name": "「🔥」· Partners",
+            "color": "#9b59b6",
+            "hoist": true,
+            "permissions": 104189505,
+            "mentionable": false,
+            "position": 2,
+            "isEveryone": false
+        },
+        {
+            "name": "「🤖」· Bots Commands",
+            "color": "#ffe6e6",
+            "hoist": true,
+            "permissions": 104189513,
+            "mentionable": false,
+            "position": 1,
+            "isEveryone": false
+        },
+        {
+            "name": "@everyone",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 104189505,
+            "mentionable": false,
+            "position": 0,
+            "isEveryone": true
+        }
+    ],
+    "bans": [
+        {
+            "id": "338222603829510164",
+            "reason": "Bot inecesario"
+        },
+        {
+            "id": "557628352828014614",
+            "reason": "Reason not specified., banned by ilai#0827"
+        },
+        {
+            "id": "774779262208835586",
+            "reason": "asd, banned by ilai#0827"
+        },
+        {
+            "id": "854873101602914306",
+            "reason": "Reason not specified., banned by ilai#0827"
+        }
+    ],
+    "emojis": [
+        {
+            "name": "online",
+            "url": "https://cdn.discordapp.com/emojis/879879893205254155.png"
+        },
+        {
+            "name": "offline",
+            "url": "https://cdn.discordapp.com/emojis/879879894971060254.png"
+        },
+        {
+            "name": "mantenimiento",
+            "url": "https://cdn.discordapp.com/emojis/879879896443285504.png"
+        },
+        {
+            "name": "CPU",
+            "url": "https://cdn.discordapp.com/emojis/879879905804967956.png"
+        },
+        {
+            "name": "Servers",
+            "url": "https://cdn.discordapp.com/emojis/879879907755294730.png"
+        },
+        {
+            "name": "lenguaje",
+            "url": "https://cdn.discordapp.com/emojis/879879909521109022.png"
+        },
+        {
+            "name": "usuarios",
+            "url": "https://cdn.discordapp.com/emojis/879879910812958760.png"
+        },
+        {
+            "name": "RAM",
+            "url": "https://cdn.discordapp.com/emojis/879879912419373066.png"
+        },
+        {
+            "name": "check",
+            "url": "https://cdn.discordapp.com/emojis/879879914004836392.png"
+        },
+        {
+            "name": "Xdadobe",
+            "url": "https://cdn.discordapp.com/emojis/879879915183415396.png"
+        },
+        {
+            "name": "loading",
+            "url": "https://cdn.discordapp.com/emojis/879879945185263656.gif"
+        },
+        {
+            "name": "staff",
+            "url": "https://cdn.discordapp.com/emojis/879879946435186768.png"
+        },
+        {
+            "name": "Verificado",
+            "url": "https://cdn.discordapp.com/emojis/879879951610961940.gif"
+        }
+    ],
+    "createdTimestamp": 1629941631861,
+    "guildID": "800495502532804638",
+    "id": "880263747279650816",
+    "iconURL": "https://cdn.discordapp.com/icons/800495502532804638/1a1ea6c1634bbb5e0154b9882ba23d38.webp"
+}

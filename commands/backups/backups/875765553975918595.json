@@ -1,0 +1,1615 @@
+{
+    "name": "basti128 -plugins y mas",
+    "region": "brazil",
+    "verificationLevel": "MEDIUM",
+    "explicitContentFilter": "ALL_MEMBERS",
+    "defaultMessageNotifications": "ALL",
+    "afk": null,
+    "widget": {
+        "enabled": false,
+        "channel": null
+    },
+    "channels": {
+        "categories": [
+            {
+                "name": "°〘💬〙Chats para socializar por primera vez alo vio»",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "°〘💬〙general»",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "°〘💬〙Chats para socializar por primera vez alo vio»",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [
+                            {
+                                "username": "MEE6",
+                                "avatar": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.webp",
+                                "content": "GG @​Only Reiiser, you just advanced to level 2!",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Only Reiiser",
+                                "avatar": "https://cdn.discordapp.com/avatars/704840796255551519/a_73362e9f3a0184372db0d5526fc36cb2.webp",
+                                "content": "w!backupcreate",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Wumpus Gamer",
+                                "avatar": "https://cdn.discordapp.com/avatars/829721945921814548/760826716491f436b6cfbf4f5c2f343a.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "<a:wb_si:868627855997812776> El backup se ha creado correctamente.",
+                                        "type": "rich",
+                                        "description": "<@331914680358404097> **Revisa tus mds**",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 3066993,
+                                        "fields": [],
+                                        "thumbnail": {
+                                            "url": "https://cdn.discordapp.com/avatars/331914680358404097/f2d37f8d5c93797f34de324b4d808c88.webp",
+                                            "proxyURL": "https://images-ext-1.discordapp.net/external/wp4wFc_VJms3oF1-GLmD33xuirBcayQuvSPlSbfDsCU/https/cdn.discordapp.com/avatars/331914680358404097/f2d37f8d5c93797f34de324b4d808c88.webp",
+                                            "height": 128,
+                                            "width": 128
+                                        },
+                                        "image": null,
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "basti128",
+                                "avatar": "https://cdn.discordapp.com/avatars/331914680358404097/f2d37f8d5c93797f34de324b4d808c88.webp",
+                                "content": "w!backupcreate",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "basti128",
+                                "avatar": "https://cdn.discordapp.com/avatars/331914680358404097/f2d37f8d5c93797f34de324b4d808c88.webp",
+                                "content": "uu quiero probar",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Wumpus Gamer",
+                                "avatar": "https://cdn.discordapp.com/avatars/829721945921814548/760826716491f436b6cfbf4f5c2f343a.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "<a:wb_si:868627855997812776> El backup se ha creado correctamente.",
+                                        "type": "rich",
+                                        "description": "<@757052086528639027> **Revisa tus mds**",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 3066993,
+                                        "fields": [],
+                                        "thumbnail": {
+                                            "url": "https://cdn.discordapp.com/avatars/757052086528639027/f3d7514d820d4164eaa3a080c05585b4.webp",
+                                            "proxyURL": "https://images-ext-1.discordapp.net/external/teg1daz7ZjZTfdfkmc3ePgC1rBTqo3qrJ9Ab3THfSJg/https/cdn.discordapp.com/avatars/757052086528639027/f3d7514d820d4164eaa3a080c05585b4.webp",
+                                            "height": 128,
+                                            "width": 128
+                                        },
+                                        "image": null,
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "basti128",
+                                "avatar": "https://cdn.discordapp.com/avatars/331914680358404097/f2d37f8d5c93797f34de324b4d808c88.webp",
+                                "content": "}simplemente se unire de nuevo",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "dalu - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/757052086528639027/f3d7514d820d4164eaa3a080c05585b4.webp",
+                                "content": "w!backupcreate",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "basti128",
+                                "avatar": "https://cdn.discordapp.com/avatars/331914680358404097/f2d37f8d5c93797f34de324b4d808c88.webp",
+                                "content": "porque si alguien necesita ayuda",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "basti128",
+                                "avatar": "https://cdn.discordapp.com/avatars/331914680358404097/f2d37f8d5c93797f34de324b4d808c88.webp",
+                                "content": "total, el loco ni de broma rompe a mi comunidad  jaja, de hecho hizo una limpieza de inactivos",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "basti128",
+                                "avatar": "https://cdn.discordapp.com/avatars/331914680358404097/f2d37f8d5c93797f34de324b4d808c88.webp",
+                                "content": "eso",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "basti128",
+                                "avatar": "https://cdn.discordapp.com/avatars/331914680358404097/f2d37f8d5c93797f34de324b4d808c88.webp",
+                                "content": "sisi, eos",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Only Reiiser",
+                                "avatar": "https://cdn.discordapp.com/avatars/704840796255551519/a_73362e9f3a0184372db0d5526fc36cb2.webp",
+                                "content": "o pon uno al final de algun video de plugins",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Wumpus Gamer",
+                                "avatar": "https://cdn.discordapp.com/avatars/829721945921814548/760826716491f436b6cfbf4f5c2f343a.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "Comandos | Protección",
+                                        "type": "rich",
+                                        "description": "**backupcreate** `|` Crea una copia de seguridad de tu servidor.\n    **backupinfo** `|` Muestra información de una copia de seguridad.\n    **backupload** `|` Carga una copia de seguridad.",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 4362743,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "dalu - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/757052086528639027/f3d7514d820d4164eaa3a080c05585b4.webp",
+                                "content": "w!help",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "basti128",
+                                "avatar": "https://cdn.discordapp.com/avatars/331914680358404097/f2d37f8d5c93797f34de324b4d808c88.webp",
+                                "content": "na, seria tremenda perdida de tiempo y le daria la atencion que busca al loco",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Only Reiiser",
+                                "avatar": "https://cdn.discordapp.com/avatars/704840796255551519/a_73362e9f3a0184372db0d5526fc36cb2.webp",
+                                "content": "manda un video explicativo a tu canal de yt",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "basti128",
+                                "avatar": "https://cdn.discordapp.com/avatars/331914680358404097/f2d37f8d5c93797f34de324b4d808c88.webp",
+                                "content": "bue, igual, si alguien necesita ayuda se unira a este dc",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Only Reiiser",
+                                "avatar": "https://cdn.discordapp.com/avatars/704840796255551519/a_73362e9f3a0184372db0d5526fc36cb2.webp",
+                                "content": "k mal wn",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "basti128",
+                                "avatar": "https://cdn.discordapp.com/avatars/331914680358404097/f2d37f8d5c93797f34de324b4d808c88.webp",
+                                "content": "pasamos a ser unos 10",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "basti128",
+                                "avatar": "https://cdn.discordapp.com/avatars/331914680358404097/f2d37f8d5c93797f34de324b4d808c88.webp",
+                                "content": "de 60",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "basti128",
+                                "avatar": "https://cdn.discordapp.com/avatars/331914680358404097/f2d37f8d5c93797f34de324b4d808c88.webp",
+                                "content": "joderrr",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Wumpus Gamer",
+                                "avatar": "https://cdn.discordapp.com/avatars/829721945921814548/760826716491f436b6cfbf4f5c2f343a.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": null,
+                                        "type": "rich",
+                                        "description": "<a:wb_si:868627855997812776> Aviso enviado a <#865645932468764693>",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 3066993,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "dalu - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/757052086528639027/f3d7514d820d4164eaa3a080c05585b4.webp",
+                                "content": "w!aviso #°〘📣〙anuncios» **YA TODO VOLVIO A LA NORMALIDAD :)**",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "basti128",
+                                "avatar": "https://cdn.discordapp.com/avatars/331914680358404097/f2d37f8d5c93797f34de324b4d808c88.webp",
+                                "content": "xd",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "basti128",
+                                "avatar": "https://cdn.discordapp.com/avatars/331914680358404097/f2d37f8d5c93797f34de324b4d808c88.webp",
+                                "content": "que me tagen nomas",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "basti128",
+                                "avatar": "https://cdn.discordapp.com/avatars/331914680358404097/f2d37f8d5c93797f34de324b4d808c88.webp",
+                                "content": "no",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Only Reiiser",
+                                "avatar": "https://cdn.discordapp.com/avatars/704840796255551519/a_73362e9f3a0184372db0d5526fc36cb2.webp",
+                                "content": "yera",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Only Reiiser",
+                                "avatar": "https://cdn.discordapp.com/avatars/704840796255551519/a_73362e9f3a0184372db0d5526fc36cb2.webp",
+                                "content": "lo agregare como regla",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Only Reiiser",
+                                "avatar": "https://cdn.discordapp.com/avatars/704840796255551519/a_73362e9f3a0184372db0d5526fc36cb2.webp",
+                                "content": "igual",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "<:emoji_11:875432837120155708>",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MEE6",
+                                "avatar": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.webp",
+                                "content": "GG @​ELRama, you just advanced to level 1!",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "ELRama",
+                                "avatar": "https://cdn.discordapp.com/avatars/677342307661381643/f896b9835118d52f4bdd256ef9d1d819.webp",
+                                "content": "xD",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "Jajajjajajajaja",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Only Reiiser",
+                                "avatar": "https://cdn.discordapp.com/avatars/704840796255551519/a_73362e9f3a0184372db0d5526fc36cb2.webp",
+                                "content": "es que estamos en un server de Roleplay que siempre dicen esa wea",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "basti128",
+                                "avatar": "https://cdn.discordapp.com/avatars/331914680358404097/f2d37f8d5c93797f34de324b4d808c88.webp",
+                                "content": "xd",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Only Reiiser",
+                                "avatar": "https://cdn.discordapp.com/avatars/704840796255551519/a_73362e9f3a0184372db0d5526fc36cb2.webp",
+                                "content": "sisisis",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "basti128",
+                                "avatar": "https://cdn.discordapp.com/avatars/331914680358404097/f2d37f8d5c93797f34de324b4d808c88.webp",
+                                "content": "se cree estaff",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "basti128",
+                                "avatar": "https://cdn.discordapp.com/avatars/331914680358404097/f2d37f8d5c93797f34de324b4d808c88.webp",
+                                "content": "na lo dice de broma",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Only Reiiser",
+                                "avatar": "https://cdn.discordapp.com/avatars/704840796255551519/a_73362e9f3a0184372db0d5526fc36cb2.webp",
+                                "content": "tranqui",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "basti128",
+                                "avatar": "https://cdn.discordapp.com/avatars/331914680358404097/f2d37f8d5c93797f34de324b4d808c88.webp",
+                                "content": "que te crei",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Johnny bozar",
+                                "avatar": "https://cdn.discordapp.com/avatars/680838827492900944/a_b13d0ae173abd4234777d4e00d15255b.webp",
+                                "content": "Disculpa!",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "basti128",
+                                "avatar": "https://cdn.discordapp.com/avatars/331914680358404097/f2d37f8d5c93797f34de324b4d808c88.webp",
+                                "content": "sisi, eso hare",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Only Reiiser",
+                                "avatar": "https://cdn.discordapp.com/avatars/704840796255551519/a_73362e9f3a0184372db0d5526fc36cb2.webp",
+                                "content": "_No mencionar al staff solo mensajes normales, el los leera_",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Johnny bozar",
+                                "avatar": "https://cdn.discordapp.com/avatars/680838827492900944/a_b13d0ae173abd4234777d4e00d15255b.webp",
+                                "content": "@​basti128 Crea todos los canales y luego buscas un bot para hacer backup",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MEE6",
+                                "avatar": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.webp",
+                                "content": "GG @​Dats - Team Wumpus, you just advanced to level 1!",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "Ah xddd",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "basti128",
+                                "avatar": "https://cdn.discordapp.com/avatars/331914680358404097/f2d37f8d5c93797f34de324b4d808c88.webp",
+                                "content": "enserio",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Only Reiiser",
+                                "avatar": "https://cdn.discordapp.com/avatars/704840796255551519/a_73362e9f3a0184372db0d5526fc36cb2.webp",
+                                "content": "los roles tbm estan raideados",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "dalu - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/757052086528639027/f3d7514d820d4164eaa3a080c05585b4.webp",
+                                "content": "O ya lo terminaste ?",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "dalu - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/757052086528639027/f3d7514d820d4164eaa3a080c05585b4.webp",
+                                "content": "primero termina el server",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "basti128",
+                                "avatar": "https://cdn.discordapp.com/avatars/331914680358404097/f2d37f8d5c93797f34de324b4d808c88.webp",
+                                "content": "como hago backup",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "dalu - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/757052086528639027/f3d7514d820d4164eaa3a080c05585b4.webp",
+                                "content": "Para cuándo agan otro raid ya tener backups",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "basti128",
+                                "avatar": "https://cdn.discordapp.com/avatars/331914680358404097/f2d37f8d5c93797f34de324b4d808c88.webp",
+                                "content": "si no hubiera sido peor",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "basti128",
+                                "avatar": "https://cdn.discordapp.com/avatars/331914680358404097/f2d37f8d5c93797f34de324b4d808c88.webp",
+                                "content": "menos mal me advirtieron y le quite admin",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "dalu - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/757052086528639027/f3d7514d820d4164eaa3a080c05585b4.webp",
+                                "content": "Si",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "basti128",
+                                "avatar": "https://cdn.discordapp.com/avatars/331914680358404097/f2d37f8d5c93797f34de324b4d808c88.webp",
+                                "content": "por?",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "basti128",
+                                "avatar": "https://cdn.discordapp.com/avatars/331914680358404097/f2d37f8d5c93797f34de324b4d808c88.webp",
+                                "content": "ya planeaba un raid",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "dalu - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/757052086528639027/f3d7514d820d4164eaa3a080c05585b4.webp",
+                                "content": "Terminen el server y agan backups",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "basti128",
+                                "avatar": "https://cdn.discordapp.com/avatars/331914680358404097/f2d37f8d5c93797f34de324b4d808c88.webp",
+                                "content": "que hdp",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "basti128",
+                                "avatar": "https://cdn.discordapp.com/avatars/331914680358404097/f2d37f8d5c93797f34de324b4d808c88.webp",
+                                "content": "les dio admin",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Johnny bozar",
+                                "avatar": "https://cdn.discordapp.com/avatars/680838827492900944/a_b13d0ae173abd4234777d4e00d15255b.webp",
+                                "content": "@​Dats - Team Wumpus",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "._.?",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Wumpus Gamer",
+                                "avatar": "https://cdn.discordapp.com/avatars/829721945921814548/760826716491f436b6cfbf4f5c2f343a.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "Comandos | Administración",
+                                        "type": "rich",
+                                        "description": "**addrole** `|` Agrega un rol a un usuario.\n    **removerole** `|` Remueve un rol a un usuario.\n    **roleall** `|` Dale un rol a todos los usuarios.\n    **removeroleall** `|` Remueve un rol a todos los usuarios.\n    **aviso** `|` Envia un aviso a un canal.\n    **poll** `|` Hace una encuesta.",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 8079554,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "basti128",
+                                "avatar": "https://cdn.discordapp.com/avatars/331914680358404097/f2d37f8d5c93797f34de324b4d808c88.webp",
+                                "content": "nadah, es un server de mi canal de YT, que lo uso como medio de comunicacion xd",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "dalu - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/757052086528639027/f3d7514d820d4164eaa3a080c05585b4.webp",
+                                "content": "w!help",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "ELRama",
+                                "avatar": "https://cdn.discordapp.com/avatars/677342307661381643/f896b9835118d52f4bdd256ef9d1d819.webp",
+                                "content": "mmm nop no deja escribir XD",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "basti128",
+                                "avatar": "https://cdn.discordapp.com/avatars/331914680358404097/f2d37f8d5c93797f34de324b4d808c88.webp",
+                                "content": "joderr, me quito el auto rol",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "De q es el sv?",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "basti128",
+                                "avatar": "https://cdn.discordapp.com/avatars/331914680358404097/f2d37f8d5c93797f34de324b4d808c88.webp",
+                                "content": "pueden escribir en #°〘🎟〙tickets» ?",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Dats - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/698650125022789632/a2aae43f9dd91aa313c384a002cb2d6e.webp",
+                                "content": "Xd",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Johnny bozar",
+                                "avatar": "https://cdn.discordapp.com/avatars/680838827492900944/a_b13d0ae173abd4234777d4e00d15255b.webp",
+                                "content": "Los permisos de los roles",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Only Reiiser",
+                                "avatar": "https://cdn.discordapp.com/avatars/704840796255551519/a_73362e9f3a0184372db0d5526fc36cb2.webp",
+                                "content": "esos me salen no ma",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "basti128",
+                                "avatar": "https://cdn.discordapp.com/avatars/331914680358404097/f2d37f8d5c93797f34de324b4d808c88.webp",
+                                "content": "@​Ticket Tool",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Only Reiiser",
+                                "avatar": "https://cdn.discordapp.com/avatars/704840796255551519/a_73362e9f3a0184372db0d5526fc36cb2.webp",
+                                "content": "no existe el canal de tickets",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "basti128",
+                                "avatar": "https://cdn.discordapp.com/avatars/331914680358404097/f2d37f8d5c93797f34de324b4d808c88.webp",
+                                "content": "parece que hay que borrar los canales, se fundieron",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "basti128",
+                                "avatar": "https://cdn.discordapp.com/avatars/331914680358404097/f2d37f8d5c93797f34de324b4d808c88.webp",
+                                "content": "tambien les sale eso?",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Only Reiiser",
+                                "avatar": "https://cdn.discordapp.com/avatars/704840796255551519/a_73362e9f3a0184372db0d5526fc36cb2.webp",
+                                "content": "no me deja mover los canales a la categoria",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "dalu - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/757052086528639027/f3d7514d820d4164eaa3a080c05585b4.webp",
+                                "content": "Quien era ese tal violento",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "basti128",
+                                "avatar": "https://cdn.discordapp.com/avatars/331914680358404097/f2d37f8d5c93797f34de324b4d808c88.webp",
+                                "content": "sisi, ya recuperamos",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Only Reiiser",
+                                "avatar": "https://cdn.discordapp.com/avatars/704840796255551519/a_73362e9f3a0184372db0d5526fc36cb2.webp",
+                                "content": "tranqui",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Only Reiiser",
+                                "avatar": "https://cdn.discordapp.com/avatars/704840796255551519/a_73362e9f3a0184372db0d5526fc36cb2.webp",
+                                "content": "sisis",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "ELRama",
+                                "avatar": "https://cdn.discordapp.com/avatars/677342307661381643/f896b9835118d52f4bdd256ef9d1d819.webp",
+                                "content": "pudieron recuperar? ami me sacaron XD",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "basti128",
+                                "avatar": "https://cdn.discordapp.com/avatars/331914680358404097/f2d37f8d5c93797f34de324b4d808c88.webp",
+                                "content": "si",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "basti128",
+                                "avatar": "https://cdn.discordapp.com/avatars/331914680358404097/f2d37f8d5c93797f34de324b4d808c88.webp",
+                                "content": "pueden hablar?",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "dalu - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/757052086528639027/f3d7514d820d4164eaa3a080c05585b4.webp",
+                                "content": "Quien lo invitó",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "dalu - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/757052086528639027/f3d7514d820d4164eaa3a080c05585b4.webp",
+                                "content": "Fue @​El Violento",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Only Reiiser",
+                                "avatar": "https://cdn.discordapp.com/avatars/704840796255551519/a_73362e9f3a0184372db0d5526fc36cb2.webp",
+                                "content": "",
+                                "embeds": [],
+                                "files": [
+                                    {
+                                        "name": "unknown.png",
+                                        "attachment": "https://cdn.discordapp.com/attachments/875762029166739476/875764507467718656/unknown.png"
+                                    }
+                                ],
+                                "pinned": false
+                            },
+                            {
+                                "username": "dalu - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/757052086528639027/f3d7514d820d4164eaa3a080c05585b4.webp",
+                                "content": "",
+                                "embeds": [],
+                                "files": [
+                                    {
+                                        "name": "Screenshot_20210813-102829.jpg",
+                                        "attachment": "https://cdn.discordapp.com/attachments/875762029166739476/875764080454037564/Screenshot_20210813-102829.jpg"
+                                    }
+                                ],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Only Reiiser",
+                                "avatar": "https://cdn.discordapp.com/avatars/704840796255551519/a_73362e9f3a0184372db0d5526fc36cb2.webp",
+                                "content": "",
+                                "embeds": [],
+                                "files": [
+                                    {
+                                        "name": "unknown.png",
+                                        "attachment": "https://cdn.discordapp.com/attachments/875762029166739476/875763489531101204/unknown.png"
+                                    }
+                                ],
+                                "pinned": false
+                            },
+                            {
+                                "username": "dalu - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/757052086528639027/f3d7514d820d4164eaa3a080c05585b4.webp",
+                                "content": "",
+                                "embeds": [],
+                                "files": [
+                                    {
+                                        "name": "Screenshot_20210813-103004.jpg",
+                                        "attachment": "https://cdn.discordapp.com/attachments/875762029166739476/875763219971571752/Screenshot_20210813-103004.jpg"
+                                    }
+                                ],
+                                "pinned": false
+                            },
+                            {
+                                "username": "basti128",
+                                "avatar": "https://cdn.discordapp.com/avatars/331914680358404097/f2d37f8d5c93797f34de324b4d808c88.webp",
+                                "content": "",
+                                "embeds": [],
+                                "files": [
+                                    {
+                                        "name": "unknown.png",
+                                        "attachment": "https://cdn.discordapp.com/attachments/875762029166739476/875763397810090054/unknown.png"
+                                    }
+                                ],
+                                "pinned": false
+                            },
+                            {
+                                "username": "dalu - Team Wumpus",
+                                "avatar": "https://cdn.discordapp.com/avatars/757052086528639027/f3d7514d820d4164eaa3a080c05585b4.webp",
+                                "content": "",
+                                "embeds": [],
+                                "files": [
+                                    {
+                                        "name": "Screenshot_20210813-103004.jpg",
+                                        "attachment": "https://cdn.discordapp.com/attachments/875762029166739476/875763255455404052/Screenshot_20210813-103004.jpg"
+                                    }
+                                ],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "°〘🌐〙sugerencias»",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "°〘💬〙Chats para socializar por primera vez alo vio»",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "°〘🛑〙spam»",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "°〘💬〙Chats para socializar por primera vez alo vio»",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false
+                    }
+                ]
+            }
+        ],
+        "others": [
+            {
+                "type": "text",
+                "name": "°〘🚷〙reglas»",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": 328769,
+                        "deny": 805500944
+                    }
+                ],
+                "messages": [
+                    {
+                        "username": "basti128",
+                        "avatar": "https://cdn.discordapp.com/avatars/331914680358404097/f2d37f8d5c93797f34de324b4d808c88.webp",
+                        "content": "deja las de arriba noma",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "basti128",
+                        "avatar": "https://cdn.discordapp.com/avatars/331914680358404097/f2d37f8d5c93797f34de324b4d808c88.webp",
+                        "content": "PERO LO ARREGLARE",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "basti128",
+                        "avatar": "https://cdn.discordapp.com/avatars/331914680358404097/f2d37f8d5c93797f34de324b4d808c88.webp",
+                        "content": "EL SERVER FUE RAIDEADO",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "basti128",
+                        "avatar": "https://cdn.discordapp.com/avatars/331914680358404097/f2d37f8d5c93797f34de324b4d808c88.webp",
+                        "content": "@everyone GENTE, NO SE SALGAN",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "El Violento",
+                        "avatar": "https://cdn.discordapp.com/avatars/860550486318645308/75472790e61ba2def8dc700770d6843e.webp",
+                        "content": "═══•◉•═════\n ▂▄▄▓▄▄▂\n ◢◤ █▀▀████▄▄▄▄◢◤\n █▄ █ ▄▄ ███▀▀▀▀▀▀▀╬\n ◥█████◤\n ═╩══╩═\n ╬═╬\n ╬═╬\n ╬═╬\n ╬═╬『 suban para mas』\n ╬═╬ \n ╬═╬ ●/ \n ╬═╬/▌\n ╬═╬/ |",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "El Violento",
+                        "avatar": "https://cdn.discordapp.com/avatars/860550486318645308/75472790e61ba2def8dc700770d6843e.webp",
+                        "content": "> **1.1- No se tolerarán insultos a ningún usuario, si bien, dependiendo del país una palabra significa una cosa u otra, se prohiben palabras cuya intención sea minimizar u ofender a alguien.**\n\n\n> **·1.2- Está prohibida la xenofobia (Discriminación por raza, género, sexualidad, por gustos personales, nivel en el servidor, etc). Al igual que términos que sean ofensivos a cualquier colectivo (Por ejemplo, nigger, autista, etc)**\n\n\n\n> **·1.3- Respetar el uso de cada canal así como su temática, incluye las normas de cada canal. Por ejemplo: Usar los bots en sus canales respectivos, o spoilers en lugares que no corresponden.**\n\n\n\n> **·1.5- No interrumpir otros usuarios en los canales de audio. Se comprende que haya un ligero retraso de conexión pero eso no justifica negarle el derecho a la palabra de otro usuario.**\n\n\n\n> **-1.6 Tratar bien a los demás. Somos una familia, y cada quien merece educación, si se presenta algún inconveniente que afecte esto, que no se dude en hacer reportes al Staff**",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "El Violento",
+                        "avatar": "https://cdn.discordapp.com/avatars/860550486318645308/75472790e61ba2def8dc700770d6843e.webp",
+                        "content": "➜ <:emoji_4:865645568767033365>  Reglas del servidor <:emoji_4:865645568767033365>☠︎︎\n\na continuación te presentaré las reglas de el servidor para que así esté todo moderado y que no tengas problema con ban o kick o mute y puedas tener paz\n\n\n\n╭・・・・・───══───・・・・・╮\n┊  ៸៸ No spam\n┊    ៸៸No insultar a nadie\n┊      ៸៸ No flod\n┊         ៸៸ No raid\n┊            ៸៸ No insultar a admins\n┊                ៸៸ No invitar a nadie por MD\n┊                  ៸៸ No mandar invitaciones\n┊                     ៸៸ No joder con apodos\n┊                       ៸៸ No ser de un servidor raid\n╰・・・・・───══───・・・・・╯\n╭┈˖roles de Moderación/admin☁︎︎───────────────\n┊ ✞ ➜ <@&865651532980289566> \n┊ ✞ ➜ @❥━⍚basti128⍚━♡ \n┊ ✞ ➜ @«⍚°━Admin━°⍚» \n╰┄───➤\n\n▬▬▬▬▬▬▬▬☦︎︎☠︎︎☦︎︎▬▬▬▬▬▬▬▬",
+                        "embeds": [],
+                        "files": [
+                            {
+                                "name": "color_seperater_thingy.gif",
+                                "attachment": "https://cdn.discordapp.com/attachments/862744055762386956/865931145984212992/color_seperater_thingy.gif"
+                            }
+                        ],
+                        "pinned": false
+                    },
+                    {
+                        "username": "El Violento",
+                        "avatar": "https://cdn.discordapp.com/avatars/860550486318645308/75472790e61ba2def8dc700770d6843e.webp",
+                        "content": "",
+                        "embeds": [],
+                        "files": [
+                            {
+                                "name": "color_seperater_thingy.gif",
+                                "attachment": "https://cdn.discordapp.com/attachments/862744055762386956/865930065266606110/color_seperater_thingy.gif"
+                            }
+                        ],
+                        "pinned": false
+                    }
+                ],
+                "isNews": false
+            },
+            {
+                "type": "text",
+                "name": "°〘📣〙anuncios»",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": 328769,
+                        "deny": 805500944
+                    }
+                ],
+                "messages": [
+                    {
+                        "username": "basti128",
+                        "avatar": "https://cdn.discordapp.com/avatars/331914680358404097/f2d37f8d5c93797f34de324b4d808c88.webp",
+                        "content": "@everyone",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Wumpus Gamer",
+                        "avatar": "https://cdn.discordapp.com/avatars/829721945921814548/760826716491f436b6cfbf4f5c2f343a.webp",
+                        "content": "",
+                        "embeds": [
+                            {
+                                "title": "**Aviso**",
+                                "type": "rich",
+                                "description": "**YA TODO VOLVIO A LA NORMALIDAD :)**",
+                                "url": null,
+                                "timestamp": "2021-08-13T15:38:02.146Z",
+                                "color": 1404277,
+                                "fields": [],
+                                "thumbnail": null,
+                                "image": null,
+                                "author": null,
+                                "footer": {
+                                    "text": "basti128 -plugins y mas",
+                                    "icon_url": "https://cdn.discordapp.com/icons/862744055762386954/e0648b9f64018913434e4d5edf3c7426.webp"
+                                }
+                            }
+                        ],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Only Reiiser",
+                        "avatar": "https://cdn.discordapp.com/avatars/704840796255551519/a_73362e9f3a0184372db0d5526fc36cb2.webp",
+                        "content": "._.",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "basti128",
+                        "avatar": "https://cdn.discordapp.com/avatars/331914680358404097/f2d37f8d5c93797f34de324b4d808c88.webp",
+                        "content": "soy yo xd",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "MEE6",
+                        "avatar": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.webp",
+                        "content": "GG @​Only Reiiser, you just advanced to level 1!",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Only Reiiser",
+                        "avatar": "https://cdn.discordapp.com/avatars/704840796255551519/a_73362e9f3a0184372db0d5526fc36cb2.webp",
+                        "content": "porque me mueven los canales xd",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "basti128",
+                        "avatar": "https://cdn.discordapp.com/avatars/331914680358404097/f2d37f8d5c93797f34de324b4d808c88.webp",
+                        "content": "gentee",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "basti128",
+                        "avatar": "https://cdn.discordapp.com/avatars/331914680358404097/f2d37f8d5c93797f34de324b4d808c88.webp",
+                        "content": "<@&865756038647906304>\nEsta semana estaré algo ocupado y no podré subir el server pre-configurado aún :(, me faltan algunas cosas, y la semana que viene es semana de pruebass, así que en esta semana solo tendrán 1 vídeo corto que será el de crafteos personalizados",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "El Violento",
+                        "avatar": "https://cdn.discordapp.com/avatars/860550486318645308/75472790e61ba2def8dc700770d6843e.webp",
+                        "content": "<:emoji_6:865645616839000074>",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "basti128",
+                        "avatar": "https://cdn.discordapp.com/avatars/331914680358404097/f2d37f8d5c93797f34de324b4d808c88.webp",
+                        "content": "<@&865756038647906304> el canal estará medio inactivo por unos días, ya que estaré haciendo el servidor Pre-Configurado en agradecímiento a los 500 subs, así que esta semana no habrá videos <:emoji_1:865645522492719133>",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "basti128",
+                        "avatar": "https://cdn.discordapp.com/avatars/331914680358404097/f2d37f8d5c93797f34de324b4d808c88.webp",
+                        "content": "<@&865756038647906304> 500 subs, gracias 😄",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "basti128",
+                        "avatar": "https://cdn.discordapp.com/avatars/331914680358404097/f2d37f8d5c93797f34de324b4d808c88.webp",
+                        "content": "Che, no hagas spam <:emoji_8:865645702045892609>",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "El Violento",
+                        "avatar": "https://cdn.discordapp.com/avatars/860550486318645308/75472790e61ba2def8dc700770d6843e.webp",
+                        "content": "<@&865756038647906304> pa esos que sepan costruir programar plugins etc diganme al md c creara un server",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "basti128",
+                        "avatar": "https://cdn.discordapp.com/avatars/331914680358404097/f2d37f8d5c93797f34de324b4d808c88.webp",
+                        "content": "@everyone \nQuiero recordar que si necesitan ayuda, Habrán un <#865642012128444416> para hablar conmigo o pidan ayuda en <#862744055762386961> para hablar con otros usuarios, pero NUNCA pasen cuentas de hostings a usuarios, ni si quiera a un administrador, ni hablen con otros usuarios al MD, porque pueden ser estafados",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "El Violento",
+                        "avatar": "https://cdn.discordapp.com/avatars/860550486318645308/75472790e61ba2def8dc700770d6843e.webp",
+                        "content": "<:emoji_1:865645496814665738>",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "basti128",
+                        "avatar": "https://cdn.discordapp.com/avatars/331914680358404097/f2d37f8d5c93797f34de324b4d808c88.webp",
+                        "content": "<:emoji_1:865645522492719133>",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "basti128",
+                        "avatar": "https://cdn.discordapp.com/avatars/331914680358404097/f2d37f8d5c93797f34de324b4d808c88.webp",
+                        "content": "<:emoji_6:865645616839000074>",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "El Violento",
+                        "avatar": "https://cdn.discordapp.com/avatars/860550486318645308/75472790e61ba2def8dc700770d6843e.webp",
+                        "content": "@everyone nueva actualización de server terminada roles canales configuraciones moderación y sistema",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "El Violento",
+                        "avatar": "https://cdn.discordapp.com/avatars/860550486318645308/75472790e61ba2def8dc700770d6843e.webp",
+                        "content": "@everyone pa esos que tienen un server y quieran programador de plugins constructor etc yo puedo ayudar gratis para que todos estén satisfechos por esta comunidad de ayuda",
+                        "embeds": [],
+                        "files": [
+                            {
+                                "name": "Screenshot_20210709-214556_Toolbox.jpg",
+                                "attachment": "https://cdn.discordapp.com/attachments/865645932468764693/866382129892818974/Screenshot_20210709-214556_Toolbox.jpg"
+                            }
+                        ],
+                        "pinned": false
+                    }
+                ],
+                "isNews": false
+            },
+            {
+                "type": "text",
+                "name": "°〘🗨〙encuestas»",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [],
+                "messages": [],
+                "isNews": false
+            },
+            {
+                "type": "text",
+                "name": "°〘🎟〙tickets»",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": 66561,
+                        "deny": 805763152
+                    }
+                ],
+                "messages": [],
+                "isNews": false
+            }
+        ]
+    },
+    "roles": [
+        {
+            "name": "❥━⍚basti128⍚━♡",
+            "color": "#da004e",
+            "hoist": true,
+            "permissions": 2147483647,
+            "mentionable": true,
+            "position": 44,
+            "isEveryone": false
+        },
+        {
+            "name": "basti128",
+            "color": "#ad1457",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 43,
+            "isEveryone": false
+        },
+        {
+            "name": "admi",
+            "color": "#25c059",
+            "hoist": true,
+            "permissions": 372768361,
+            "mentionable": true,
+            "position": 42,
+            "isEveryone": false
+        },
+        {
+            "name": "«⍚°━Admin━°⍚»",
+            "color": "#c89e00",
+            "hoist": true,
+            "permissions": 2146959103,
+            "mentionable": true,
+            "position": 41,
+            "isEveryone": false
+        },
+        {
+            "name": "Mee6",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 2147483391,
+            "mentionable": true,
+            "position": 40,
+            "isEveryone": false
+        },
+        {
+            "name": "new role",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 2147483647,
+            "mentionable": true,
+            "position": 39,
+            "isEveryone": false
+        },
+        {
+            "name": "〘💢〙ayudantes》",
+            "color": "#1edbaa",
+            "hoist": true,
+            "permissions": 104320577,
+            "mentionable": true,
+            "position": 31,
+            "isEveryone": false
+        },
+        {
+            "name": "〘👥〙Miembros》",
+            "color": "#650505",
+            "hoist": true,
+            "permissions": 104193601,
+            "mentionable": false,
+            "position": 29,
+            "isEveryone": false
+        },
+        {
+            "name": "SkullDead",
+            "color": "#b9bbbe",
+            "hoist": false,
+            "permissions": 8,
+            "mentionable": false,
+            "position": 27,
+            "isEveryone": false
+        },
+        {
+            "name": "⌜💀⌟  RaidS̷k̷u̷l̷l̷D̷e̷a̷d̷ᴾᵒᵂ",
+            "color": "#d41818",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 26,
+            "isEveryone": false
+        },
+        {
+            "name": "⌜💀⌟  RaidS̷k̷u̷l̷l̷D̷e̷a̷d̷ᴾᵒᵂ",
+            "color": "#d41818",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 25,
+            "isEveryone": false
+        },
+        {
+            "name": "⌜💀⌟  RaidS̷k̷u̷l̷l̷D̷e̷a̷d̷ᴾᵒᵂ",
+            "color": "#d41818",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 24,
+            "isEveryone": false
+        },
+        {
+            "name": "⌜💀⌟  RaidS̷k̷u̷l̷l̷D̷e̷a̷d̷ᴾᵒᵂ",
+            "color": "#d41818",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 23,
+            "isEveryone": false
+        },
+        {
+            "name": "⌜💀⌟  RaidS̷k̷u̷l̷l̷D̷e̷a̷d̷ᴾᵒᵂ",
+            "color": "#d41818",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 22,
+            "isEveryone": false
+        },
+        {
+            "name": "⌜💀⌟  RaidS̷k̷u̷l̷l̷D̷e̷a̷d̷ᴾᵒᵂ",
+            "color": "#d41818",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 21,
+            "isEveryone": false
+        },
+        {
+            "name": "⌜💀⌟  RaidS̷k̷u̷l̷l̷D̷e̷a̷d̷ᴾᵒᵂ",
+            "color": "#d41818",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 20,
+            "isEveryone": false
+        },
+        {
+            "name": "⌜💀⌟  RaidS̷k̷u̷l̷l̷D̷e̷a̷d̷ᴾᵒᵂ",
+            "color": "#d41818",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 19,
+            "isEveryone": false
+        },
+        {
+            "name": "⌜💀⌟  RaidS̷k̷u̷l̷l̷D̷e̷a̷d̷ᴾᵒᵂ",
+            "color": "#d41818",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 18,
+            "isEveryone": false
+        },
+        {
+            "name": "⌜💀⌟  RaidS̷k̷u̷l̷l̷D̷e̷a̷d̷ᴾᵒᵂ",
+            "color": "#d41818",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 17,
+            "isEveryone": false
+        },
+        {
+            "name": "⌜💀⌟  RaidS̷k̷u̷l̷l̷D̷e̷a̷d̷ᴾᵒᵂ",
+            "color": "#d41818",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 16,
+            "isEveryone": false
+        },
+        {
+            "name": "⌜💀⌟  RaidS̷k̷u̷l̷l̷D̷e̷a̷d̷ᴾᵒᵂ",
+            "color": "#d41818",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 15,
+            "isEveryone": false
+        },
+        {
+            "name": "⌜💀⌟  RaidS̷k̷u̷l̷l̷D̷e̷a̷d̷ᴾᵒᵂ",
+            "color": "#d41818",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 14,
+            "isEveryone": false
+        },
+        {
+            "name": "⌜💀⌟  RaidS̷k̷u̷l̷l̷D̷e̷a̷d̷ᴾᵒᵂ",
+            "color": "#d41818",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 13,
+            "isEveryone": false
+        },
+        {
+            "name": "⌜💀⌟  RaidS̷k̷u̷l̷l̷D̷e̷a̷d̷ᴾᵒᵂ",
+            "color": "#d41818",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 12,
+            "isEveryone": false
+        },
+        {
+            "name": "⌜💀⌟  RaidS̷k̷u̷l̷l̷D̷e̷a̷d̷ᴾᵒᵂ",
+            "color": "#d41818",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 11,
+            "isEveryone": false
+        },
+        {
+            "name": "⌜💀⌟  RaidS̷k̷u̷l̷l̷D̷e̷a̷d̷ᴾᵒᵂ",
+            "color": "#d41818",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 10,
+            "isEveryone": false
+        },
+        {
+            "name": "⌜💀⌟  RaidS̷k̷u̷l̷l̷D̷e̷a̷d̷ᴾᵒᵂ",
+            "color": "#d41818",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 9,
+            "isEveryone": false
+        },
+        {
+            "name": "⌜💀⌟  RaidS̷k̷u̷l̷l̷D̷e̷a̷d̷ᴾᵒᵂ",
+            "color": "#d41818",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 8,
+            "isEveryone": false
+        },
+        {
+            "name": "⌜💀⌟  RaidS̷k̷u̷l̷l̷D̷e̷a̷d̷ᴾᵒᵂ",
+            "color": "#d41818",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 7,
+            "isEveryone": false
+        },
+        {
+            "name": "⌜💀⌟  RaidS̷k̷u̷l̷l̷D̷e̷a̷d̷ᴾᵒᵂ",
+            "color": "#d41818",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 6,
+            "isEveryone": false
+        },
+        {
+            "name": "⌜💀⌟  RaidS̷k̷u̷l̷l̷D̷e̷a̷d̷ᴾᵒᵂ",
+            "color": "#d41818",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 5,
+            "isEveryone": false
+        },
+        {
+            "name": "⌜💀⌟  RaidS̷k̷u̷l̷l̷D̷e̷a̷d̷ᴾᵒᵂ",
+            "color": "#d41818",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 4,
+            "isEveryone": false
+        },
+        {
+            "name": "⌜💀⌟  RaidS̷k̷u̷l̷l̷D̷e̷a̷d̷ᴾᵒᵂ",
+            "color": "#d41818",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 3,
+            "isEveryone": false
+        },
+        {
+            "name": "⌜💀⌟  RaidS̷k̷u̷l̷l̷D̷e̷a̷d̷ᴾᵒᵂ",
+            "color": "#d41818",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 2,
+            "isEveryone": false
+        },
+        {
+            "name": "⌜💀⌟  RaidS̷k̷u̷l̷l̷D̷e̷a̷d̷ᴾᵒᵂ",
+            "color": "#d41818",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 1,
+            "isEveryone": false
+        },
+        {
+            "name": "@everyone",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 0,
+            "isEveryone": true
+        }
+    ],
+    "bans": [
+        {
+            "id": "841370022873006100",
+            "reason": null
+        },
+        {
+            "id": "866819982230683689",
+            "reason": null
+        },
+        {
+            "id": "867097348392091688",
+            "reason": "No reason given."
+        },
+        {
+            "id": "873289827297136711",
+            "reason": null
+        }
+    ],
+    "emojis": [
+        {
+            "name": "emoji_5",
+            "url": "https://cdn.discordapp.com/emojis/865645591525457960.gif"
+        },
+        {
+            "name": "emoji_6",
+            "url": "https://cdn.discordapp.com/emojis/865645616839000074.png"
+        },
+        {
+            "name": "emoji_6",
+            "url": "https://cdn.discordapp.com/emojis/865645642553622539.gif"
+        },
+        {
+            "name": "emoji_8",
+            "url": "https://cdn.discordapp.com/emojis/865645702045892609.png"
+        },
+        {
+            "name": "emoji_9",
+            "url": "https://cdn.discordapp.com/emojis/865645728532267029.gif"
+        },
+        {
+            "name": "emoji_9",
+            "url": "https://cdn.discordapp.com/emojis/865645758802559076.png"
+        },
+        {
+            "name": "emoji_11",
+            "url": "https://cdn.discordapp.com/emojis/875432837120155708.png"
+        },
+        {
+            "name": "emoji_12",
+            "url": "https://cdn.discordapp.com/emojis/875432863401644053.png"
+        },
+        {
+            "name": "emoji_13",
+            "url": "https://cdn.discordapp.com/emojis/875432887770550322.png"
+        },
+        {
+            "name": "emoji_14",
+            "url": "https://cdn.discordapp.com/emojis/875432908586909736.png"
+        }
+    ],
+    "createdTimestamp": 1628869179005,
+    "guildID": "862744055762386954",
+    "id": "875765553975918595",
+    "iconURL": "https://cdn.discordapp.com/icons/862744055762386954/e0648b9f64018913434e4d5edf3c7426.webp",
+    "splashURL": "https://cdn.discordapp.com/splashes/862744055762386954/79b8cb4210f60f80e21cefdec3184971.webp"
+}
